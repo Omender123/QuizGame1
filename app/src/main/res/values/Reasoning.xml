@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Reasoning_QuestionSet1">
+       <item> Q.1 Find the missing number in the given series 2, 7, 10, 22, 18, 37, 26, ? </item>
+        <item> Q.2 Look at this series: 544, 509, 474, 439, … What number should come next?</item>
+        <item>Q.3 Find the missing number in the given series 279936, 46656, 7776, 1296, 216, ?</item>
+        <item>Q.4 Look at this series: 201, 202, 204, 207, … What number should come next?</item>
+        <item>Q.5 Find the missing number in the given series 12, 38, 116, 350, 1052, ? </item>
+        <item>Q.6 Look at this series: 2, 4, 6, 8, 10, … What number should come next?</item>
+        <item>Q.7 Find the missing number in the given series 46080, 3840, 384, 48, 8, 2, ?</item>
+        <item>Q.8 Look at this series: 14, 28, 20, 40, 32, 64, … What number should come next?</item>
+        <item>Q.9 Find the missing number in the given series 5,28,57,88,125</item>
+        <item>Q.10 Look at this series: 1.5, 2.3, 3.1, 3.9, … What number should come next?</item>
+        <item>Q.11 Find the wrong number in the following series 13, 18, 25, 30, 37, 40</item>
+        <item>Q.12 Look at this series: 8, 6, 9, 23, 87 , … What number should come next?</item>
+        <item>Q.13 Look at this series: 2, 6, 18, 54, … What number should come next?</item>
+        <item>Q.14 Find the wrong number in the following series 15 46 63 71 75 77 78</item>
+        <item>Q.15 Look at this series: 5.2, 4.8, 4.4, 4, … What number should come next?</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_a1">
+        <item> 52</item>
+        <item> 414</item>
+        <item> 46</item>
+        <item> 208</item>
+        <item> 2200</item>
+        <item> 12</item>
+        <item> 1/64</item>
+        <item> 56</item>
+        <item> 147</item>
+        <item> 4.4</item>
+        <item> 30</item>
+        <item> 226</item>
+        <item> 148</item>
+        <item> 46</item>
+        <item> 3.3</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_b1">
+        <item> 42</item>
+        <item> 404</item>
+        <item> 60</item>
+        <item> 205</item>
+        <item> 1800</item>
+        <item> 11</item>
+        <item> 1</item>
+        <item> 52</item>
+        <item> 156</item>
+        <item> 4.2</item>
+        <item> 25</item>
+        <item> 128</item>
+        <item> 108</item>
+        <item> 15</item>
+        <item> 3</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_c1">
+        <item> 62</item>
+        <item> 445</item>
+        <item> 66</item>
+        <item> 211</item>
+        <item> 3158</item>
+        <item> 14</item>
+        <item> 2</item>
+        <item> 128</item>
+        <item> 186</item>
+        <item> 5.1</item>
+        <item> 40</item>
+        <item> 429</item>
+        <item> 216</item>
+        <item> 71</item>
+        <item> 3.6</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_d1">
+        <item> 46</item>
+        <item> 420</item>
+        <item> 36</item>
+        <item> 210</item>
+        <item> 2800</item>
+        <item> 13</item>
+        <item> 1/8</item>
+        <item> 96</item>
+        <item> 166</item>
+        <item> 4.7</item>
+        <item> 37</item>
+        <item> 324</item>
+        <item> 162</item>
+        <item> 63</item>
+        <item> 3.5</item>
+    </string-array>
+
+    <string-array name="Reasoning_answerSet1">
+        <item> 52</item>
+        <item> 404</item>
+        <item> 36</item>
+        <item> 211</item>
+        <item> 3158</item>
+        <item> 12</item>
+        <item> 1</item>
+        <item> 56</item>
+        <item> 166</item>
+        <item> 4.7</item>
+        <item> 40</item>
+        <item> 429</item>
+        <item> 162</item>
+        <item> 46</item>
+        <item> 3.6</item>
+    </string-array>
+
+    <string-array name="Reasoning_QuestionSet2">
+        <item>Q.1 P is Q’s brother, R is Q’s mother, S is R’s father, T is S’s mother. What is the relation of P with T?</item>
+        <item>Q.2 A is a mother of B, C is a son of A, D is a brother of E, E is a daughter of B, B is a brother of F, then D is a grandmother of –</item>
+        <item>Q.3 X is Y’s brother, Y is Z’s wife, Z is W’s son, W is V’s wife. What is the relation of V with Y ?</item>
+        <item>Q.4 A and B are sister, R and S are brothers, daughter of A is sister of R, then what is the relation of B with S?</item>
+        <item>Q.5 A said to B: “C is my father’s nephew. D is my uncle\' child, but not C’s brother.’’ What is the relation of D with C?</item>
+        <item>Q.6 E is a sister of B, A is a father of C, B is a son of C, then what is the relation of A with E?</item>
+        <item>Q.7 A man pointed a photograph and said to his friend: “She is the daughter of the only son of my father’s wife.’’ How the girl in the photograph is related to that person?</item>
+        <item>Q.8 A is a brother of B, C is father of D, E is a mother of B, A and D are brother, then what is the relation of E with C?</item>
+        <item>Q.9 ‘A’ is a brother of ‘B’ and ‘C’. ‘D’ is mother of ‘C’. ‘E’ is father of ‘A’, then which of the following is definitely not true?</item>
+        <item>Q.10 A is son of B, B and C are sisters, E is a mother of C, If D is a son of E, then which of the following statements is true?</item>
+        <item>Q.11 A woman introduced a boy and said: “His uncle (mama) and my uncle(mama) are brother of each other.’’ What is the relation of the woman with that boy?</item>
+        <item>Q.12 Vinod pointed Archana and told: “Her father is a son of my mother’s sister.’’ What is the relation of Archana with Vinod?</item>
+        <item>Q.13 C is nephew of A’s father. D is A’s cousin, but not C’s brother. How D is related to C?</item>
+        <item>Q.14 Mihir shows a picture and says: “His/her sister is a mother of my brother’s son Tushar.’’ How Mihir is related to Tushar?</item>
+        <item>Q.15 Juhi pointed Sanjay and said: “He is the husband of the only sister of my father’s wife’s son.’’ How Juhi is related to Sanjay?</item>
+        <item>Q.16 A man introduced a woman and told : “Her mother’s husband’s sister is my aunt (mousi).’’ What is the relation of that woman with the man?</item>
+        <item>Q.17 My mother showed me a photograph and said: “This beautiful lady’s husband is a son of your mother.’’ If I have not any brother, then what is my relation with the lady in photograph?</item>
+        <item>Q.18 Ravi pointed a picture of a girl and said: “Her mother’s brother is the only son of my mother’s father.’’ What is the relation of girl’s mother with Ravi?</item>
+        <item>Q.19 A is B’s daughter, B is C’s mother, D is C’s brother. What is the relation of D with A?</item>
+        <item>Q.20 A person introduced a lady and said "She is samdhan of the mother-in-law of the only daughter-in-law of my son’s grandmother." How that person is related to the lady?</item>
+        <item>Q.21 A is the son of B.C, B`s sister has a son D and a daughter E.F is the maternal uncle of D. How is E related to F?</item>
+        <item>Q.22 Rahul`s mother is the only daughter of Monika`s father. How is Monika`s husband related to Rahul?</item>
+        <item>Q.23 A is the son of B. C, B`s sister has a son D and a daughter E. F is the maternal uncle of D. How is A related to D?</item>
+        <item>Q.24 Q`s mother is sister of P and daughter of M. S is daughter of P and sister of T. How is M related to T?</item>
+       <item>Q.25 Deepak is brother of Ravi. Rekha is sister of Atul. Ravi is son of Rekha. How is Deepak related to Rekha?</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_a2">
+        <item> Grand daughter</item>
+        <item> A</item>
+        <item> Mother-in-law</item>
+        <item> Mother</item>
+        <item> Mother</item>
+        <item> Grandfather</item>
+        <item> Daughter</item>
+        <item> Sister</item>
+        <item> B is E’s son</item>
+        <item> D is an uncle (mama) of A</item>
+        <item> Aunt (Chachi)</item>
+        <item> Niece</item>
+        <item> Father</item>
+        <item> Brother</item>
+        <item> Wife</item>
+        <item> Aunt (Chachi)</item>
+        <item> Brother-Sister</item>
+        <item> Mother</item>
+        <item> Father</item>
+        <item> Son</item>
+        <item> Daughter</item>
+        <item> Father</item>
+        <item> Nephew</item>
+        <item> Father</item>
+        <item> Brother</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_b2">
+        <item> Great Grandson</item>
+        <item> B</item>
+        <item> Brother-in-law</item>
+        <item> Grandmother</item>
+        <item> Sister</item>
+        <item> Granddaughter</item>
+        <item> Cousin Sister</item>
+        <item> Sister-in-law</item>
+        <item> E is B’s father</item>
+        <item> E is a brother of B</item>
+        <item> Mother</item>
+        <item> Brother</item>
+        <item> Sister</item>
+        <item> Uncle</item>
+        <item> Mother</item>
+        <item> Mother</item>
+        <item> Jija-Sali</item>
+        <item> Aunt</item>
+        <item> Grandfather</item>
+        <item> Son-in-law</item>
+        <item> Sister</item>
+        <item> Uncle</item>
+        <item> Cousin</item>
+        <item> Grandmother</item>
+        <item> Son</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_c2">
+        <item> Grand son</item>
+        <item> C</item>
+        <item> Father-in-law</item>
+        <item> Sister</item>
+        <item> Brother</item>
+        <item> Father</item>
+        <item> Mother</item>
+        <item> Nieces</item>
+        <item> E is D’s husband</item>
+        <item> D is a maternal cousin of A</item>
+        <item> Grandmother</item>
+        <item> Cousin</item>
+        <item> Mother</item>
+        <item> Nephew</item>
+        <item> Aunt (Mousi)</item>
+        <item> Paternal Cousin Sister</item>
+        <item> Husband</item>
+        <item> Mother/Aunt</item>
+        <item> Brother</item>
+        <item> Brother</item>
+        <item> Wife</item>
+        <item> Brother</item>
+        <item> Brother</item>
+        <item> Grandfather or Grandmother</item>
+        <item> Sister</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_d2">
+        <item> Grand mother</item>
+        <item> D</item>
+        <item> Son-in-law</item>
+        <item> Aunt</item>
+        <item> Father</item>
+        <item> Great Grandfather</item>
+        <item> Sister</item>
+        <item> Wife</item>
+        <item> A is D’s son.</item>
+        <item> B and D are brothers</item>
+        <item> Sister-in-law (Bhabhi)</item>
+        <item> Grandfather</item>
+        <item> Aunt (chachi)</item>
+        <item> Brother-in-law</item>
+        <item> Sister-in-law</item>
+        <item> Maternal Cousin Sister</item>
+        <item> Devar-Bhabhi</item>
+        <item> None of these</item>
+        <item> Son</item>
+        <item> Husband</item>
+        <item> Niece</item>
+        <item> Grandfather</item>
+        <item> Uncle</item>
+        <item> Grandfather</item>
+        <item> anti</item>
+    </string-array>
+
+    <string-array name="Reasoning_answerSet2">
+        <item> Great Grandson</item>
+        <item> A</item>
+        <item> Father-in-law</item>
+        <item> Aunt</item>
+        <item> Sister</item>
+        <item> Grandfather</item>
+        <item> Daughter</item>
+        <item> Wife</item>
+        <item> B is E’s son</item>
+        <item> D is an uncle (mama) of A</item>
+        <item> Mother</item>
+        <item> Niece</item>
+        <item> Sister</item>
+        <item> Uncle</item>
+        <item> Wife</item>
+        <item> Maternal Cousin Sister</item>
+        <item> Husband</item>
+        <item> Mother/Aunt</item>
+        <item> Brother</item>
+        <item> Son-in-law</item>
+        <item> Niece</item>
+        <item> Father</item>
+        <item> Cousin</item>
+        <item> Grandmother</item>
+        <item> Son</item>
+    </string-array>
+
+    <string-array name="Reasoning_QuestionSet3">
+        <item>Q.1 Which one does not belong to the group?</item>
+        <item>Q.2 Which one does not belong to the group?</item>
+        <item>Q.3 Which one does not belong to the group?</item>
+        <item>Q.4 Which one does not belong to the group?</item>
+        <item>Q.5 Which one does not belong to the group?</item>
+        <item>Q.6 Which one does not belong to the group?</item>
+        <item>Q.7 Which one does not belong to the group?</item>
+        <item>Q.8 Which one does not belong to the group?</item>
+        <item>Q.9 Which one does not belong to the group?</item>
+        <item>Q.10 Which one does not belong to the group?</item>
+        <item>Q.11 Which one does not belong to the group?</item>
+        <item>Q.12 Which one does not belong to the group?</item>
+        <item>Q.13 Which one does not belong to the group?</item>
+        <item>Q.14 Which one does not belong to the group?</item>
+        <item>Q.15 Which one does not belong to the group?</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_a3">
+        <item> 326</item>
+        <item> 84</item>
+        <item> 20–10</item>
+        <item> 27</item>
+        <item> 7324</item>
+        <item> 96</item>
+        <item> 16–24</item>
+        <item> 123</item>
+        <item> 64 – 8</item>
+        <item> 9</item>
+        <item> 39</item>
+        <item> 19</item>
+        <item> 34, 4, 8</item>
+        <item> 5</item>
+        <item> 161</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_b3">
+        <item> 248</item>
+        <item> 63</item>
+        <item> 15–12</item>
+        <item> 39</item>
+        <item> 9611</item>
+        <item> 72</item>
+        <item> 19–27</item>
+        <item> 119</item>
+        <item> 80 – 9</item>
+        <item> 25</item>
+        <item> 21</item>
+        <item> 17</item>
+        <item> 22, 4, 5</item>
+        <item> 3</item>
+        <item> 115</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_c3">
+        <item> 392</item>
+        <item> 98</item>
+        <item> 45–27</item>
+        <item> 42</item>
+        <item> 1754</item>
+        <item> 28</item>
+        <item> 13–21</item>
+        <item> 133</item>
+        <item> 7 – 49</item>
+        <item> 16</item>
+        <item> 83</item>
+        <item> 29</item>
+        <item> 54, 4, 13</item>
+        <item> 13</item>
+        <item> 391</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_d3">
+        <item> 414</item>
+        <item> 65</item>
+        <item> 30–18</item>
+        <item> 48</item>
+        <item> 2690</item>
+        <item> 82</item>
+        <item> 15–23</item>
+        <item> 143</item>
+        <item> 36 – 6</item>
+        <item> 8</item>
+        <item> 51</item>
+        <item> 27</item>
+        <item> 37, 4, 9</item>
+        <item> 9</item>
+        <item> 345</item>
+    </string-array>
+
+    <string-array name="Reasoning_answerSet3">
+        <item> 392</item>
+        <item> 65</item>
+        <item> 20–10</item>
+        <item> 27</item>
+        <item> 7324</item>
+        <item> 82</item>
+        <item> 16–24</item>
+        <item> 119</item>
+        <item> 80 – 9</item>
+        <item> 8</item>
+        <item> 83</item>
+        <item> 27</item>
+        <item> 37, 4, 9</item>
+        <item> 9</item>
+        <item> 345</item>
+    </string-array>
+
+    <string-array name="Reasoning_QuestionSet4">
+        <item>Q.1 If REQUEST is written as S2R52TU, then how will ACID be written?</item>
+        <item>Q.2 If each of the letters in the English alphabet is assigned odd numerical value beginning A = 1, B = 3 and so on, what will be the total value of the letters of the word INDIAN?</item>
+        <item>Q.3 In a certain code, the word DEAL is coded as 4 – 5 – 1 – 12. Following the same rule of coding, what should e the code for the word LADY?</item>
+        <item>Q.4 If A = 2, M = 26, Z = 52, then BET = ?</item>
+        <item>Q.5 If A = 26, SUN = 27, then CAT =?</item>
+        <item>Q.6 If in a certain code, BAT = 23 and CAT = 24, then how will you code BALL?</item>
+        <item>Q.7 If GO = 32, SHE = 49, then SOME will be equal to</item>
+        <item>Q.8 If AT = 20, BAT = 40, then CAT will be equal to</item>
+        <item>Q.9 If ZIP = 198 and ZAP = 246, then how will you code VIP?</item>
+        <item>Q.10 DEER = 12215 and HIGH = 5654, how will you code HEEL?</item>
+        <item>Q.11 In a certain code language, ‘123’ means ‘bright little boy’, ‘145’ means ‘tall big boy’ and ‘637’ means ‘beautiful little flower’. Which digit in that language means ‘bright’?</item>
+        <item>Q.12 In a certain language ‘go for morning walk’ is written as ‘$*?#’,  ‘good for health’ is written as ‘£?@’ and ‘good to walk fast’ is written as ‘+@↑#’, then what is the code for ‘health’ in that code language?</item>
+        <item>Q.13 In a certain code language ‘Pen pencil’ is written as ‘$£’, ‘eraser sharpener’ is written as ‘@#’ and ‘pencil eraser’ is written ‘$@’. Then, what is the code for ‘pen’ ?</item>
+        <item>Q.14 In a certain code, ‘786’ means ‘study very hard’ ‘958’ means ‘hard work pays’ and ‘645’ means ‘study and work’. Which of the following is the code for ‘very’?</item>
+        <item>Q.15 In a certain code language ‘123’ means ‘hot filtered coffee’. ‘356’ means ‘very hot day’ and ‘589’ means ‘day and night’. Which digit stands for ‘very’?</item>
+        <item>Q.16 In a certain code language, ‘234’ means ‘spark and fire’, ‘456’ means ‘spark is cause’ and ‘258’ means ‘fire is effect’. Which of the following numerals is used for ‘cause’?</item>
+        <item>Q.17 In a certain code language, ‘253’ means ‘book are old’, ‘546’ means ‘man’ is old’ and ‘378’ means ‘buy good books’. What stands for ‘are’ in that code ?</item>
+        <item>Q.18 In a certain code, ‘467’ means ‘leaves are green’, ‘485’ means ‘green is good’ and ‘639’ means ‘they are playing’. Which digit stands for ‘leaves’ in that code?</item>
+        <item>Q.19 In a certain code language, ‘134’ means ‘good and tasty’, ‘478’ means ‘see good pictures’ and ‘729’ means ‘picture are faint’. Which of the following digits stands for ‘see’?</item>
+        <item>Q.20 In a certain code language ‘3a, 2b, 7c’ means ‘truth is eternal’; ‘7c, 9a, 8b, 3a’ means ‘enmity is not eternal’ and ‘9a, 4d, 2b, 8b’ means ‘truth does not perish’. Which of the following means ‘enmity’ in that language?</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_a4">
+        <item> 1394</item>
+        <item> 86</item>
+        <item> 12 – 4 – 1 – 25</item>
+        <item> 44</item>
+        <item> 24</item>
+        <item> 27</item>
+        <item> 56</item>
+        <item> 30</item>
+        <item> 174</item>
+        <item> 2328</item>
+        <item> 1</item>
+        <item> +</item>
+        <item> #</item>
+        <item> 8</item>
+        <item> 9</item>
+        <item> 3</item>
+        <item> 2</item>
+        <item> 4</item>
+        <item> 9</item>
+        <item> 3a</item>
+   </string-array>
+
+    <string-array name="Reasoning_option_b4">
+        <item> IC94</item>
+        <item> 88</item>
+        <item> 12 – 1 – 4 – 25</item>
+        <item> 54</item>
+        <item> 27</item>
+        <item> 28</item>
+        <item> 58</item>
+        <item> 50</item>
+        <item> 222</item>
+        <item> 3449</item>
+        <item> 2</item>
+        <item> #</item>
+        <item> $</item>
+        <item> 6</item>
+        <item> 5</item>
+        <item> 4</item>
+        <item> 4</item>
+        <item> 6</item>
+        <item> 2</item>
+        <item> 7c</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_c4">
+        <item> BDJE</item>
+        <item> 89</item>
+        <item> 10 – 1 – 4 – 23</item>
+        <item> 64</item>
+        <item> 32</item>
+        <item> 32</item>
+        <item> 62</item>
+        <item> 60</item>
+        <item> 888</item>
+        <item> 4337</item>
+        <item> 3</item>
+        <item> £</item>
+        <item> "@"</item>
+        <item> 7</item>
+        <item> 8</item>
+        <item> 5</item>
+        <item> 5</item>
+        <item> 7</item>
+        <item> 1</item>
+        <item> 8b</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_d4">
+        <item> None of these</item>
+        <item> 96</item>
+        <item> 12 – 1 – 4 – 22</item>
+        <item> 72</item>
+        <item> 120</item>
+        <item> 120</item>
+        <item> 64</item>
+        <item> 70</item>
+        <item> 990</item>
+        <item> 5229</item>
+        <item> 4</item>
+        <item> "?"</item>
+        <item> £</item>
+        <item> Cannot be determined</item>
+        <item> 6</item>
+        <item> 6</item>
+        <item> 6</item>
+        <item> 3</item>
+        <item> 8</item>
+        <item> 9a</item>
+    </string-array>
+
+    <string-array name="Reasoning_answerSet4">
+        <item> None of these</item>
+        <item> 96</item>
+        <item> 12 – 1 – 4 – 25</item>
+        <item> 54</item>
+        <item> 32</item>
+        <item> 27</item>
+        <item> 56</item>
+        <item> 60</item>
+        <item> 222</item>
+        <item> 5229</item>
+        <item> 2</item>
+        <item> £</item>
+        <item> £</item>
+        <item> 7</item>
+        <item> 6</item>
+        <item> 6</item>
+        <item> 2</item>
+        <item> 7</item>
+        <item> 8</item>
+        <item> 8b</item>
+    </string-array>
+
+    <string-array name="Reasoning_QuestionSet5">
+       <item> Q.1 1. Rain 2. Vaporization 3. Water 4. Condensation 5. Clouds</item>
+        <item> Q.2 1. Digestion 2. Cooking 3. Chewing 4. Swallowing 5. Testing</item>
+        <item>Q.3 1. Plant 2. Food 3. Seed 4. Leaf 5. Flower</item>
+        <item>Q.4 1. Book 2. Pulp 3. Wood Stilt 4. Forest 5. Paper</item>
+        <item>Q.5 1. Accident 2. Judge 3. Doctor 4. Advocate 5. Police</item>
+        <item>Q.6 1. Rock 2. Hill 3. Mountain 4. Ranges 5. Stone</item>
+        <item>Q.7 1. Birth 2. Death 3. Burials 4. Marriage 5. Education</item>
+        <item>Q.8 1. Adult 2. Kid 3. Infant 4. Child 5. Young</item>
+        <item>Q.9 1. Seed 2. Flower 3. Soil 4. Plant 5. Fruit</item>
+        <item>Q.10 1. Pulp 2. Printing 3. Paper 4. Purchase 5. Publication</item>
+        <item>Q.11 If 72 x 96 = 6927, 58 x 87 = 7885, then 79 x 86 = ?</item>
+        <item>Q.12 3,5, 9,17,33</item>
+        <item>Q.13 Look at this series: 36, 34, 30, 28, 24, … What number should come next?</item>
+        <item>Q.14 If 11 (170)16, 11(203)19, then value of 17(?)18 will be –</item>
+        <item>Q.15 6,5,24,25,144,(?)</item>
+        <item>Q.16 Look at this series: 22, 21, 23, 22, 24, 23, … What number should come next?</item>
+        <item>Q.17 a= 12 (390) 8, b = 7 (134) 5, c = 5 (?) 12</item>
+        <item>Q.18 Look at this series: 7, 10, 8, 11, 9, 12, … What number should come next?</item>
+        <item>Q.19 If 13 x 12 = 651 and 41 x 23 = 448, then, 24 x 22 =?</item>
+        <item>Q.20 Look at this series: 53, 53, 40, 40, 27, 27, … What number should come next?</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_a5">
+        <item> 1, 3, 2, 4, 5</item>
+        <item> 5, 2, 3, 4, 1</item>
+        <item> 1, 3, 4, 5, 2</item>
+        <item> 3, 2, 5, 1, 4</item>
+        <item> 1, 3, 4, 2, 5</item>
+        <item> 1, 3, 4, 2, 5</item>
+        <item> 1, 3, 4, 5, 2</item>
+        <item> 1, 3, 4, 5, 2</item>
+        <item> 4, 2, 5, 1, 3</item>
+        <item> 1, 3, 2, 5, 4</item>
+        <item> 7689</item>
+        <item> 44</item>
+        <item> 20</item>
+        <item> 200</item>
+        <item> 155</item>
+        <item> 22</item>
+        <item> 299</item>
+        <item> 7</item>
+        <item> 504</item>
+        <item> 12</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_b5">
+        <item> 3, 2, 4, 5, 1</item>
+        <item> 2, 5, 3, 4, 1</item>
+        <item> 3, 1, 4, 5, 2</item>
+        <item> 2, 5, 1, 4, 3</item>
+        <item> 1, 3, 5, 4, 2</item>
+        <item> 5, 1, 2, 3, 4</item>
+        <item> 4, 5, 3, 1, 2</item>
+        <item> 3, 2, 4, 5, 1</item>
+        <item> 2, 5, 4, 1, 3</item>
+        <item> 1, 4, 5, 2, 3</item>
+        <item>  8976</item>
+        <item> 65</item>
+        <item> 22</item>
+        <item> 300</item>
+        <item> 160</item>
+        <item> 24</item>
+        <item> 289</item>
+        <item> 10</item>
+        <item> 46</item>
+        <item> 14</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_c5">
+        <item> 3, 2, 5, 4, 1</item>
+        <item> 3, 5, 2, 4, 1</item>
+        <item> 3, 2, 4, 5, 1</item>
+        <item> 4, 3, 2, 5, 1</item>
+        <item> 1, 2, 3, 4, 5</item>
+        <item> 4, 3, 2, 5, 1</item>
+        <item> 1, 5, 4, 2, 3</item>
+        <item> 2, 3, 5, 4, 1</item>
+        <item> 3, 2, 1, 5, 4</item>
+        <item> 1, 2, 3, 5, 4</item>
+        <item>  6897</item>
+        <item> 64</item>
+        <item> 23</item>
+        <item> 400</item>
+        <item> 170</item>
+        <item> 25</item>
+        <item> 279</item>
+        <item> 12</item>
+        <item> 524</item>
+        <item> 27</item>
+    </string-array>
+
+    <string-array name="Reasoning_option_d5">
+        <item> 2, 3, 5, 4, 1</item>
+        <item> 2, 5, 4, 3, 1</item>
+        <item> 5, 4, 3, 2, 1</item>
+        <item> 5, 4, 3, 1, 2</item>
+        <item> 1, 2, 5, 4, 3</item>
+        <item> 5, 2, 3, 4, 1</item>
+        <item> 2, 3, 4, 5, 1</item>
+        <item> 2, 3, 4, 1, 5</item>
+        <item> 3, 1, 4, 2, 5</item>
+        <item> 1, 5, 4, 2, 3</item>
+        <item> 6978</item>
+        <item> 49</item>
+        <item> 26</item>
+        <item> None of these</item>
+        <item> 175</item>
+        <item> 26</item>
+        <item> 280</item>
+        <item> 13</item>
+        <item> 924</item>
+        <item> 53</item>
+    </string-array>
+
+    <string-array name="Reasoning_answerSet5">
+        <item> 3, 2, 5, 4, 1</item>
+        <item> 2, 5, 3, 4, 1</item>
+        <item> 3, 1, 4, 5, 2</item>
+        <item> 4, 3, 2, 5, 1</item>
+        <item> 1, 3, 5, 4, 2</item>
+        <item> 5, 1, 2, 3, 4</item>
+        <item> 1, 5, 4, 2, 3</item>
+        <item> 3, 2, 4, 5, 1</item>
+        <item> 3, 1, 4, 2, 5</item>
+        <item> 1, 3, 2, 5, 4</item>
+        <item>  6897</item>
+        <item> 65</item>
+        <item> 22</item>
+        <item> 300</item>
+        <item> 175</item>
+        <item> 25</item>
+        <item> 279</item>
+        <item> 10</item>
+        <item> 924</item>
+        <item> 14</item>
+    </string-array>
+
+</resources>

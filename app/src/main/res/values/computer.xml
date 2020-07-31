@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="basic_QuestionSet1">
+        <item>   Q.1. Which is the part of the computer system that one can physically touch?</item>
+        <item>Q.2. A ………. is an electronic device that process data, converting it into information.</item>
+        <item>  Q.3. IC chips used in computers are usually made of</item>
+        <item>  Q.4. Which of the following is not an example of an Operating System?</item>
+        <item>Q.5. One Gigabyte is approximately equal is:</item>
+        <item>  Q.6. Compact discs, (according to the original CD specifications) hold how many minutes of music?</item>
+        <item>  Q.7. Which of the following is not an input device?</item>
+        <item>  Q.8. What type of process creates a smaller file that is faster to transfer over the internet?</item>
+        <item>  Q.9. Which of the following is used to Manage DataBase?</item>
+        <item>  Q.10. Which of the following is an example of non-volatile memory?</item>
+        <item>  Q.11.File extensions are used in order to ……….</item>
+        <item>  Q.12.here are …………. parts to a computer system.</item>
+        <item>  Q.13.During the ………… portion of the Information Processing Cycle, the computer acquires data from some source.</item>
+        <item>  Q.14.bit stands for</item>
+        <item>  Q.15.Which one of the following is different from other members?</item>
+        <item>  Q.16.The hexadecimal number system consists of the symbols</item>
+        <item>  Q.17. 1 GB is equal to </item>
+        <item>  Q.18.A microprocessor unit, a memory unit, and an input/output unit form a </item>
+        <item>  Q.19.Process to exit from computer by giving correct instructions such as EXIT is classified as</item>
+        <item>  Q.20.Function of running and loading programs by use of peripherals is function of</item>
+        <item>  Q.21.An assembler is</item>
+        <item>  Q.22.Which amongst the following is not an advantage of Distributed systems?</item>
+        <item>  Q.23.The term page traffic describes</item>
+        <item>  Q.24.Assembler is</item>
+        <item>  Q.25 An interpreter is</item>
+        <item>  Q.26.How many buses are connected as part of the 8085 microprocessor?</item>
+        <item>  Q.27. How many bits are used in the data bus?</item>
+        <item>  Q.28. What would you do to highlight a word? You position the cursor next to the word, and then</item>
+        <item>  Q.29. Reusable optical storage will typically have the acronym ………..</item>
+        <item>  Q.30..……………. is processed by the computer into information.</item>
+        <item>  Q.31. One kilobyte is equal to</item>
+        <item>  Q.32. Which supercomputer is developed by the Indian Scientists?</item>
+        <item>  Q.33. In binary code, the number 7 is written as </item>
+        <item>  Q.34. In which generation of computers, transistors were used?</item>
+        <item>  Q.35. ALU stands for?</item>
+        <item>  Q.36. The term Pentium is related to </item>
+        <item>  Q.37. Which of the following is the most powerful type of computer?</item>
+        <item>  Q.38.The most common type of storage devices are ………….</item>
+        <item>  Q.39.The ………… tells the computer how to use its components.</item>
+        <item>  Q.40.Which one of the following is not a linear data structure?</item>
+        <item>  Q.41.Where does a computer add and compare its data?</item>
+        <item>  Q.42.Which one of the following is not an Internet Service Provider (ISP)?</item>
+        <item>  Q.43.The binary equivalent of (–15)10 is (2s complement system is used)</item>
+        <item>  Q.44.The set of computer programs that manage the hardware/software of a computer is called</item>
+        <item>  Q.45. Program which is readily available for computer users as a part of software package is classified as</item>
+        <item>  Q.46.Set of software authorized to a specific user is considered as</item>
+        <item> Q.47. If program can cope data errors, such program can be termed as</item>
+        <item> Q.48.Which of the following is not a fundamental process state</item>
+        <item>Q.49. Which of the following is true?</item>
+        <item>   Q.50. Which of the following loader is executed when a system is first turned on or restarted</item>
+        <item>   Q.51.Storage mapping is done by</item>
+        <item>Q.52.Forward reference table(FRT) is arranged like  </item>
+        <item> Q.53. Worldwide web was proposed by </item>
+        <item> Q.54.Which of the following derivation a top-down parser use while parsing an input string? The input is assumed to be scanned in left to right order?</item>
+       <item>Q.55. Which of the following is not a computer bus?</item>
+    </string-array>
+
+    <string-array name="option_a">
+        <item> data</item>
+        <item> computer</item>
+        <item> Lead</item>
+        <item> Windows 98</item>
+        <item> 1000,000 bytes</item>
+        <item> 74 mins</item>
+        <item> Mouse</item>
+        <item> Compression</item>
+        <item> Operating System</item>
+        <item> Cache memory</item>
+        <item> Name the file</item>
+        <item> 2</item>
+        <item> processing</item>
+        <item> binary information term</item>
+        <item> Google</item>
+        <item> 0 – 7</item>
+        <item> 230 bits</item>
+        <item> CPU</item>
+        <item> log in</item>
+        <item> operating system</item>
+        <item> Programming language-dependent</item>
+        <item> Reliability</item>
+        <item> Number of pages in memory at a given instant.</item>
+        <item> A program that places programs into memory an prepares them for execution</item>
+        <item> A program that places programs into memory an prepares them for execution</item>
+        <item> 2</item>
+        <item> 7</item>
+        <item> Drag mouse while holding button down</item>
+        <item> CD</item>
+        <item> Data</item>
+        <item> 1000 bytes</item>
+        <item> Param</item>
+        <item> 110</item>
+        <item> First</item>
+        <item> Arithmetic Long Unit</item>
+        <item> DVD</item>
+        <item> Super-micro</item>
+        <item> persistent</item>
+        <item> utility</item>
+        <item> Array</item>
+        <item> CPU</item>
+        <item> MTNL</item>
+        <item> 11110001</item>
+        <item> Compiler system</item>
+        <item> library program</item>
+        <item> software library</item>
+        <item> robust</item>
+        <item> Ready</item>
+        <item> Block cipher technique is an encryption technique</item>
+        <item> Bootloader</item>
+        <item> Linker</item>
+        <item> Stack</item>
+        <item> Bill Gates</item>
+        <item> Leftmost derivation</item>
+        <item> data bus</item>
+    </string-array>
+
+    <string-array name="option_b">
+        <item> operating systems</item>
+        <item> processor</item>
+        <item> Silicon</item>
+        <item> BSD Unix</item>
+        <item> 1000,000,000 bytes</item>
+        <item> 90 mins</item>
+        <item> Light pen</item>
+        <item> Fragmentation</item>
+        <item> Compiler</item>
+        <item> RAM</item>
+        <item> Ensure the filename is not lost</item>
+        <item> 4</item>
+        <item> storage</item>
+        <item> binary digit</item>
+        <item> Windows</item>
+        <item> 0 – 9 , A – F</item>
+        <item> 230 bytes</item>
+        <item> compiler</item>
+        <item> process out</item>
+        <item> inquiry system</item>
+        <item> Syntax dependent.</item>
+        <item> Incremental growth</item>
+        <item> Number of papers required to be brought in at a given page request.</item>
+        <item> Is a program that appears to execute a source program as if it were machine language</item>
+        <item> A program that appears to execute a source program as if it were machine language</item>
+        <item> 3</item>
+        <item> 8</item>
+        <item> Click mouse once</item>
+        <item> DVD</item>
+        <item> Numbers</item>
+        <item> 100 bytes</item>
+        <item> Super 301</item>
+        <item> 111</item>
+        <item> Second</item>
+        <item> All Longer Units</item>
+        <item> Hard Disk</item>
+        <item> Super Computer</item>
+        <item> optical</item>
+        <item> network</item>
+        <item> Binary Tree</item>
+        <item> Memory</item>
+        <item> BSNL</item>
+        <item> 11110000</item>
+        <item> Operation system</item>
+        <item> program library</item>
+        <item> program library</item>
+        <item> reliable</item>
+        <item> Terminated</item>
+        <item> Steam cipher technique is an encryption technique.</item>
+        <item> Compile and Go loader</item>
+        <item> Compiler</item>
+        <item> Queue</item>
+        <item> Bill Rogers</item>
+        <item> Rightmost derivation</item>
+        <item> timer bus</item>
+    </string-array>
+
+    <string-array name="option_c">
+        <item> hardware</item>
+        <item> case</item>
+        <item> Chromium</item>
+        <item> Microsoft Office XP</item>
+        <item> 1000,000,000,000 bytes</item>
+        <item> 56 mins</item>
+        <item> Keyboard</item>
+        <item> Encapsulation</item>
+        <item> DBMS</item>
+        <item> ROM</item>
+        <item> Identify the file</item>
+        <item> 16</item>
+        <item> input</item>
+        <item> binary tree</item>
+        <item> Linux</item>
+        <item> 0 – 7, A – F</item>
+        <item> 220 bits</item>
+        <item> microcomputer</item>
+        <item> process in</item>
+        <item> dump programs</item>
+        <item> Machine dependent.</item>
+        <item> Resource sharing</item>
+        <item> The movement of pages in and out of memory.</item>
+        <item> A program that automates the translation of assembly language into machine language</item>
+        <item> A program that automates the translation of assembly language into machine language</item>
+        <item> 5</item>
+        <item> 9</item>
+        <item> Roll and then click mouse</item>
+        <item> ROM</item>
+        <item> Alphabets</item>
+        <item> 1024 bytes</item>
+        <item> Compaq Presario</item>
+        <item> 101</item>
+        <item> Third</item>
+        <item> Around Logical Units</item>
+        <item> Microprocessor</item>
+        <item> Micro Computer</item>
+        <item> magnetic</item>
+        <item> operating system</item>
+        <item> Queue</item>
+        <item> Hard disk</item>
+        <item> ERNET India</item>
+        <item> 10001111</item>
+        <item> Operating system</item>
+        <item> software library</item>
+        <item> directory library</item>
+        <item> unreliable</item>
+        <item> Executing</item>
+        <item> Both a and b </item>
+        <item> Bootstrap loader</item>
+        <item> Loader</item>
+        <item> Linked list</item>
+        <item> Tim Berners Lee</item>
+        <item> Leftmost derivation traced out in reverse</item>
+        <item> control bus</item>
+    </string-array>
+
+    <string-array name="option_d">
+        <item> software</item>
+        <item> stylus</item>
+        <item> Gold</item>
+        <item> Red Hat Linux</item>
+        <item> None of these</item>
+        <item> 60 mins</item>
+        <item> VDU</item>
+        <item> None of the above</item>
+        <item> None of the above</item>
+        <item> None of the above</item>
+        <item> Identify the file type</item>
+        <item> 100</item>
+        <item> output</item>
+        <item> Bivariate Theory</item>
+        <item> Mac</item>
+        <item> None of these</item>
+        <item> 220 bytes</item>
+        <item> ALU</item>
+        <item> log out</item>
+        <item> function system</item>
+        <item> Data dependent.</item>
+        <item> None of the above</item>
+        <item> Number of pages of executing programs loaded in memory.</item>
+        <item> A program that accepts a program written in high-level language and produces an object program</item>
+        <item> A program that accepts a program written in high-level language and produces an object program</item>
+        <item> 8</item>
+        <item> 16</item>
+        <item> None of these</item>
+        <item> RW</item>
+        <item> Pictures</item>
+        <item> 1023 bytes</item>
+        <item> CRAY YMP</item>
+        <item> 100</item>
+        <item> Fourth</item>
+        <item> Arithmetic and Logical Units</item>
+        <item> Mouse</item>
+        <item> Mini Computer</item>
+        <item> flash</item>
+        <item> motherboard</item>
+        <item> Stack</item>
+        <item> Floppy disk</item>
+        <item> Infotech India Ltd.</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> directory library</item>
+        <item> library package</item>
+        <item> stable functioning</item>
+        <item> Blocked</item>
+        <item> Neither of a and b.</item>
+        <item> Relating loader</item>
+        <item> Operating system</item>
+        <item> Double linked list</item>
+        <item> None of Above</item>
+        <item> Rightmost derivation traced out in reverse</item>
+        <item> address bus</item>
+    </string-array>
+
+    <string-array name="answer_set1">
+        <item> hardware</item>
+        <item> computer</item>
+        <item> Silicon</item>
+        <item> BSD Unix</item>
+        <item> 1000,000,000 bytes</item>
+        <item> 74 mins</item>
+        <item> VDU</item>
+        <item> Compression</item>
+        <item> DBMS</item>
+        <item> ROM</item>
+        <item> Identify the file type</item>
+        <item> 4</item>
+        <item> input</item>
+        <item> binary digit</item>
+        <item> Google</item>
+        <item> 0 – 9 , A – F</item>
+        <item> 230 bytes</item>
+        <item> microcomputer</item>
+        <item> log out</item>
+        <item> operating system</item>
+        <item> Machine dependent.</item>
+        <item> Reliability</item>
+        <item> The movement of pages in and out of memory.</item>
+        <item> A program that automates the translation of assembly language into machine language</item>
+        <item> A program that appears to execute a source program as if it were machine language</item>
+        <item> 3</item>
+        <item> 16</item>
+        <item> Drag mouse while holding button down</item>
+        <item> RW</item>
+        <item> Data</item>
+        <item> 1024 bytes</item>
+        <item> Param</item>
+        <item> 111</item>
+        <item> Second</item>
+        <item> Arithmetic and Logical Units</item>
+        <item> Microprocessor</item>
+        <item> Super Computer</item>
+        <item> magnetic</item>
+        <item> operating system</item>
+        <item> Binary Tree</item>
+        <item> CPU</item>
+        <item> Infotech India Ltd.</item>
+        <item> 11110001</item>
+        <item> Operating system</item>
+        <item> library program</item>
+        <item> program library</item>
+        <item> robust</item>
+        <item> Blocked</item>
+        <item> Both a and b</item>
+        <item> Bootstrap loader</item>
+        <item>Compiler</item>
+        <item> Linked list</item>
+        <item> Tim Berners Lee</item>
+        <item> Leftmost derivation</item>
+        <item> timer bus</item>
+    </string-array>
+<string-array name="basic_QuestionSet2">
+    <item>Q.1. Which device is used to reproduce drawings using pens that are attached to movable arms?</item>
+    <item>    Q.2. Scitation is the online host service of -</item>
+    <item>Q.3. Which set of rules is applicable for exchange of files over Internet?</item>
+    <item>Q.4. When data changes in multiple lists and all lists are not updated, this causes</item>
+    <item>Q.5. A word in a web page that, when clicked, opens another document is called ___</item>
+   <item> Q.6. One Terabyte (1 TB) is equal to?</item>
+    <item>  Q.7. Which operating system is developed and used by Apple Inc?</item>
+    <item>Q.8. Which of the following memories is an optical memory?</item>
+    <item>Q.9.Java was originally invented by</item>
+    <item>Q.10. Whose trademark is the operating system UNIX?</item>
+    <item>Q.11.  Random Access Memory (RAM) is which storage of device?</item>
+    <item>Q.12.  What is full form CMOS ?</item>
+    <item>Q.13.  MPG is an file extension of which type of files?</item>
+    <item>Q.14.  Who is the founder of the Internet?</item>
+    <item>Q.15.  Who is the father of email?</item>
+    <item> Q.16.  Which one is the first search engine in internet?</item>
+    <item>  Q.17. Which one is the first web browser invented in 1990?</item>
+    <item>Q.18.  Which Penguin is the mascot of Linux Operating system?</item>
+    <item>    Q.19.  Which of the following is the most powerful type of computer?</item>
+    <item>  Q.20. C is</item>
+    <item>Q.21. Which component of computer is also considered as it Heart?</item>
+    <item>  Q.22. Where BIOS is stored?</item>
+    <item>Q.23. BIOS is used for?</item>
+    <item>Q.24.  In a digital computer, which part consists of arithmetic logic unit, memory unit and the control unit?</item>
+    <item>Q.25. Which is the most common request-response protocol used in Internet for word processing?</item>
+    <item>  Q.26. Indian National Advisory Board for Libraries was setup in 1966 by -</item>
+    <item>  Q.27.  Which of the following is not a language of DBMS?</item>
+    <item>Q.28.  The ___ of software contains lists of commands and options.</item>
+    <item>Q.29.  Which one is volatile memory in a computer system?</item>
+    <item> Q.30.  Who first developed QWERTY keyboard used in computers and phones?</item>
+    <item> Q.31.  Linus Torvalds develop which operating system?</item>
+    <item> Q.32.  DNS refers to</item>
+    <item>  Q.33. The unit of speed used for super computer is</item>
+    <item>Q.34. ROM is non volatile.</item>
+    <item> Q.35.  Random Access Memory (RAM) is non volatile in nature.</item>
+    <item> Q.36. Second generation of computers consist of which of following ?</item>
+    <item>Q.37. Who is the father of Internet ?</item>
+    <item>Q.38. Who invented world wide web ?</item>
+    <item>Q.39. Internet’s initial development was supported by</item>
+    <item>Q.40. Number of bit used by the IPv6 address?</item>
+    <item>Q.41. Which of the following programming language is used to create programs like applets?</item>
+    <item>    Q.42.  The first mechanical computer designed by Charles Babbage was called</item>
+    <item>Q.43.  Which gate is a single integrated circuit?</item>
+    <item>Q.44. Web pages are written using</item>
+    <item> Q.45.  What is used to make computer chips?</item>
+    <item>  Q.46. What is full form of EXIF?</item>
+    <item> Q.47. 1 Mega Byte is equal to</item>
+    <item>   Q.48. The technique of assigning a memory address to each I/O device in the SAM system is called </item>
+    <item>Q.49. A port can be:</item>
+    <item>Q.50 what is full From of CPU ?</item>
+</string-array>
+    <string-array name="option_a1">
+        <item> Plotter</item>
+        <item> American Institute of Physics</item>
+        <item> FTP/IP</item>
+        <item> data redundancy</item>
+        <item> anchor</item>
+        <item> 1028 GB</item>
+        <item> Windows</item>
+        <item> Floppy Disk</item>
+        <item> Oracle</item>
+        <item> Motorola</item>
+        <item> Primay</item>
+        <item> Content Metal Oxide Semiconductor</item>
+        <item> Audio</item>
+        <item> Vint Cerf</item>
+        <item> Tim Berners Lee</item>
+        <item> Google</item>
+        <item> Internet Explorer</item>
+        <item> SUX</item>
+        <item> Super–micro</item>
+        <item> A third generation high level language</item>
+        <item> Monitor</item>
+        <item> Hard Disk</item>
+        <item> Updating system information on network</item>
+        <item> Mother board</item>
+        <item> SMTP</item>
+        <item> Association of Indian Universities</item>
+        <item> DDL</item>
+        <item> title bar</item>
+        <item> Hard Disk</item>
+        <item> Raphael Finkel</item>
+        <item> Windows</item>
+        <item> Data Number Sequence</item>
+        <item> KELOPS</item>
+        <item> TRUE</item>
+        <item> TRUE</item>
+        <item> Vacuum Tubes</item>
+        <item> Vint Cerf</item>
+        <item> Tim Berners Lee</item>
+        <item> Microsoft</item>
+        <item> 32 bit</item>
+        <item> COBOL</item>
+        <item> Abacus</item>
+        <item> Gate</item>
+        <item> FTP</item>
+        <item> Copper</item>
+        <item> Exchangeable Image Fine Finish</item>
+        <item> 1024 Bytes</item>
+        <item> wired I/O</item>
+        <item> strictly for input</item>
+        <item> Central process Unit</item>
+    </string-array>
+    <string-array name="option_b1">
+        <item> Light Pen</item>
+        <item> University of Maryland</item>
+        <item> HTTP</item>
+        <item> information overload</item>
+        <item> hyperlink</item>
+        <item> 1012 GB</item>
+        <item> Android</item>
+        <item> Bubble Memories</item>
+        <item> Microsoft</item>
+        <item> Microsoft</item>
+        <item> Secondary</item>
+        <item> Complementary Metal Oxide Semiconductor</item>
+        <item> Image</item>
+        <item> Charles Babbage</item>
+        <item> Charles Babbage</item>
+        <item> Archie</item>
+        <item> Mosaic</item>
+        <item> TUX</item>
+        <item> Super conductor</item>
+        <item> A machine language</item>
+        <item> Keyboard</item>
+        <item> RAM</item>
+        <item> Loading operating system</item>
+        <item> Integrated circuits</item>
+        <item> FTP</item>
+        <item> Ministry of Education</item>
+        <item> DML</item>
+        <item> menu bar</item>
+        <item> RAM</item>
+        <item> Wim Ebbinkhuijsen</item>
+        <item> Mac OS</item>
+        <item> Digital Network Service</item>
+        <item> GELOPS</item>
+        <item> FALSE</item>
+        <item> FALSE</item>
+        <item> Diodes</item>
+        <item> Tim Berners Lee</item>
+        <item> Sir Thomas</item>
+        <item> ARPANET</item>
+        <item> 64 bit</item>
+        <item> C Language</item>
+        <item> Analytical Engine</item>
+        <item>Mother Board</item>
+       <item> HTTP</item>
+        <item> Steel</item>
+        <item> Exchangeable Image File Format</item>
+        <item> 1024 Kilo Bytes</item>
+        <item> I/O mapping</item>
+        <item> strictly for output</item>
+          <item>Central Progress Unit</item>
+    </string-array>
+    <string-array name="option_c1">
+        <item> Scanner</item>
+        <item> Society for Industrial</item>
+        <item> HTML</item>
+        <item> duplicate data</item>
+        <item> reference</item>
+        <item> 1000 GB</item>
+        <item> iOS</item>
+        <item> CD–ROM</item>
+        <item> Novell</item>
+        <item> BELL Laboratories</item>
+        <item> Teriary</item>
+        <item> Complementary Metal Oxygen Semiconductor</item>
+        <item> Video</item>
+        <item> Tim Berners-Lee</item>
+        <item> Paul Buchheit</item>
+        <item> Altavista</item>
+        <item> Mozilla</item>
+        <item> MUX</item>
+        <item> Super computer</item>
+        <item> An assembly language</item>
+        <item> Scanner</item>
+        <item> Flash Memory Chip</item>
+        <item> It helps in routing</item>
+        <item> Central Processing Unit</item>
+        <item> HTTP</item>
+        <item> Planning Commission</item>
+        <item> PASCAL</item>
+        <item> formula bar</item>
+        <item> ROM</item>
+        <item> Shafi Goldwasser</item>
+        <item> UNIX</item>
+        <item> Domain Name System</item>
+        <item> MELOPS</item>
+        <item>both</item>
+         <item>both</item>
+        <item> VLSI Microprocessor</item>
+        <item> Charles Babbage</item>
+        <item> Charles Babbage</item>
+        <item> Bill Rogers</item>
+        <item> 128 bit</item>
+        <item> Java</item>
+        <item> Calculator</item>
+        <item> Chip</item>
+        <item> HTML</item>
+        <item> Silicon</item>
+        <item> Executable Image File Format</item>
+        <item> 1024 Giga Bits</item>
+        <item> dedicated I/O</item>
+        <item> bidirectional</item>
+        <item>control process unit</item>
+    </string-array>
+    <string-array name="option_d1">
+        <item> Printer</item>
+        <item> Oxford University</item>
+        <item> HYPERLINK</item>
+        <item> data inconsistency</item>
+        <item> URL</item>
+        <item> 1024 GB</item>
+        <item> UNIX</item>
+        <item> Core Memories</item>
+        <item> Sun</item>
+        <item> AshtonTate</item>
+        <item> Off line</item>
+        <item> Complementary Metal Oscillator Semiconductor</item>
+        <item> Flash</item>
+        <item> None of these</item>
+        <item> Ray Tomlinson</item>
+        <item> WAIS</item>
+        <item> Nexus</item>
+        <item> AUX</item>
+        <item> Megaframe</item>
+        <item> All of the above</item>
+        <item> Microprocessor</item>
+        <item> Any of above</item>
+        <item> It take inputs from keywords and other devices</item>
+        <item> Processor</item>
+        <item> TTY</item>
+        <item> University Grants Commission</item>
+        <item> PLI</item>
+        <item> tool bar</item>
+        <item> Optical Drive</item>
+        <item> Christopher Latham Sholes</item>
+        <item> Linux</item>
+        <item> Disk Numbering System</item>
+        <item> None of these</item>
+        <item>neither</item>
+        <item>neither</item>
+        <item> Transistors</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> Bill Gates</item>
+        <item> 256 bit</item>
+        <item> BASIC</item>
+        <item> Processor</item>
+        <item> CPU</item>
+        <item> URL</item>
+        <item> Iron</item>
+        <item> Executable Image File Finish</item>
+        <item> 1024 Bits</item>
+        <item> memory-mapped I/O</item>
+        <item> all the above</item>
+         <item>Neither</item>
+    </string-array>
+    <string-array name="answer_set2">
+        <item> Plotter</item>
+        <item> American Institute of Physics</item>
+        <item> HTTP</item>
+        <item> data inconsistency</item>
+        <item> hyperlink</item>
+        <item> 1024 GB</item>
+        <item> iOS</item>
+        <item> CD–ROM</item>
+        <item> Sun</item>
+        <item> BELL Laboratories</item>
+        <item> Primay</item>
+        <item> Complementary Metal Oxide Semiconductor</item>
+        <item> Video</item>
+        <item> Tim Berners-Lee</item>
+        <item> Ray Tomlinson</item>
+        <item>Archie</item>
+        <item> Nexus</item>
+        <item> TUX</item>
+        <item> Super computer</item>
+        <item> A third generation high level language</item>
+        <item> Microprocessor</item>
+        <item> Flash Memory Chip</item>
+        <item> Loading operating system</item>
+        <item> Central Processing Unit</item>
+        <item> HTTP</item>
+        <item> Ministry of Education</item>
+        <item> PASCAL</item>
+        <item> menu bar</item>
+        <item> RAM</item>
+        <item> Christopher Latham Sholes</item>
+        <item> Linux</item>
+        <item> Digital Network Service</item>
+        <item> GELOPS</item>
+        <item> TRUE</item>
+        <item> FALSE</item>
+        <item> Transistors</item>
+        <item> Vint Cerf</item>
+        <item> Tim Berners Lee</item>
+        <item> ARPANET</item>
+        <item> 128 bit</item>
+        <item> Java</item>
+        <item> Analytical Engine</item>
+        <item> Gate</item>
+        <item> HTML</item>
+        <item> Silicon</item>
+        <item> Exchangeable Image File Format</item>
+        <item> 1024 Kilo Bytes</item>
+        <item> memory-mapped I/O</item>
+        <item> bidirectional</item>
+        <item> Central process Unit</item>
+    </string-array>
+
+    <string-array name="basic_QuestionSet3">
+        <item> Q.1. Which file format can be added to a power point show?</item>
+        <item>  Q.2.How to select one hyperlink after another during a slide presentation?</item>
+        <item>Q.3.Which power point view works best for adding slide transition?</item>
+        <item> Q.4. Which power point view works best for adding slide transition?</item>
+        <item> Q.5. You can edit an embedded organization chart object by ?</item>
+        <item> Q.6. Special effects used to introduce slides in a presentation are known as ?</item>
+        <item> Q.7. Slide sorter can be accessed from which menu?</item>
+        <item>Q.8. To print power point presentation, press </item>
+        <item>   Q.9. What would I choose to create a pre-formatted style?</item>
+        <item>Q.10. To edit a chart, we can</item>
+        <item> Q.11. To preview a motion path effect using the custom animation task pane, we should</item>
+        <item>Q.12. You can create a new presentation by completing all of the following except</item>
+        <item> Q.13. What is the term used when you press and hold the left mouse key and more the mouse around the slide?</item>
+        <item>Q.14. What term describes a background that appears as a grainy, non-smooth surface?</item>
+        <item> Q.15. Which of the following views is the best view to use when setting transition effects for all slides in a presentation?</item>
+        <item>Q.16. Which of the following will not advance the slides in a slide show view?</item>
+        <item> Q.17. Which option can be used to set custom timings for slides in a presentation?</item>
+        <item>Q.18. Which type of fonts are best suite for titles and headlines?</item>
+        <item>Q.19. Which key can be used to view Slide show?</item>
+        <item>  Q.20. Which of the following can you use to add times to the slides in a presentation?</item>
+        <item>  Q.21. How can we view slide show repeated continuously?</item>
+        <item>Q.22. How can we stop a slide show?</item>
+        <item>Q.23. Power point can display data from which of the following add-in software of MS office</item>
+        <item>Q.24.The spelling dialog box can be involved by choosing spelling from_____menu.</item>
+        <item>Q.25. Which key do you press to check spelling?</item>
+        <item> Q.26. Power point slides can have?</item>
+        <item>    Q.27. To open the existing presentation, press</item>
+        <item>  Q.28. Ellipse Motion is a predefined……….</item>
+        <item> Q.29. A file which contains ready made styles that can be used for a presentation is called………?</item>
+        <item> Q.30. What is maximum Zoom percentage in Microsoft Power Point?</item>
+        <item>  Q.31. How we can put a Chart in the presentation using Power Point?</item>
+        <item>Q.32. How we can replace a font on all sides with another font in Power point?</item>
+        <item>Q.33. How we can replace a font on all slide with another font in PowerPoint?</item>
+        <item> Q.34. Shortcut to insert new slide in the current Presentation is ?</item>
+        <item>  Q.35. The boxes that are displayed to indicate that the text, pictures or objects are placed in it is called?</item>
+        <item>Q.36. What is a slide-title master pair?</item>
+        <item>Q.37. What is a motion path in Power point?</item>
+        <item> Q.38. In power point the arrangement of elements such as Title and subtitle text, pictures, tables etc. is known as?</item>
+        <item> Q.39. Which pane would be used to enter a speaker’s information about what can be said about each slide?</item>
+        <item>Q.40. In Microsoft Power Point two kind of sound effects files that can be added to the presentation are?</item>
+    </string-array>
+
+    <string-array name="option_a2">
+        <item> .gif</item>
+        <item> Ctrl+K</item>
+        <item> Animations</item>
+        <item> Slide sorter view</item>
+        <item> Double clicking the organization chart object.</item>
+        <item> transition</item>
+        <item> View</item>
+        <item> Ctrl+P</item>
+        <item> Format</item>
+        <item> Click and drag the chart object</item>
+        <item> double click the motion path</item>
+        <item> Clicking the new button on the standard toolbar</item>
+        <item> Moving</item>
+        <item> Pattern</item>
+        <item> Slide</item>
+        <item> The mouse buttons</item>
+        <item> Slider Timings</item>
+        <item> Sans Serif Fonts</item>
+        <item> F5</item>
+        <item> Rehearse timing button</item>
+        <item> Repeat continuously</item>
+        <item> Press the right arrow</item>
+        <item> Organization Chart</item>
+        <item> tools</item>
+        <item> F9</item>
+        <item> title, text, graphs</item>
+        <item> Ctrl+A</item>
+        <item> Design Template</item>
+        <item> Pre-formatting</item>
+        <item> 100%</item>
+        <item> Insert->Pictures->Chart</item>
+        <item> Tools->Replace Fonts</item>
+        <item> CTRL+O</item>
+        <item> Through slide sorter view</item>
+         <item> Word Art</item>
+        <item> The title is and text area of a specific slide</item>
+        <item> A method of moving items on a slide</item>
+        <item> Presentation</item>
+        <item> Notes pane</item>
+        <item> .wav files and .gif files</item>
+    </string-array>
+
+    <string-array name="option_b2">
+        <item> .jpg</item>
+        <item> Ctrl+D</item>
+        <item> Chart Wizard</item>
+        <item> Slide show view</item>
+        <item> Clicking edit object</item>
+        <item> effects</item>
+        <item> Edit</item>
+        <item> Ctrl+S</item>
+        <item> Slide layout</item>
+        <item> Double click the chart object</item>
+        <item> click the show effect button</item>
+        <item> Clicking file, new</item>
+        <item> Dragging</item>
+        <item> Gradient</item>
+        <item> Notes page view</item>
+        <item> The enter key</item>
+        <item> Slider Timer</item>
+        <item> Picture Fonts</item>
+        <item> F2</item>
+        <item> Slice show menu</item>
+        <item> Loop continuously until Esc</item>
+        <item> Press Ctrl+A</item>
+        <item> Photo Album</item>
+        <item> view</item>
+        <item> F7</item>
+        <item> drawn objects, shapes</item>
+        <item> Ctrl+O</item>
+        <item> Colour Scheme</item>
+        <item> Auto Style</item>
+        <item> 400%</item>
+        <item> Edit->Chart</item>
+        <item> Format-> Replace Fonts</item>
+        <item> CTRL+M</item>
+        <item> Through slide view</item>
+        <item> Auto Text</item>
+        <item> A slide master and title master for a specific design template</item>
+        <item> A type of animation entrance effect</item>
+        <item> Layout</item>
+        <item> Outline pane</item>
+        <item> .jpg files and .gif files</item>
+    </string-array>
+
+    <string-array name="option_c2">
+        <item> .wav</item>
+        <item> Ctrl+H</item>
+        <item> Transition Wizard</item>
+        <item> Slide view</item>
+        <item> Right clicking the chart object, then clicking edit MS-Organization Chart object.</item>
+        <item> Custom animations</item>
+        <item> File</item>
+        <item> Ctrl+Shift+P</item>
+        <item> Slide sorter view</item>
+        <item> Triple click the chart object</item>
+        <item> click the play button</item>
+        <item> Pressing ctrl+N</item>
+        <item> Monitoring</item>
+        <item> Velvet</item>
+        <item> Outline view</item>
+        <item> The tab key</item>
+        <item> Rehearsal</item>
+        <item> Text Fonts</item>
+        <item> F7</item>
+        <item> Slide transition button</item>
+        <item> loop more</item>
+        <item> Press Escape</item>
+        <item> Equation Editor</item>
+        <item> file</item>
+        <item> F5</item>
+        <item> clipart, drawn art, visual</item>
+        <item> Ctrl+N</item>
+        <item> Animation Scheme</item>
+        <item> Wizard</item>
+        <item> 300%</item>
+        <item> Insert->Chart</item>
+        <item> Edit->Fonts</item>
+        <item> CTRL+N</item>
+        <item> Through slide show</item>
+        <item> Placeholder</item>
+        <item> A slide master and title master merged in to a single slide</item>
+        <item> A method of advancing slides</item>
+        <item> Design</item>
+        <item> Slide pane</item>
+        <item> .wav files and .mid files</item>
+    </string-array>
+
+    <string-array name="option_d2">
+        <item> All of above</item>
+        <item> Tab</item>
+        <item> Auto Content Wizard</item>
+        <item> Notes</item>
+        <item> A and C both</item>
+        <item> annotations</item>
+        <item> Insert</item>
+        <item> Ctrl+A</item>
+        <item> None of above</item>
+        <item> Click the chart object</item>
+        <item> None of above</item>
+        <item> Clicking file open</item>
+        <item> Highlighting</item>
+        <item> Texture</item>
+        <item> Slide sorter view</item>
+        <item> The esc key</item>
+        <item> Slide Show Setup</item>
+        <item> Serif Fonts</item>
+        <item> F8</item>
+        <item> All of the above</item>
+        <item> None of these</item>
+        <item> Press Ctrl+S</item>
+        <item> All of above</item>
+        <item> insert</item>
+        <item> F3</item>
+        <item> any of the above</item>
+        <item> Ctrl+L</item>
+        <item> None of above</item>
+        <item>  Template</item>
+        <item> 200%</item>
+        <item> View->Chart</item>
+        <item> Tools->Fonts</item>
+        <item> CTRL+F</item>
+        <item> Through normal view</item>
+        <item> Text box</item>
+        <item> Count</item>
+        <item> All of above</item>
+        <item> Scheme</item>
+        <item> None of these</item>
+        <item> .wav files and .jpg files</item>
+</string-array>
+<string-array name="answer_set3">
+    <item> All of above</item>
+    <item> Tab</item>
+    <item> Auto Content Wizard</item>
+    <item> Slide sorter view</item>
+    <item> A and C both</item>
+    <item> transition</item>
+    <item> View</item>
+    <item> Ctrl+P</item>
+    <item> Format</item>
+    <item> Double click the chart object</item>
+    <item> click the play button</item>
+    <item> Clicking file open</item>
+    <item> Dragging</item>
+    <item> Gradient</item>
+    <item> Slide sorter view</item>
+    <item> The esc key</item>
+    <item> Rehearsal</item>
+    <item> Sans Serif Fonts</item>
+    <item> F5</item>
+    <item> Rehearse timing button</item>
+    <item> Loop continuously until Esc</item>
+    <item> Press Escape</item>
+    <item> All of above</item>
+    <item> tools</item>
+    <item> F7</item>
+    <item> any of the above</item>
+    <item> Ctrl+O</item>
+    <item> Colour Scheme</item>
+    <item>  Template</item>
+    <item> 400%</item>
+    <item> Insert->Pictures->Chart</item>
+    <item> Format-> Replace Fonts</item>
+    <item> CTRL+M</item>
+    <item> Through slide sorter view</item>
+    <item> Auto Text</item>
+    <item> A slide master and title master for a specific design template</item>
+    <item> A type of animation entrance effect</item>
+    <item> Presentation</item>
+    <item> Notes pane</item>
+    <item> .wav files and .mid files</item>
+</string-array>
+
+    <string-array name="basic_QuestionSet4">
+       <item> Q.1. There can be many ways to insert page number in a document. Which of the following lets you insert page number?</item>
+        <item> Q.2. Which is not data source component?</item>
+        <item>Q.3. Which of the following is not the part of standard office suite?</item>
+        <item>Q.4. Where can you find the Draw Table tool button?</item>
+        <item> Q.5.Which of the following option in file put down menu is used to close a MS Word document?</item>
+        <item> Q.6. You need to jump to the next column breaking current column right at the cursor position. How can you break column?</item>
+        <item> Q.7. Superscript, subscript, outline, emboss, engrave are known as</item>
+        <item>  Q.8. Shimmer, Sparkle text, Blinking background etc. are known as</item>
+        <item> Q.9.The feature of word that automatically adjusts the amount of space between certain combination of characters so that an entire word looks more evenly spaced. What is that feature called?</item>
+        <item>  Q.10. Which of the following is not available in font spacing?</item>
+        <item>    Q.11. Which of the following positing is not available for font on MS Word ?</item>
+        <item>     Q.12. What is the maximum scale percentage available in Scale drop down box?</item>
+        <item>Q.13. Bold, italic, Regular are known as</item>
+        <item> Q.14. Uppercase on Change case dialog box and all caps on font dialog box both converts selected text into Capital Letters. What’s the difference between the two ?</item>
+       <item> Q.15. If you need to hide some paragraphs, how can you do it?</item>
+        <item>  Q.16.Which of the following is the latest version of MS Word?</item>
+        <item>Q.17. Changing the appearance of a document is called</item>
+        <item>  Q.18. In a document what is the maximum number of columns that can be inserted in MS Word Table?</item>
+        <item> Q.19. You can detect spelling and grammar errors by</item>
+        <item> Q.20. A screen element of MS Word that is usually located below the title bar that provides categorized options is</item>
+        <item> Q.21. How many different positions can you set for drop cap?</item>
+        <item>Q.22. How many ways you can save a document?</item>
+        <item>   Q.23. What is the maximum number of lines you can set for lines to drop box?</item>
+        <item>Q.24. Single spacing in MS-WORD document causes………point line spacing ?</item>
+        <item>   Q.25. What is the default number of lines you can set for a drop cap?</item>
+        <item>   Q.26. What is the maximum number of lines you can set for a drop cap?</item>
+        <item> Q.27. How many columns can you insert in a word document in maximum?</item>
+        <item>Q.28. In a document what is the maximum number of columns that can be inserted in MS Word table?</item>
+        <item>Q.29. What is the maximum scale percentage available in Scale drop down box ?</item>
+        <item>Q.30. What is the maximum font size you can apply for any character</item>
+        <item>Q.31. Word, by, default, places a tab stop at every………….mark on the ruler:</item>
+        <item>Q.32. What is the default file extension for all word documents?</item>
+        <item>Q.33. The file type……..indicates the file is a Word document.</item>
+        <item> Q.34. Which of the following button will allow you to add, delete, or change records in your Data Source?</item>
+        <item>Q.35. How much space in minimum must be provided between columns ?</item>
+        <item>Q.36.What is the smallest width of a column?</item>
+        <item>Q.37. By default, your document prints with:</item>
+        <item>Q.38. Word is pre-set to use standard 8.5-by-11-inch paper with…….margins.</item>
+        <item>Q.39. What is the default left margin in Word 2010 document?</item>
+        <item>Q.40. What is the smallest and largest font size available in Font Size tool on formatting toolbar?</item>
+        <item>Q.41. What is the default font size of a new Word document based on Normal template in Word 2010?</item>
+        <item>  Q.42. If you want to go to end of page, you have to press:</item>
+        <item> Q.43. How will MS Word will respond in repeated word.</item>
+        <item>  Q.44. In mail merge operation which of the following might represent the main document ?</item>
+        <item>Q.45. Pressing F8 key for three times selects</item>
+        <item>Q.46. What do you call ‘a collection of character and paragraph formatting commands’?</item>
+        <item>Q.47. What is a Document Outline View?</item>
+        <item>Q.48. Ctrl+Z</item>
+        <item>Q.49. The……in the Resume Wizard dialog box indicates the wizard is ready to create the document.</item>
+        <item>Q.50. What does Ctrl+=key effect?</item>
+    </string-array>
+
+    <string-array name="option_a3">
+        <item> Page number from insert menu</item>
+        <item> mail merge toolbar</item>
+        <item> Word Processor</item>
+        <item> Standard toolbar</item>
+        <item> Quit</item>
+        <item> Pressing Ctrl+Enter</item>
+        <item> Font styles</item>
+        <item> Font styles</item>
+        <item> Spacing</item>
+        <item> Normal</item>
+        <item> Normal</item>
+        <item> 500</item>
+        <item> Font styles</item>
+        <item> Both are same. They are only two different ways of capitalize text.</item>
+        <item> From Paragraph dialog box</item>
+        <item> Word 2000</item>
+        <item> Proofing</item>
+        <item> 35</item>
+        <item> Press Shift + F7</item>
+        <item> Menu mar</item>
+        <item> 1</item>
+        <item> 3</item>
+        <item> 3</item>
+        <item> 10</item>
+        <item> 3</item>
+        <item> 3</item>
+        <item> 35</item>
+        <item> 35</item>
+        <item> 500</item>
+        <item> 163</item>
+        <item> .253</item>
+        <item> .txts</item>
+        <item> .msw</item>
+        <item> ‘Data Source’ button</item>
+        <item> 03</item>
+        <item> 03</item>
+        <item> 1 inch top and bottom margins</item>
+        <item> 1-inch left, right, top, and bottom</item>
+        <item> 13</item>
+        <item> 8 and 72</item>
+        <item> 10 pt</item>
+        <item> End</item>
+        <item> A Red wavy line under the repeated word</item>
+        <item> A sales brochure</item>
+        <item> a word</item>
+        <item> the defaults</item>
+        <item> A Preview in a full screen</item>
+        <item> Undo the last Action</item>
+        <item> Start panel</item>
+        <item> Superscript</item>
+    </string-array>
+
+    <string-array name="option_b3">
+        <item> Page setup from file menu</item>
+        <item> header row</item>
+        <item> Data base</item>
+        <item> Formatting toolbar</item>
+        <item> Close</item>
+        <item> Pressing Alt+Shit+Enter</item>
+        <item> font effects</item>
+        <item> font effects</item>
+        <item> Scaling</item>
+        <item> Loosely</item>
+        <item> Raised</item>
+        <item> 200</item>
+        <item> Font effects</item>
+        <item> it is faster to convert from change case than from font dialog box.</item>
+        <item> From Font dialog box</item>
+        <item> Word 2007</item>
+        <item> Editing</item>
+        <item> 15</item>
+        <item> Press Ctrl + F7</item>
+        <item> Tool Bar</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 12</item>
+        <item> 10</item>
+        <item> 10</item>
+        <item> 45</item>
+        <item> 15</item>
+        <item> 200</item>
+        <item> 1638</item>
+        <item> .53</item>
+        <item> .word</item>
+        <item> .wor</item>
+        <item> ‘Edit’ button</item>
+        <item> 0.53</item>
+        <item> 0.53</item>
+        <item> a portrait orientation</item>
+        <item> 1.25-inch left, right, top, and bottom</item>
+        <item> 1</item>
+        <item> 8 and 64</item>
+        <item> 11 pt</item>
+        <item> Ctrl + End</item>
+        <item> A Green wavy line under the repeated word</item>
+        <item> A form letter</item>
+        <item> a sentence</item>
+        <item> a template</item>
+        <item> A preview with margins</item>
+        <item> Redo the last Action</item>
+        <item> Address panel</item>
+        <item> subscript</item>
+    </string-array>
+
+    <string-array name="option_c3">
+        <item> Footnote from Insert menu</item>
+        <item> data fields</item>
+        <item> Image editor</item>
+        <item> Drawing toolbar</item>
+        <item> Exit</item>
+        <item> Break command form Insert menu</item>
+        <item> word art</item>
+        <item> word art</item>
+        <item> Kerning</item>
+        <item> Condensed</item>
+        <item> Lowered</item>
+        <item> 100</item>
+        <item> word art</item>
+        <item> Change Case makes conversion permanent but All Caps on Font can always be reverted</item>
+        <item> From options Dialog box</item>
+        <item> Word 2010</item>
+        <item> Formatting</item>
+        <item> 63</item>
+        <item> Press Alt + F7</item>
+        <item> Status Bar</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 10</item>
+        <item> 14</item>
+        <item> 15</item>
+        <item> 15</item>
+        <item> 55</item>
+        <item> 63</item>
+        <item> 100</item>
+        <item> 16038</item>
+        <item> .753</item>
+        <item> .docs</item>
+        <item> .wrd</item>
+        <item> ‘Edit Data Source’ button</item>
+        <item> 13</item>
+        <item> 13</item>
+        <item> 1.25 inches left and right margins</item>
+        <item> 1.25-inch left and right margins and 1-inch top and bottom</item>
+        <item> 1.53</item>
+        <item> 12 and 72</item>
+        <item> 14 pt</item>
+        <item> Ctrl + Home</item>
+        <item> A Blue wavy line under the repeated word</item>
+        <item> A database of Names and Addresses</item>
+        <item> a paragraph</item>
+        <item> a style</item>
+        <item> A view with a structure of heading at various levels</item>
+        <item> Add the new page</item>
+        <item> Add/Sort Heading panel</item>
+        <item> All caps</item>
+</string-array>
+
+    <string-array name="option_d3">
+        <item> Both a and c</item>
+        <item> data records</item>
+        <item> File manager</item>
+        <item> Tables and Formatting toolbar</item>
+        <item> New</item>
+        <item> Both b and c</item>
+        <item> text effects</item>
+        <item> text effects</item>
+        <item> Positioning</item>
+        <item> Expanded</item>
+        <item> Cantered</item>
+        <item> 90</item>
+        <item> text effects</item>
+        <item> All caps on font dialog box makes the change permanent where change case can be always reverted.</item>
+        <item> None of above</item>
+        <item> Word 2013</item>
+        <item> All of above</item>
+        <item> 65</item>
+        <item> Press F7</item>
+        <item> All of the above</item>
+        <item> 6</item>
+        <item> 6</item>
+        <item> 15</item>
+        <item> 16</item>
+        <item> 20</item>
+        <item> 20</item>
+        <item> 65</item>
+        <item> 65</item>
+        <item> 90</item>
+        <item> None of above</item>
+        <item> 13</item>
+        <item> .docx</item>
+        <item> .doc</item>
+        <item> ‘Data Editing’ button</item>
+        <item> 1.53</item>
+        <item> 1.53</item>
+        <item> all of the above</item>
+        <item> 1-inch left and right margins and 1.25-inch top and bottom</item>
+        <item> 23</item>
+        <item> None of above</item>
+        <item> None of above</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> All of above</item>
+        <item> entire document</item>
+        <item> a boilerplate</item>
+        <item> A view with a structure of heading at various levels</item>
+        <item> Paste the contents from clipboard</item>
+        <item> Finish panel</item>
+        <item> Shadow</item>
+    </string-array>
+
+    <string-array name="answer_set4">
+        <item> Page number from insert menu</item>
+        <item> mail merge toolbar</item>
+        <item> File manager</item>
+        <item> Formatting toolbar</item>
+        <item> Close</item>
+        <item> Break command form Insert menu</item>
+        <item> font effects</item>
+        <item> text effects</item>
+        <item> Kerning</item>
+        <item> Loosely</item>
+        <item> Cantered</item>
+        <item> 200</item>
+        <item> Font styles</item>
+        <item> Change Case makes conversion permanent but All Caps on Font can always be reverted</item>
+        <item> From Font dialog box</item>
+        <item> Word 2010</item>
+        <item> Formatting</item>
+        <item> 63</item>
+        <item> Press F7</item>
+        <item> Menu mar</item>
+        <item> 3</item>
+        <item> 3</item>
+        <item> 10</item>
+        <item> 12</item>
+        <item> 3</item>
+        <item> 10</item>
+        <item> 45</item>
+        <item> 63</item>
+        <item> 200</item>
+        <item> 1638</item>
+        <item> .53</item>
+        <item> .docx</item>
+        <item> .doc</item>
+        <item> ‘Edit Data Source’ button</item>
+        <item> 03</item>
+        <item> 0.53</item>
+        <item> all of the above</item>
+        <item> 1.25-inch left and right margins and 1-inch top and bottom</item>
+        <item> 1</item>
+        <item> 8 and 72</item>
+        <item> 11 pt</item>
+        <item> End</item>
+        <item> A Red wavy line under the repeated word</item>
+        <item> A sales brochure</item>
+        <item> entire document</item>
+        <item> a style</item>
+        <item> A view with a structure of heading at various levels</item>
+        <item> Undo the last Action</item>
+        <item> Finish panel</item>
+        <item> subscript</item>
+    </string-array>
+
+    <string-array name="basic_QuestionSet5">
+        <item>Q.1  Formula palette is used to?</item>
+        <item>      Q.2  A Spreadsheet contains?</item>
+        <item>Q.3  Top open an existing workbook, click the open button on the…………toolbar?</item>
+        <item>Q.4  Which among following is not associated with spelling dialogue box?</item>
+        <item> Q.5  What term describes a background that appears as a grainy, non-smooth surface?</item>
+        <item>Q.6  Which among following is associated with excel?</item>
+        <item>  Q.7  The cell reference for a range of cells that starts in cell C1 and goes over to column H and down to row 10 is?</item>
+        <item>  Q.8  You can convert existing Excel worksheet data and charts to HTML document by using the?</item>
+        <item> Q.9  To create an interactive Pivot Table for the web, you use a Microsoft Office Web component called?</item>
+        <item>  Q.10  What function displays row data in a column or column data in a row?</item>
+        <item>Q.11  Except which of the following function, a formula with a logical function shows the word “TRUE’’ or “FALSE” as a result?</item>
+        <item> Q.12  Macros can be executed from the which of the following menu?</item>
+        <item>Q.13  Protection and the Protect Sheet options can be selected from?</item>
+        <item> Q.14  Which of the following is not a valid Zoom percentage in Excel?</item>
+        <item>Q.15  You can check the condition against……….when applying conditional formatting?</item>
+        <item> Q.16  How can we set page Border in Excel?</item>
+        <item>  Q.17  Which function calculates your monthly mortgage payment?</item>
+        <item>Q.18  Which type of charts can excel produce?</item>
+        <item>Q.19  How is data organized in a spreadsheet?</item>
+        <item>   Q.20  VLOOKUP function used to?</item>
+        <item>Q.21  How do you change column width to fit the contents?</item>
+        <item>Q.22  To insert three columns between columns A and B you would</item>
+        <item>Q.23  To drag a selected range of data to another worksheet in the same workbook, use the?</item>
+        <item>Q.24  You can activate a cell by?</item>
+        <item>Q.25  A function inside another function is known as ?</item>
+        <item>Q.26  What excel feature can you use if you want to work with one record at a time?</item>
+        <item>Q.27  Which function is used for creating a data table ?</item>
+        <item>Q.28  The accounting style shows negative numbers in?</item>
+        <item>Q.29  3-D reference in a formula?</item>
+        <item>   Q.30  3-D reference in a formula?</item>
+        <item> Q.31  Which among following is divide symbol in excel ?</item>
+        <item>  Q.32  Which function in excel counts the numbers of characters in a cell?</item>
+        <item> Q.33  Which function converts miles to kilometres ?</item>
+        <item> Q.34  What is shortcut to enter current date in cell in excel ?</item>
+        <item>Q.35  Shortcut to edit the selected cell ?</item>
+        <item>  Q.36  Which shortcut can be used to Switch between open workbooks?</item>
+        <item>Q.37  Shortcut to enter current date ?</item>
+        <item>Q.38  Shortcut to enter current date ?</item>
+        <item>Q.39  When the formula bar is activated, you can see</item>
+        <item>Q.40  Stylesheet formats can be applied from?</item>
+    </string-array>
+
+    <string-array name="option_a4">
+        <item> format cells containing number</item>
+        <item> columns</item>
+        <item> form</item>
+        <item> Edit</item>
+        <item> Pattern</item>
+        <item> Graphic program</item>
+        <item> C1:10H</item>
+        <item> Intranet Wizard</item>
+        <item> Pivot Table Report</item>
+        <item> Hyperlinks</item>
+        <item> NOT</item>
+        <item> Format</item>
+        <item> Data</item>
+        <item> 400</item>
+        <item> Cell value</item>
+        <item> From Edit menu</item>
+        <item> PV</item>
+        <item> Bar charts, line graphs and pie charts</item>
+        <item> Rows and columns</item>
+        <item> Finds related records</item>
+        <item> Single-click the boundary to the left to the column heading</item>
+        <item> Select Column A</item>
+        <item> Ctrl key</item>
+        <item> Pressing the Tab key</item>
+        <item> Nested function</item>
+        <item> Auto Complete</item>
+        <item> Sum</item>
+        <item> Bold</item>
+        <item> Spans worksheet</item>
+        <item> + and -</item>
+        <item> /</item>
+        <item>LENGTH</item>
+        <item> Change</item>
+        <item> Ctrl +;</item>
+        <item> F3</item>
+        <item> Ctrl + F2</item>
+        <item> Insert + -</item>
+        <item> Ctrl +;</item>
+        <item> The Edit Formula button</item>
+        <item> Table>>Autoformat</item>
+    </string-array>
+
+    <string-array name="option_b4">
+        <item> created and edit formulas containing functions</item>
+        <item> rows</item>
+        <item> standard</item>
+        <item> Ignore All</item>
+        <item> Gradient</item>
+        <item> Spreadsheet</item>
+        <item> C1:H10</item>
+        <item> Internet Assistant Wizard</item>
+        <item> Pivot Table List</item>
+        <item> Rows</item>
+        <item> OR</item>
+        <item> Tools</item>
+        <item> Tools</item>
+        <item> 300</item>
+        <item> Formula</item>
+        <item> From Home</item>
+        <item> NPER</item>
+        <item> Line graphs and pie charts only</item>
+        <item> Layers and planes</item>
+        <item> Looks up text that contain “V”</item>
+        <item> Double click the boundary to the right of the column heading</item>
+        <item> Select A and B</item>
+        <item> Shift key</item>
+        <item> Clicking the cell</item>
+        <item> Switched function</item>
+        <item> Data Form</item>
+        <item> Table</item>
+        <item> Italics</item>
+        <item> Can not be modified</item>
+        <item> ! and ^</item>
+        <item> D</item>
+        <item> LGT</item>
+        <item> Convert</item>
+        <item> Alt +;</item>
+        <item> F8</item>
+        <item> Ctrl + F6</item>
+        <item> Shift + -</item>
+        <item> Shift +;</item>
+        <item> The cancel button</item>
+        <item> Format>>Autoformat</item>
+    </string-array>
+
+    <string-array name="option_c4">
+        <item> entered assumption data</item>
+        <item> rows and columns</item>
+        <item> Drawing</item>
+        <item> Ignore</item>
+        <item> Velvet</item>
+        <item> Microsoft office</item>
+        <item> C1:H-10</item>
+        <item> Important Wizard</item>
+        <item> Pivot Table Field List</item>
+        <item> Index</item>
+        <item> IF</item>
+        <item> Insert</item>
+        <item> Edit</item>
+        <item> 100</item>
+        <item> Both of above</item>
+        <item> You can not set page border in Excel</item>
+        <item> PMT</item>
+        <item> Bar charts and line graphs only</item>
+        <item> Lines and spaces</item>
+        <item> Check if two cells are identical</item>
+        <item> Press Alt and single click anywhere  in the column</item>
+        <item> Select B</item>
+        <item> Alt key</item>
+        <item> Pressing an arrow key</item>
+        <item> Sandwich function</item>
+        <item> Set Form</item>
+        <item> Add</item>
+        <item> Parentheses</item>
+        <item> Only appears on summary worksheets</item>
+        <item> * and ?</item>
+        <item> Div</item>
+        <item> LEN</item>
+        <item> Shift</item>
+        <item> Shift + and</item>
+        <item> F4</item>
+        <item> Ctrl + F8</item>
+        <item> Alt + -</item>
+        <item> Home +;</item>
+        <item> The Enter button</item>
+        <item> Table>>Cells</item>
+       </string-array>
+
+    <string-array name="option_d4">
+        <item> Copy all cells</item>
+        <item> None of these</item>
+        <item> Formatting</item>
+        <item> Change</item>
+        <item> Texture</item>
+        <item> None of these</item>
+        <item> C1:H:10</item>
+        <item> Export Wizard</item>
+        <item> HTML</item>
+        <item> Transpose</item>
+        <item> AND</item>
+        <item> Home</item>
+        <item> Format</item>
+        <item> 10</item>
+        <item> None of above</item>
+        <item> From Tools menu</item>
+        <item> All of above</item>
+        <item> Only line graphs</item>
+        <item> Height and width</item>
+        <item> None of these</item>
+        <item> All of above.</item>
+        <item> All of above</item>
+        <item> Tab key</item>
+        <item> All of the above</item>
+        <item> Round function</item>
+        <item> Auto Text</item>
+        <item> Count</item>
+        <item> Quotes</item>
+        <item> Limits the formatting options</item>
+        <item> [ and ]</item>
+        <item> divided</item>
+        <item> LT</item>
+        <item> Conv</item>
+        <item> Ctrl + $</item>
+        <item> F2</item>
+        <item> Ctrl + F10</item>
+        <item> Ctrl + -</item>
+        <item> Alt +;</item>
+        <item> All of the above</item>
+        <item> Fromat>>Cells</item>
+       </string-array>
+
+    <string-array name="answer_set5">
+        <item> created and edit formulas containing functions</item>
+        <item> rows and columns</item>
+        <item> standard</item>
+        <item> Edit</item>
+        <item> Gradient</item>
+        <item> Spreadsheet</item>
+        <item> C1:H10</item>
+        <item> Internet Assistant Wizard</item>
+        <item> Pivot Table Report</item>
+        <item> Transpose</item>
+        <item> IF</item>
+        <item> Tools</item>
+        <item> Tools</item>
+        <item> 400</item>
+        <item> Both of above</item>
+        <item> You can not set page border in Excel</item>
+        <item> PMT</item>
+        <item> Bar charts, line graphs and pie charts</item>
+        <item> Rows and columns</item>
+        <item> Finds related records</item>
+        <item> Double click the boundary to the right of the column heading</item>
+        <item> Select B</item>
+        <item> Ctrl key</item>
+        <item> All of the above</item>
+        <item> Nested function</item>
+        <item> Data Form</item>
+        <item> Table</item>
+        <item> Parentheses</item>
+        <item> Spans worksheet</item>
+        <item> + and -</item>
+        <item> /</item>
+        <item> LT</item>
+        <item> Convert</item>
+        <item> Ctrl +;</item>
+        <item> F2</item>
+        <item> Ctrl + F6</item>
+        <item> Ctrl + -</item>
+        <item> Ctrl +;</item>
+        <item> All of the above</item>
+        <item> Format>>Autoformat</item>
+    </string-array>
+</resources>

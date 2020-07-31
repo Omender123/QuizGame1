@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="Math_QuestionSet1">
+     <item>Q.1  Length of a rectangle is 53 metre, while its breath is 28 metre. Cost of covering it with grass bed is Rs.27 sq meter. Find total expenditure?</item>
+      <item>Q.2  Base of a right-angle triangle is 9 cm and its area is 81 sq cm. Find its height.</item>
+      <item>Q.3  Difference between the circumferences of two circles is 132 cm and radius of the smaller circle is 14 cm. Find the radius of the larger circle?</item>
+      <item>Q,4  Poles are to be created along the boundary of a rectangular field in such a way that distance between any two adjacent poles is 1.5 metres. The perimeter of the field is 21 metres and length and the breadth are in the ratio of 4:3 respectively. How many poles will be required?</item>
+      <item>Q.5  The ratio of length and breadth of rectangle is 5:2 respectively. The respective ratio of its perimeter and area is 1:3 (irrespective of the unit). What is the length of the rectangle?</item>
+      <item>Q.6  The length of a rectangle, which is 25 cm is equal to the length of a square and the area of the rectangle is 125 square cm less than the area of the square. What is the breadth of the rectangle?</item>
+      <item>Q.7  The area of a rectangle with 10 cm length is equal to the area of a circle. Find the circumference of the circle.</item>
+      <item>Q.8  If the length of a rectangle is increased by 20% and the breadth is decreased by 10%. What will be the effect on its area?</item>
+      <item>Q.9  The ratio of length and breadth of a rectangular plot is 71:16 respectively. The area of the plot is 17324 sq.metres. What is the perimeter of the plot?</item>
+      <item>Q.10  If area of a circular jogging track is 3850 sq.metres. What is the circumference of the jogging track?</item>
+      <item>Q.11 A and B started a business by investing Rs. 36,000 and RS. 63,000. Find the share of each, out of the annual profit of Rs. 5500.</item>
+      <item>Q.12 A starts some business with Rs. 50,000. After 3 months B joins him with Rs. 70,000. At the end of the year. In what ratio should they share the profit ?</item>
+      <item>Q.13 A started a business by investing Rs. 36,000. After 4 month B joined him with some investment. At he end of the year, the total profit was divided between them in the ratio of 9:7. How much capital was invested by B in the business?</item>
+      <item>Q.14 A started some business with RS 26,000. After 3 month B joined him with Rs. 16,000. After some more time C joined them with Rs. 25,000. At he end of the year, out of a total profit of Rs.15,453 C gets Rs. 3825 as his share. How many month after B joined the business did C join?</item>
+      <item>Q.15 A, B and C started a business with their investment in the ratio 1 : 2 : 4. After 6 month A invested the half amount more as before and B invested same the amount as before while C withdrew of the their investment. Find the ratio of their profits at the end of the year.</item>
+      <item>Q.16 A started a business with Rs. 52,000 and after 4 months B joined him with Rs. 39,000. At the end of the year, out of the total profit B received total 20,000 including 25% of the profit as commission for managing the business. What amount did A receive?</item>
+      <item>Q.17 A working partner get 20% as his commission of the profit after his commission is paid. If the working partner’s commission is Rs. 8000, Then what is the total profit in the business?</item>
+      <item>Q.18 Sharma Reader publication makes a profit of 9,00,000, 20% of which is paid as taxes. If the rest is divided among the partners P Q and R in the ratio of ,then the shares of P, Q and R are respectively:</item>
+      <item>Q.19 We have to divide a sum of Rs. 13,950 among three person A, B and C. B must get the double of A’s share and C must get Rs. 50 less than the double of B’s share. The share of A will be :</item>
+      <item>Q.20. A started business with Rs. 45,000 and B joined after ward with 30,000. If the profit at the end of a year was divided in the ratio 2 : 1 respectively, then B would have joined A for business after.</item>
+  </string-array>
+
+    <string-array name="Math_option_a1">
+        <item> Rs. 40,098</item>
+        <item> 36 cm</item>
+        <item> 14 cm</item>
+        <item> 14</item>
+        <item> 27 units</item>
+        <item> 15 cm</item>
+        <item> 36 cm</item>
+        <item> 8% increase</item>
+        <item> 284 metres</item>
+        <item> 225 metres</item>
+        <item> Rs. 2000, Rs. 3500</item>
+        <item> 1 : 3</item>
+        <item> Rs. 40,000</item>
+        <item> 3</item>
+        <item> 5 : 12 : 13</item>
+        <item> Rs. 20,000</item>
+        <item> Rs. 47,000</item>
+        <item> Rs. 2,40,000; Rs. 3,20,000; Rs. 1,60,000</item>
+        <item> Rs. 1950</item>
+        <item> 1 month</item>
+    </string-array>
+
+    <string-array name="Math_option_b1">
+        <item> Rs. 40,048</item>
+        <item> 9 cm</item>
+        <item> 21 cm</item>
+        <item> 16</item>
+        <item> 32 units</item>
+        <item> 20 cm</item>
+        <item> 34 cm</item>
+        <item> 8% decrease</item>
+        <item> 528 metres</item>
+        <item> 214 metres</item>
+        <item> Rs. 2500, Rs. 3500</item>
+        <item> 3 : 2</item>
+        <item> Rs. 42,000</item>
+        <item> 4</item>
+        <item> 5 : 11 : 14</item>
+        <item> Rs. 10,000</item>
+        <item> Rs. 45,000</item>
+        <item> Rs. 3,20,000; Rs. 2,40,000; Rs. 1.60,000</item>
+        <item> Rs. 1981.25</item>
+        <item> 2 month</item>
+    </string-array>
+
+    <string-array name="Math_option_c1">
+        <item> Rs. 40,058</item>
+        <item> 27 cm</item>
+        <item> 30 cm</item>
+        <item> 15</item>
+        <item> 21 units</item>
+        <item> 12 cm</item>
+        <item> 26 cm</item>
+        <item> 2% increase</item>
+        <item> 264 metres</item>
+        <item> 220 metres</item>
+        <item> Rs. 3500, Rs. 2500</item>
+        <item> 1 : 5</item>
+        <item> Rs. 41,000</item>
+        <item> 5</item>
+        <item> 5 : 12 : 14</item>
+        <item> Rs. 15,000</item>
+        <item> Rs. 48,000</item>
+        <item> Rs. 1,60,000; Rs. 3,20,000; Rs. 2,40,000</item>
+        <item> Rs. 2000</item>
+        <item> 3 month</item>
+    </string-array>
+
+    <string-array name="Math_option_d1">
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> 20</item>
+        <item> None of these</item>
+        <item> 14 cm</item>
+        <item> cannot be determined</item>
+        <item> 2% decrease</item>
+        <item> 614 metres</item>
+        <item> 235 metres</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> Rs. 1,60,000; Rs. 2,40,000; Rs. 3,20,000</item>
+        <item> Rs. 2007.75</item>
+        <item> 4 month</item>
+    </string-array>
+
+    <string-array name="Math_answerSet1">
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> 14</item>
+        <item> 21 units</item>
+        <item> 20 cm</item>
+        <item> cannot be determined</item>
+        <item> 8% increase</item>
+        <item> 528 metres</item>
+        <item> 220 metres</item>
+        <item> Rs. 2000, Rs. 3500</item>
+        <item> None of these</item>
+        <item> Rs. 42,000</item>
+        <item> 3</item>
+        <item> 5 : 12 : 14</item>
+        <item> Rs. 20,000</item>
+        <item> Rs. 48,000</item>
+        <item> Rs. 1,60,000; Rs. 2,40,000; Rs. 3,20,000</item>
+        <item> Rs. 2000</item>
+        <item> 3 month</item>
+    </string-array>
+
+    <string-array name="Math_QuestionSet2">
+        <item>Q.1 Out of 10 teachers of a school, one teacher retires and in place of him a new teacher 25 yrs. old joins. As a result of it average age of the teachers reduces by 3 yrs. Age of the retired teacher (in yrs.) is.</item>
+        <item>Q.2 The average weight of 20 students in a class is increased by 0.75 kg when one student of 35 kg replaced by a new student weight of the new student (in kg) is:</item>
+        <item>Q.3 In a class, three are 40 boys and their age is 16 years. One boy, aged 17 years, leaving the class and another joining, the average age becomes 15.875 years. The age of the new boy is :</item>
+        <item>Q.4 The average age of 8 men is increased by 2 years when two of them whose age are 21 and 23 years replaced by two new men. The age of the two new men is :</item>
+        <item>Q.5 The average age of 30 boys in a class is 15 years. One boy, aged 20 years, left the class, but two new boys came in his place whose age differs by 5 years. If the average of all the boys now in the class becomes 15 years, the age of the younger newcomer is:</item>
+        <item>Q.6 The average marks of 32 boys of section A of class X is 60 whereas the average marks of 40 boys of section B of class X is 33. The average marks for both the sections combined together is</item>
+        <item>Q.7 A man bought 13 articles at Rs. 70 each, 15 at Rs. 60 each and 12 at Rs. 65 each. The average price per article is</item>
+        <item>Q.8 A fruit seller sold big, medium and small sized apples for Rs. 15, Rs. 10, and Rs. 5 respectively. The total number of apples sold were in the ratio 3 : 2 : 5. Find the average cost of an apple.</item>
+        <item>Q.9 A man purchased 7 bags of rice at the rate of Rs. 800 each, 8 bags of rice at Rs. 1000 each and 5 bag of rice at the rate of Rs. 1200 each. What is the average cost of one bag of rice?</item>
+        <item>Q.10 Three Science classes A, B and C take a Life Science test. The average score of class B is 76. The average score of class A and B is 79 and average score of class B and C is 81, Then the average score of class A, B and C is</item>
+        <item>Q.11 The average of marks scored by the students of a class is 68. The average of marks of the girls in the class is 80 and that of the boys is 60. What is the percentage of boys in the class?</item>
+        <item>Q.12 The average weight of 15 students in a class increases by 1.5 kg when one of the student weighing 40 kg is replaced by new student. What is the weight (in kg) of the new student?</item>
+        <item>Q.13 There are 50 students in a class. There average weight is 45 kg. When one student leaves the class the average weight reduces by 100g. What is the weight of the student who left the class ?</item>
+        <item>Q.14 The average weight of 12 crewmen in a boat is increased by kg, when one of the crewmen whose weight is 55 kg is replaced by new man. What is the weight of that new man?</item>
+        <item>Q.15 Average age of 8 men is increased by 3 years when two of them whose age are 30 and 34 years are replaced by 2 persons. What is the average age of the 2 persons?</item>
+    </string-array>
+
+    <string-array name="Math_option_a2">
+        <item> 55</item>
+        <item> 35</item>
+        <item> 12 years</item>
+        <item> 22 years</item>
+        <item> 20 years</item>
+        <item> 44</item>
+        <item> Rs. 60.25</item>
+        <item> 8</item>
+        <item> Rs. 1000</item>
+        <item> 80</item>
+        <item> 40%</item>
+        <item> 64.5kg.</item>
+        <item> 45 kg.</item>
+        <item> 58 kg</item>
+        <item> 24 years</item>
+    </string-array>
+
+    <string-array name="Math_option_b2">
+        <item> 65</item>
+        <item> 40</item>
+        <item> 14.5 years</item>
+        <item> 24 years</item>
+        <item> 15 years</item>
+        <item> 45</item>
+        <item> Rs. 64.75</item>
+        <item> 10</item>
+        <item> Rs. 980</item>
+        <item> 81</item>
+        <item> 60%</item>
+        <item> 56 kg.</item>
+        <item> 47.9 kg.</item>
+        <item> 60 kg</item>
+        <item> 32 years</item>
+    </string-array>
+
+    <string-array name="Math_option_c2">
+        <item> 45</item>
+        <item> 45</item>
+        <item> 15 years</item>
+        <item> 28 years</item>
+        <item> 10 years</item>
+        <item> 46</item>
+        <item> Rs. 65.75</item>
+        <item> 9</item>
+        <item> Rs. 1120</item>
+        <item> 80.5</item>
+        <item> 65%</item>
+        <item> 60 kg.</item>
+        <item> 49.9 kg.</item>
+        <item> 57 kg</item>
+        <item> 44 years</item>
+    </string-array>
+
+    <string-array name="Math_option_d2">
+        <item> 75</item>
+        <item> 50</item>
+        <item> 17 years</item>
+        <item> 30 years</item>
+        <item>  8 years</item>
+        <item> 45</item>
+        <item> Rs. 62.25</item>
+        <item> 7</item>
+        <item> Rs. 1050</item>
+        <item> 81.5</item>
+        <item> 70%</item>
+        <item> 62.5 kg.</item>
+        <item> 50.1 kg.</item>
+        <item> 59 kg</item>
+        <item> 48 years</item>
+    </string-array>
+
+    <string-array name="Math_answerSet2">
+        <item> 55</item>
+        <item> 50</item>
+        <item> 12 years</item>
+        <item> 30 years</item>
+        <item> 15 years</item>
+        <item> 45</item>
+        <item> Rs. 64.75</item>
+        <item> 9</item>
+        <item> Rs. 980</item>
+        <item> 81.5</item>
+        <item> 60%</item>
+        <item> 62.5 kg.</item>
+        <item> 49.9 kg.</item>
+        <item> 59 kg</item>
+        <item> 44 years</item>
+    </string-array>
+
+    <string-array name="Math_QuestionSet3">
+        <item>Q.1 A train moves past a telegraph post and a bridge 264 m ling in 8 seconds and 20 seconds respectively. What is the speed of the train?</item>
+        <item>Q.2 A train takes 18 seconds to pass completely through a station 162m long and 15 second through another station 120 m long. The length of the train is :</item>
+        <item>Q.3 How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?</item>
+        <item>Q.4 A jogger running at 9 kmph alongside a railway track is 240 metres ahead of the engine of a 120 metre long train running at 45 kmph in the same direction. In how much time will the train pass the jogger ?</item>
+        <item>Q.5 A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going ?</item>
+        <item>Q.6 Two trains 200 m and 150 m long are running on parallel rails at the rate of 40 kmph and 45 kmph respectively. In how much time will they cross each other, if they are running in the same direction ?</item>
+        <item>Q.7 Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite direction on parallel tracks. The time (in seconds) which they take to cross each other is :</item>
+        <item>Q.8 Two trains are moving in opposite directions@60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in second is :</item>
+        <item>Q.9 A train 125m long passes a man, running at 5 kmph in the same direction in which the train is going, in 10 seconds. The speed of the train is :</item>
+        <item>Q.10 A train 110 m long passes a man, running at 6 kmph in the direction opposite to that of the train, in 6 second. The speed of the train is :</item>
+        <item>Q.11 Ashutosh covers a certain distance between his home and college by cycle. Having an average speed of 30 km/h, he is late by 20 min. However, with a speed of 40 km/h, he reaches his college 10 min earlier. Find the distance between his house and collage.</item>
+        <item>Q.12 A Motorcycle move ate the speed of 80 km/hr. What is the speed of the car in meters per second?</item>
+        <item>Q.13 From stations M and N, two trains start moving towards each other at speed 125 km/h and 75 km/h respectively. When the two trains meet each</item>
+        <item>Q.14 A train passes two persons who are walking in the direction opposite to the direction of train at the rate of 10 m/s and 20 m/s respectively in 12s and 10s respectively. Find the length of the train.</item>
+        <item>Q.15 Two friends X and Y walk from A to B at distance of 39 km, at 3 km an hour and  km an hour respectively Y reaches B, returns immediately and meet X at C. Find the distance from A to C.</item>
+    </string-array>
+
+    <string-array name="Math_option_a3">
+        <item> 69.5 km/hr</item>
+        <item> 70 m</item>
+        <item> 25</item>
+        <item> 3.6 sec</item>
+        <item> 5 sec</item>
+        <item> 72 sec</item>
+        <item> 9</item>
+        <item> 36</item>
+        <item> 45 km/hr</item>
+        <item> 54 km/hr</item>
+        <item> 60 km</item>
+        <item> 8 m/sec</item>
+        <item> 190 km</item>
+        <item> 500 m</item>
+        <item> 26 s</item>
+    </string-array>
+
+    <string-array name="Math_option_b3">
+        <item> 70 km/hr</item>
+        <item> 80 m</item>
+        <item> 30</item>
+        <item> 18 sec</item>
+        <item> 6 sec</item>
+        <item> 132 sec</item>
+        <item> 9.6</item>
+        <item> 45</item>
+        <item> 50 km/hr</item>
+        <item> 60 km/hr</item>
+        <item> 50 km</item>
+        <item> 200/9 m/sec</item>
+        <item> 200 km</item>
+        <item> 900 m</item>
+        <item> 25 s</item>
+    </string-array>
+
+    <string-array name="Math_option_c3">
+        <item> 79 km/hr</item>
+        <item> 90 m</item>
+        <item> 40</item>
+        <item> 36 sec</item>
+        <item> 7 sec</item>
+        <item> 192 sec</item>
+        <item> 10</item>
+        <item> 48</item>
+        <item> 54 km/hr</item>
+        <item> 66 km/hr</item>
+        <item> 40 km</item>
+        <item> 15 m/sec</item>
+        <item> 145 km</item>
+        <item> 400 m</item>
+        <item> 15 s</item>
+    </string-array>
+
+    <string-array name="Math_option_d3">
+        <item> 79.2 km/hr</item>
+        <item> 100 m</item>
+        <item> 45</item>
+        <item> 72 sec</item>
+        <item> 10 sec</item>
+        <item> 252 sec</item>
+        <item>  10.8</item>
+        <item> 49</item>
+        <item> 55 km/hr</item>
+        <item> 72 km/hr</item>
+        <item> 20 km</item>
+        <item> None of these</item>
+        <item> 225 km</item>
+        <item> 600 m</item>
+        <item> 27 s</item>
+    </string-array>
+
+    <string-array name="Math_answerSet3">
+        <item> 79.2 km/hr</item>
+        <item> 90 m</item>
+        <item> 30</item>
+        <item> 36 sec</item>
+        <item> 6 sec</item>
+        <item> 252 sec</item>
+        <item>  10.8</item>
+        <item> 48</item>
+        <item> 50 km/hr</item>
+        <item> 60 km/hr</item>
+        <item> 60 km</item>
+        <item> 200/9 m/sec</item>
+        <item> 200 km</item>
+        <item> 600 m</item>
+        <item> 26 s</item>
+    </string-array>
+
+    <string-array name="Math_QuestionSet4">
+        <item>Q.1 A sum of Rs. 312 was divided among 100 boys and girls in such a way that each boy gets Rs. 3.60 and each girl Rs. 2.40. The number of girls is:</item>
+        <item>Q.2 Each boy contributed rupees equal to the number of girls and each girl contributed rupees equal to the number of boys in a class of 60 students. If the total contribution thus collected is Rs. 1600, how many boys are there in the class?</item>
+        <item>Q.3 In an examination, a student scores 4 marks for every correct answer and loses 1 marks for every wrong answer. If he attempts all 60 question and secure 130 marks, the number of question he attempts correctly is:</item>
+        <item>Q.4 A cricket team won 3 matches more than they lost. If a win gives them 2 points and loss (-1) point, how many matches, in all, have they played if their score is 23?</item>
+        <item>Q.5 On children’s Day, sweets were to be equally distributed among 175 children in a school. Actually, on the children’s Day, 35 children were absent and therefore each child got 4 sweets extra. Total how many sweets were available for distribution?</item>
+        <item>Q.6 A certain number of tennis balls were purchased for Rs. 450. Five more balls could have been purchased in the same amount if each ball was cheaper by Rs. 15. The number of balls purchased was:</item>
+        <item>Q.7 The price of 10 chairs is qual to that of 4 tables. The price of 15 chairs and 2 tables together is Rs. 4000. The total price of 12 chairs and 3 tables is:</item>
+        <item>Q.8 The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay?</item>
+        <item>Q.9 In a classroom, if 6 students per bench are assigned to accommodate all student, one more bench will be required. However, if 7 students are accommodated per bench, there would be space left for 5 students. What is the number of students in the class?</item>
+        <item>Q.10 In a group of buffaloes and ducks, the number of legs are 24 more than twice the number of heads. What is the number of buffaloes in the group?</item>
+        <item>Q.11 Two pipes A and B can separately fill a cistern in 60 minutes and 75 minutes respectively. There is a third pipe in the bottom of the cistern to empty it. If all the tree pipes are simultaneously opened, then the cistern is full in 50 minutes. In how much time the third pipe alone can empty the cistern?</item>
+        <item>Q.12 A Cistern can be filled by a tap in 4 hours while it can be emptied by another tap in 9 hours. If both the taps are opened simultaneously then after how much time will the cistern get filled?</item>
+        <item>Q.13 A pump can fill a tank with water in 2 hours. Because of a leak, it took   hours to fill the tank. The leak can drain all the water of the tank in:</item>
+        <item>Q.14 A tap can fill a tank in 6 hours. After the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?</item>
+        <item>Q.15 One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in :</item>
+        <item>Q.16 A water tank is two-fifth full. Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes. If both the pipes are open, how long will it take to empty or fill the tank completely?</item>
+        <item>Q.17 A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?</item>
+        <item>Q.18 Pipe A can fill a tank in 5 hours, pipe B in 10 hours and pipe C in 30 hours. If all the pipes are open, in how many hours will the tank be filled?</item>
+        <item>Q.19 A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:</item>
+        <item>Q.20 Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the tree pipe are opened together, then the tank will be filled in:</item>
+    </string-array>
+
+    <string-array name="Math_option_a4">
+        <item> 35</item>
+        <item> 25</item>
+        <item> 35</item>
+        <item> 17</item>
+        <item> 2400</item>
+        <item> 10</item>
+        <item> Rs. 3500</item>
+        <item> Rs. 1200</item>
+        <item> 30</item>
+        <item> 6</item>
+        <item> 80 min</item>
+        <item> 4.5 hrs</item>
+        <item> 6 hrs</item>
+        <item> 3 hrs</item>
+        <item> 80 min</item>
+        <item> 6 min to empty</item>
+        <item> 15 hrs</item>
+        <item> 1</item>
+        <item> 6 hrs</item>
+        <item> 30/17 hours</item>
+    </string-array>
+
+    <string-array name="Math_option_b4">
+        <item> 40</item>
+        <item> 30</item>
+        <item> 38</item>
+        <item> 20</item>
+        <item> 2480</item>
+        <item> 15</item>
+        <item> Rs. 3750</item>
+        <item> Rs. 2400</item>
+        <item> 42</item>
+        <item> 8</item>
+        <item> 100 min</item>
+        <item> 5 hrs</item>
+        <item> 8 hrs</item>
+        <item> 3 hrs 45 min</item>
+        <item> 108 min</item>
+        <item> 6 min to fill</item>
+        <item> 25 hrs</item>
+        <item> 2.5</item>
+        <item> 12 hrs</item>
+        <item> 30/11 hours</item>
+    </string-array>
+
+    <string-array name="Math_option_c4">
+        <item> 60</item>
+        <item> 50</item>
+        <item> 40</item>
+        <item> 37</item>
+        <item> 2680</item>
+        <item> 20</item>
+        <item> Rs. 3840</item>
+        <item> Rs. 4800</item>
+        <item> 72</item>
+        <item> 10</item>
+        <item> 110 min</item>
+        <item> 6.5 hrs</item>
+        <item> 10 hrs</item>
+        <item> 4 hrs</item>
+        <item> 144 min</item>
+        <item> 8min to empty</item>
+        <item> 35 hrs</item>
+        <item> 3</item>
+        <item> 15 hrs</item>
+        <item> 60/17 hours</item>
+    </string-array>
+
+    <string-array name="Math_option_d4">
+        <item> 65</item>
+        <item> Data inadequate</item>
+        <item> 42</item>
+        <item> 40</item>
+        <item> None of these</item>
+        <item> 25</item>
+        <item> Rs. 3900</item>
+        <item> cannot be determined</item>
+        <item> None of these</item>
+        <item> 12</item>
+        <item> 120 min</item>
+        <item> 7.2 hrs</item>
+        <item> 14 hrs</item>
+        <item> 5 hrs 15.</item>
+         <item>180 min</item>
+        <item> 8 min to fill</item>
+        <item>45 hrs</item>
+        <item>3.5</item>
+        <item> 30 hrs</item>
+        <item> 9/2  hours</item>
+    </string-array>
+
+    <string-array name="Math_answerSet4">
+        <item> 40</item>
+        <item> Data inadequate</item>
+        <item> 38</item>
+        <item> 37</item>
+        <item> None of these</item>
+        <item> 10</item>
+        <item> Rs. 3900</item>
+        <item> Rs. 2400</item>
+        <item> 72</item>
+        <item> 12</item>
+        <item> 100 min</item>
+        <item> 7.2 hrs</item>
+        <item> 14 hrs</item>
+        <item> 3 hrs 45 min</item>
+        <item> 144 min</item>
+        <item> 6 min to empty</item>
+        <item> 35 hrs</item>
+        <item> 3</item>
+        <item> 15 hrs</item>
+        <item> 60/17  hours</item>
+    </string-array>
+
+
+    <string-array name="Math_QuestionSet5">
+        <item>Q.1 Find the cube root of 2744</item>
+        <item>Q.2 Find the cube root of 9261.</item>
+        <item>Q.3 Find the square root of 1089.</item>
+        <item>Q.4  What is the square root of 151321?</item>
+        <item>Q.5 Find the square root of 147.1369.</item>
+        <item>Q.6 A person incurs 5% loss by selling a watch for Rs. 1140. At what price should the watch be sold to earn 5% profit.</item>
+        <item>Q.7 A Bought pens at the rate of 15 per rupee and sold them at the rate of 12 for a rupee. His gain percent is</item>
+        <item>Q.8 If the cost price of 12 orange is equal to selling price of 10 orange. Then the profit or los percentage is :</item>
+        <item>Q.9 A man sells an article at a profit of 40%. If he had bought it at 40% less and sold for Rs.5 less, he would have gained 50%. Find the cost price of the article.</item>
+        <item>Q.10 If the cost price is 95% of the selling price, what is the profit percent?</item>
+        <item>Q.11 How many kilograms of Red chili powder costing Rs. 9 per kg must be mixed with 27 kg of Red chili powder costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?</item>
+        <item>Q.12 A can contains a mixture of two liquids A and B in the ratio 7 : 5. When 9 L mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. Litres of liquid A contained by the can initially was</item>
+        <item>Q.13 Sugar worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:</item>
+        <item>Q.14 A container has 80 L of milk. From this container 8 L of milk was taken out and replaced by water. The process was further repeated twice. The volume of milk in the container after that is</item>
+        <item>Q.15 A can contains a mixture of two liquids Milk and Water is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with Water, the ratio of Milk and Water becomes 7 : 9. How many litres of liquid Milk was contained by the can initially?</item>
+        <item>Q.16 15 L of mixture contains alcohol and water in the raito 1 : 4. If 3 L of water is mixed in it, the percentage of alcohol in the new mixture will be</item>
+        <item>Q.17 How much water be added to a bucket which contains 40 L of milk at the cost price of Rs. 3.50 per litre, so that the cost of milk reduced to Rs 2 per litre ?</item>
+        <item>Q.18 3 containers has milk and water in ratio 2 : 1, 3 : 1, 3 : 2 respectively and all three containers are emptied into a bigger container, then ratio of milk in bigger container.</item>
+        <item>Q.19 A milk seller has a milk of Rs. 100 per litre. In what ratio should water be mixed in that milk, so that after selling the mixture at Rs 80 per litre, he may get a profit of 50%?</item>
+        <item>Q.20 A container has 60 L of milk, from this container, 4 L of milk is taken out and replaced with water. If this process is repeated 3 times, then quantity of milk in container left</item>
+    </string-array>
+
+    <string-array name="Math_option_a5">
+        <item> 14</item>
+        <item> 22</item>
+        <item> 34</item>
+        <item> 386</item>
+        <item> 12.15</item>
+        <item> 1320</item>
+        <item> 25%</item>
+        <item> 10%</item>
+        <item> Rs. 10</item>
+        <item> 4</item>
+        <item> 63</item>
+        <item> 10</item>
+        <item> Rs. 185.50</item>
+        <item> 58.23 L</item>
+        <item> 12</item>
+        <item> 15</item>
+        <item> 25 L</item>
+        <item> 121 : 59</item>
+        <item> 7 : 8</item>
+        <item> 568.7 L</item>
+    </string-array>
+
+    <string-array name="Math_option_b5">
+        <item> 18</item>
+        <item> 21</item>
+        <item> 33</item>
+        <item> 384</item>
+        <item> 14.11</item>
+        <item> 1260</item>
+        <item> 26%</item>
+        <item> 20%</item>
+        <item> Rs. 15</item>
+        <item> 4.75</item>
+        <item> 36</item>
+        <item> 20</item>
+        <item> Rs. 195.50</item>
+        <item> 85.23 L</item>
+        <item> 15</item>
+        <item>50/3</item>
+        <item> 28 L</item>
+        <item> 59 : 121</item>
+        <item> 7 : 9</item>
+        <item> 754.6 L</item>
+    </string-array>
+
+    <string-array name="Math_option_c5">
+        <item> 16</item>
+        <item> 23</item>
+        <item> 32</item>
+        <item> 389</item>
+        <item> 12.13</item>
+        <item> 1210</item>
+        <item> 50%</item>
+        <item> 30%</item>
+        <item> Rs. 20</item>
+        <item> 5</item>
+        <item> 42</item>
+        <item> 21</item>
+        <item> Rs. 165.50</item>
+        <item> 58.32 L</item>
+        <item> 21</item>
+        <item> 17</item>
+        <item> 30 L</item>
+        <item> 120 : 60</item>
+        <item> 9 : 7</item>
+        <item> 48.78 L</item>
+    </string-array>
+
+    <string-array name="Math_option_d5">
+        <item> 22</item>
+        <item> 24</item>
+        <item> 22</item>
+        <item> 400</item>
+        <item> 11.12</item>
+        <item> 1350</item>
+        <item> 53%</item>
+        <item> 35%</item>
+        <item> Rs. 30</item>
+        <item> 5.26</item>
+        <item> 32</item>
+        <item> 25</item>
+        <item> Rs. 175.50</item>
+        <item> 85..32 L</item>
+        <item> 26</item>
+        <item> 37/2</item>
+        <item> 35 L</item>
+        <item> None of these</item>
+        <item> 7 : 5</item>
+        <item> None of these</item>
+    </string-array>
+
+    <string-array name="Math_answerSet5">
+        <item> 14</item>
+        <item> 21</item>
+        <item> 33</item>
+        <item> 389</item>
+        <item> 11.12</item>
+        <item> 1260</item>
+        <item> 25%</item>
+        <item> 20%</item>
+        <item> Rs. 10</item>
+        <item> 5.26</item>
+        <item> 63</item>
+        <item> 21</item>
+        <item> Rs. 175.50</item>
+        <item> 58.32 L</item>
+        <item> 21</item>
+        <item>50/3</item>
+        <item> 30 L</item>
+        <item> 121 : 59</item>
+        <item> 7 : 8</item>
+        <item> 48.78 L</item>
+    </string-array>
+</resources>
+

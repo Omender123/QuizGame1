@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="World_QuestionSet1">
+        <item>Q.1 Who is the first person to reach Mount Everest?</item>
+        <item>Q.2 Who is the first person to reach North Pole?</item>
+        <item>Q.3 Who is the first person to reach the South Pole?</item>
+        <item>Q.4 Which is the religion of the world?</item>
+        <item>Q.5 Which is the first country to print book?</item>
+        <item>Q.6 Which is the first country to issue paper currency?</item>
+        <item>Q.7 Which is the first country to commence competitive examination in civil services?</item>
+        <item>Q.8 Who is the first President of the U.S.A</item>
+        <item>Q.9 Who is the first Prime Minister of Britain?</item>
+        <item>Q.10 Who is the  first Governor General of the United Nations?</item>
+        <item>Q.11 Which is the first country to win football World cup?</item>
+        <item>Q.12 Which is the first country to prepare a constitution?</item>
+        <item>Q.13 Who was the first Governor General of Pakistan?</item>
+        <item>Q.14 Which is the first country to host NAM summit?</item>
+        <item>Q.15 Who was the first European to attack India?</item>
+        <item>Q.16 Who was the first European to reach China?</item>
+        <item>Q.17 Who was the first person to fly aero plane?</item>
+        <item>Q.18 Who was the first person to sail round the world?</item>
+        <item>Q.19 Which was the first country to send man to the moon?</item>
+        <item>Q.20 Which was the first country to launch Artificial satellite in the space?</item>
+        <item>Q.21 Which is the first country to host the modern Olympics ?</item>
+        <item>Q.22 Which was the first city on which the atom bomb was dropped?</item>
+        <item>Q.23 Who was the first person to land on the moon?</item>
+        <item>Q.24 Which was the first shuttle to go in space?</item>
+        <item>Q.25 Which is the first spacecraft to reach on Mars?</item>
+        <item>Q.26 Who was the first woman Prime Minister of England?</item>
+        <item>Q.27 Who was the first Muslim Prime Minister of a country?</item>
+        <item>Q.28 Who was the first woman Prime Minister of a country?</item>
+        <item>Q.29 Who was the first woman to climb Mount Everest?</item>
+        <item>Q.30 Who was the first woman cosmonaut of the world?</item>
+    </string-array>
+
+    <string-array name="World_option_a1">
+        <item> Sherpa Tensing, Edmund Hillary</item>
+        <item> Robert Peary</item>
+        <item> Amundsen</item>
+        <item> Hinduism</item>
+        <item> China</item>
+        <item> China</item>
+        <item> China</item>
+        <item> George Washington</item>
+        <item> George Washington</item>
+        <item> Trigveli (Norway)</item>
+        <item> Uruguay</item>
+        <item> U.S.A</item>
+        <item> Mohd.Ali Jinnah</item>
+        <item> Belgrade (Yugoslavia)</item>
+        <item> Alexander, The great</item>
+        <item> Marco Polo</item>
+        <item> Wright Brothers</item>
+        <item> Magellan</item>
+        <item> USA</item>
+        <item> Russia</item>
+        <item> Greece</item>
+        <item> Hiroshima (Japan)</item>
+        <item> Neil Armstrong</item>
+        <item> Columbia</item>
+        <item> Viking - 1</item>
+        <item> Margaret Thatcher</item>
+        <item> Benazir Bhutto (Pakistan)</item>
+        <item> Mrs. S. Bandamaike (Sri Lanka)</item>
+        <item> Mrs. Junko Tabei</item>
+        <item> Velentina Tereshkova</item>
+
+    </string-array>
+
+    <string-array name="World_option_b1">
+        <item> Sherpa Tensing</item>
+        <item> Rajesh Sharma</item>
+        <item> Rajesh Sharma</item>
+        <item> Muslim</item>
+        <item> India</item>
+        <item> India</item>
+        <item> India</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> India</item>
+        <item> India</item>
+        <item> Robert Walpole</item>
+        <item> India</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> India</item>
+        <item> India</item>
+        <item> India</item>
+        <item> Singapore</item>
+        <item> Robert Walpole</item>
+        <item> Radar</item>
+        <item> Vikrant -1</item>
+        <item> Hilary</item>
+        <item> Indira Gandhi</item>
+        <item> Sarojini Naidu</item>
+        <item> Hilary</item>
+        <item> Hilary</item>
+    </string-array>
+    
+    <string-array name="World_option_c1">
+        <item> Charles Hillary</item>
+        <item> Charles Hillary</item>
+        <item> Charles Hillary</item>
+        <item> Sikh</item>
+        <item> USA</item>
+        <item> USA</item>
+        <item> USA</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> USA</item>
+        <item> USA</item>
+        <item> Henry Waterloo</item>
+        <item> USA</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> China</item>
+        <item> USA</item>
+        <item> USA</item>
+        <item> Pataya</item>
+        <item> Henry Waterloo</item>
+        <item>India</item>
+        <item> Shelter</item>
+        <item> Katrina Joy</item>
+        <item> Farukha Bibi</item>
+        <item> Indira Gandhi</item>
+        <item> Katrina Joy</item>
+        <item> Katrina Joy</item>
+    </string-array>
+
+    <string-array name="World_option_d1">
+        <item> Johan don</item>
+        <item> Johan don</item>
+        <item> Johan don</item>
+        <item> Christian</item>
+        <item> UK</item>
+        <item> UK</item>
+        <item> UK</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> UK</item>
+        <item> UK</item>
+        <item> George Bush</item>
+        <item> UK</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> UK</item>
+        <item> UK</item>
+        <item> UK</item>
+        <item> Malesia</item>
+        <item> George Bush</item>
+        <item> U.S.A</item>
+        <item> Magway</item>
+        <item> Michel</item>
+        <item> Mumtaj Begum</item>
+        <item> Anpanman Sen</item>
+        <item> Michel</item>
+        <item> Michel</item>
+    </string-array>
+
+    <string-array name="World_answer_Set1">
+        <item> Sherpa Tensing, Edmund Hillary</item>
+        <item> Robert Peary</item>
+        <item> Amundsen</item>
+        <item> Hinduism</item>
+        <item> China</item>
+        <item> China</item>
+        <item> China</item>
+        <item> George Washington</item>
+        <item> Robert Walpole</item>
+        <item> Trigveli (Norway)</item>
+        <item> Uruguay</item>
+        <item> U.S.A</item>
+        <item> Mohd. Ali Jinnah</item>
+        <item> Belgrade (Yugoslavia)</item>
+        <item> Alexander, The great</item>
+        <item> Marco Polo</item>
+        <item> Wright Brothers</item>
+        <item> Magellan</item>
+        <item> USA</item>
+        <item> Russia</item>
+        <item> Greece</item>
+        <item> Hiroshima (Japan)</item>
+        <item> Neil Armstrong</item>
+        <item> Columbia</item>
+        <item> Viking - 1</item>
+        <item> Margaret Thatcher</item>
+        <item> Benazir Bhutto (Pakistan)</item>
+        <item> Mrs. S. Bandamaike (Sri Lanka)</item>
+        <item> Mrs. Junko Tabei</item>
+        <item> Velentina Tereshkova</item>
+    </string-array>
+
+    <string-array name="World_QuestionSet2">
+        <item>Q.1 Who was the first woman President of the U.N. General Assembly?</item>
+        <item>Q.2 Who was the first man to fly into space?</item>
+        <item>Q.3 Who was the first batsman to score three test century in three successive tests on debut?</item>
+        <item>Q.4 Who was the first man to have climbed Mount Everest Twice?</item>
+        <item>Q.5. Who was the first U.S. President to resign Presidency?</item>
+        <item>Q.6 The deepest point in the world is</item>
+        <item>Q.7 The Mariana Trench is in the __________ Ocean.</item>
+        <item>Q.8 The depth of the Mariana Trench is __________ meters.</item>
+        <item>Q.9 Panama (a country) connects the two continents</item>
+        <item>Q.10 Turkey connects the two continents</item>
+        <item>Q.11 Egypt connects the two continents</item>
+        <item>Q.12 The Panama Canal in Panama is a man-made 77 km waterway that connects</item>
+        <item>Q.13 The Engadin Valley is located in</item>
+        <item>Q.14 The Pico Island is located in</item>
+        <item>Q.15 Sultan Ahmed Mosque in Istanbul is popularly known as the</item>
+        <item>Q.16 The Great Pyramid of Giza, the oldest of the ancient 7 wonders of the world, is located in</item>
+        <item>Q.17 Lake Lucerne that has complicated shape with several sharp bends and four arms is located in</item>
+        <item>Q.18 Which city is also called The City of 1,000 Minarets?</item>
+        <item>Q.19 The South Pole of the Earth is located in</item>
+        <item>Q.20 The North Pole of the Earth is located in</item>
+        <item>Q.21 Which statement is true about South and North Poles of the Earth?</item>
+        <item>Q.22 The Sinai Peninsula is located in</item>
+        <item>Q.23 Augusta Raurica, a Roman archaeological site, was a/an</item>
+        <item>Q.24 Augusta Raurica is located in</item>
+        <item>Q.25 The Pena Palace, a UNESCO World Heritage Site, is located in</item>
+    </string-array>
+
+    <string-array name="World_option_a2">
+        <item> Vijay Lakshmi Pandi</item>
+        <item> Yuri Gagarin</item>
+        <item> Mohd. Azharuddin</item>
+        <item> Nawang Gombu</item>
+        <item> Richard Nixon</item>
+        <item> Dead Sea</item>
+        <item> Arctic</item>
+        <item> 10,014</item>
+        <item> Asia and Africa</item>
+        <item> Asia and Africa</item>
+        <item> Asia and Africa</item>
+        <item> Atlantic Ocean and Arctic</item>
+        <item> Egypt</item>
+        <item> Egypt</item>
+        <item> Red Mosque</item>
+        <item> Egypt</item>
+        <item> Egypt</item>
+        <item> Cairo</item>
+        <item> Pacific Ocean</item>
+        <item> Pacific Ocean</item>
+        <item> South Pole is warmer than the North Pole</item>
+        <item> Switzerland</item>
+        <item> theater</item>
+        <item> Egypt</item>
+        <item> Egypt</item>
+    </string-array>
+
+    <string-array name="World_option_b2">
+        <item> Sarojini Naidu</item>
+        <item> Robert Walpole</item>
+        <item> Sacchin Tendulkar</item>
+        <item> Robert Walpole</item>
+        <item> Robert Walpole</item>
+        <item> South Pole</item>
+        <item> Pacific</item>
+        <item> 10,411</item>
+        <item> Asia and Europe</item>
+        <item> Asia and Europe</item>
+        <item> Asia and Europe</item>
+        <item> Pacific Ocean and Arctic Ocean</item>
+        <item> Turkey</item>
+        <item> Turkey</item>
+        <item> Blue Mosque</item>
+        <item> Turkey</item>
+        <item> Turkey</item>
+        <item> Makkah</item>
+        <item> Arctic Ocean</item>
+        <item> Arctic Ocean</item>
+        <item> North Pole is warmer than the South Pole</item>
+        <item> Portugal</item>
+        <item> museum</item>
+        <item> Turkey</item>
+        <item> Turkey</item>
+    </string-array>
+
+    <string-array name="World_option_c2">
+        <item> Indira Gandhi</item>
+        <item> Henry Waterloo</item>
+        <item> Gail</item>
+        <item> Henry Waterloo</item>
+        <item> Henry Waterloo</item>
+        <item> Sinai Peninsula</item>
+        <item> Atlantic</item>
+        <item> 10,611</item>
+        <item> Asia and Australia</item>
+        <item> Asia and Australia</item>
+        <item> Asia and Australia</item>
+        <item> Atlantic Ocean and Pacific Ocean</item>
+        <item> Portugal</item>
+        <item> Portugal</item>
+        <item> Yellow Mosque</item>
+        <item> Portugal</item>
+        <item> Portugal</item>
+        <item> Istanbul</item>
+        <item> Antarctica</item>
+        <item> Antarctica</item>
+        <item> Both poles have equal temperature</item>
+        <item> Turkey</item>
+        <item> open-air theater</item>
+        <item> Portugal</item>
+        <item> Portugal</item>
+    </string-array>
+
+    <string-array name="World_option_d2">
+        <item> Anpanman Sen</item>
+        <item> George Bush</item>
+        <item> Virat Kohali</item>
+        <item> George Bush</item>
+        <item> George Bush</item>
+        <item> Mariana Trench</item>
+        <item> Antarctic</item>
+        <item> 10,911</item>
+        <item> South America and North America</item>
+        <item> South America and North America</item>
+        <item> South America and North America</item>
+        <item> Arctic Ocean and Antarctic Ocean</item>
+        <item> Switzerland</item>
+        <item> Switzerland</item>
+        <item> Green Mosque</item>
+        <item> Switzerland</item>
+        <item> Switzerland</item>
+        <item> Islamabad</item>
+        <item> Norway</item>
+        <item> Norway</item>
+        <item> Both poles lie in the Ocean</item>
+        <item> Egypt</item>
+        <item> open-air museum</item>
+        <item> Switzerland</item>
+        <item> Switzerland</item>
+    </string-array>
+
+    <string-array name="World_answer_Set2">
+        <item> Vijay Lakshmi Pandi</item>
+        <item> Yuri Gagarin</item>
+        <item> Mohd. Azharuddin</item>
+        <item> Nawang Gombu</item>
+        <item> Richard Nixon</item>
+        <item> Mariana Trench</item>
+        <item> Pacific</item>
+        <item> 10,911</item>
+        <item> South America and North America</item>
+        <item> Asia and Europe</item>
+        <item> Asia and Africa</item>
+        <item> Atlantic Ocean and Pacific Ocean</item>
+        <item> Switzerland</item>
+        <item> Portugal</item>
+        <item> Blue Mosque</item>
+        <item> Egypt</item>
+        <item> Switzerland</item>
+        <item> Cairo</item>
+        <item> Antarctica</item>
+        <item> Arctic Ocean</item>
+        <item> North Pole is warmer than the South Pole</item>
+        <item> Egypt</item>
+        <item> open-air museum</item>
+        <item> Switzerland</item>
+        <item> Portugal</item>
+    </string-array>
+
+
+    <string-array name="World_QuestionSet3">
+        <item>Q.1 Rivers Tigris and Euphrates are associated with?</item>
+        <item>Q.2 Which is considered as the oldest civilization of the world?</item>
+        <item>Q.3 Which among following is called "Gift of the Nile”?</item>
+       <item> Q.4 Who is considered as the master of Greek comedy?</item>
+        <item>Q.5 When ancient Olympic games first held?</item>
+        <item> Q.6 Who is known as the father of Modern Medicine?</item>
+        <item>Q.7 Who is known as the father of Modern Medicine?</item>
+        <item> Q.8 Which was not a Roman Philosopher?</item>
+        <item>Q.9 Who was among the famous Roman poets?</item>
+        <item>Q.10 Marco Polo, the Venetian traveler, traveled from Venice to China and Japan in:</item>
+        <item>Q.11 In which year Bartholomew Diaz reached Cape of Good Hope?</item>
+        <item>Q.12 Vasco da Gama reached in India in the year?</item>
+        <item> Q.13 Who was the first to sail around the world?</item>
+        <item> Q.14 America was discovered in?</item>
+        <item>Q.15 Brazil was discovered in?</item>
+        <item>Q.16 Who discovered the North Pole?</item>
+        <item> Q.17 Magna Carta or The Great Charter was signed in</item>
+        <item>  Q.18 Habeas Corpus Act was passed in?</item>
+        <item> Q.19 "Boston Tea Party" incident happened in?</item>
+        <item>   Q.20 In which year American Revolution started?</item>
+      <item>  Q.21 In which year American Independence was acknowledged by England?</item>
+        <item> Q.22 French Revolution was started in the Year?</item>
+        <item> Q.23 Young Italy movement by led by two revolutionaries, one was "Mazzini" and Other was?</item>
+        <item>Q.24 Rome was liberated by the Italian soldiers in the year?</item>
+        <item>Q.25 When did World War 2 start?</item>
+        <item>   Q.26 When was Bulkan War II fought?</item>
+        <item>Q.27 Who is known as Man of Blood and Iron?</item>
+        <item>  Q.28 In which year Hitler became the Chancellor of Germany?</item>
+        <item>  Q.29 Who was the author of the "American Declaration of Independence”?</item>
+        <item>Q.30 The Renaissance scientist who explained how planets moved around the sun was?</item>
+    </string-array>
+
+    <string-array name="World_option_a3">
+        <item> Mesopotamian Civilization</item>
+        <item>Mesopotamian Civilization</item>
+        <item>China</item>
+        <item>Aeschylus</item>
+        <item>776 BC</item>
+        <item>Euclid</item>
+        <item>Euclid</item>
+        <item>Cicero</item>
+        <item>Tacitus</item>
+        <item>1285 - 90</item>
+        <item>1480</item>
+        <item>1495</item>
+        <item>Francis Drake</item>
+        <item>1491</item>
+        <item>1500</item>
+        <item>Captain James</item>
+        <item>1210</item>
+        <item>1679</item>
+        <item>1770</item>
+        <item>1774</item>
+        <item>1782</item>
+        <item>1786</item>
+        <item>Garibaldi</item>
+        <item>1869</item>
+        <item>1937</item>
+        <item>1912</item>
+        <item>Napoleon</item>
+        <item>1932</item>
+        <item>Jefferson</item>
+        <item>Kepler</item>
+    </string-array>
+
+    <string-array name="World_option_b3">
+        <item> Egyptian Civilization</item>
+        <item>Egyptian Civilization</item>
+        <item>India</item>
+        <item>Sophocles</item>
+        <item>780 BC</item>
+        <item>Pythagoras</item>
+        <item>Pythagoras</item>
+        <item>Seneca</item>
+        <item>Plinky</item>
+        <item>1288 - 93</item>
+        <item>1487</item>
+        <item>1496</item>
+        <item>Columbus</item>
+        <item>1492</item>
+        <item>1505</item>
+        <item>Magellan</item>
+        <item>1215</item>
+        <item>1683</item>
+        <item>1771</item>
+        <item>1775</item>
+        <item>1783</item>
+        <item>1787</item>
+        <item>Victor</item>
+        <item>1870</item>
+        <item>1938</item>
+        <item>1913</item>
+        <item>Bismarck</item>
+        <item>1933</item>
+        <item>Lafayette</item>
+        <item>Rabelais</item>
+    </string-array>
+
+    <string-array name="World_option_c3">
+        <item> Harappan Civilization</item>
+        <item>Harappan Civilization</item>
+        <item>Iraq</item>
+        <item>Aristophanes</item>
+        <item>790 BC</item>
+        <item>Hippocrates</item>
+        <item>Hippocrates</item>
+        <item>Lucretius</item>
+        <item>Virgil</item>
+        <item>1290 - 96</item>
+        <item>1495</item>
+        <item>1497</item>
+        <item>Magellan</item>
+        <item>1493</item>
+        <item>1510</item>
+        <item>Amundsen</item>
+        <item>1220</item>
+        <item>1691</item>
+        <item>1772</item>
+        <item>1776</item>
+        <item>1784</item>
+        <item>1788</item>
+        <item>Emmanuel</item>
+        <item>1871</item>
+        <item>1939</item>
+        <item>1914</item>
+        <item>Ho Chi Minh</item>
+        <item>1944</item>
+        <item>George Washington</item>
+        <item>Francis Bacoor</item>
+    </string-array>
+
+    <string-array name="World_option_d3">
+        <item> Chinese Civilization</item>
+        <item>Chinese Civilization</item>
+        <item>Egypt</item>
+        <item>Philip</item>
+        <item>800 BC</item>
+        <item>Eratosthenes</item>
+        <item>Eratosthenes</item>
+        <item>Octavian</item>
+        <item>Marcus</item>
+        <item>1295 - 1301</item>
+        <item>1500</item>
+        <item>1498</item>
+        <item>Vasco da Gama</item>
+        <item>1494</item>
+        <item>1515</item>
+        <item>Robert Peary</item>
+        <item>1225</item>
+        <item>1997</item>
+        <item>1773</item>
+        <item>1777</item>
+        <item>1785</item>
+        <item>1789</item>
+        <item>Louis</item>
+        <item>1872</item>
+        <item>1940</item>
+        <item>1915</item>
+        <item>Sir Walter Scott</item>
+        <item>1945</item>
+        <item>Thomas Paine</item>
+        <item>Gutenberg</item>
+    </string-array>
+
+    <string-array name="World_answer_Set3">
+        <item> Mesopotamian Civilization</item>
+        <item>Mesopotamian Civilization</item>
+        <item>Egypt</item>
+        <item>Aristophanes</item>
+        <item>776 BC</item>
+        <item>Hippocrates</item>
+        <item>Hippocrates</item>
+        <item>Octavian</item>
+        <item>Virgil</item>
+        <item>1288 - 93</item>
+        <item>1487</item>
+        <item>1498</item>
+        <item>Magellan</item>
+        <item>1492</item>
+        <item>1500</item>
+        <item>Robert Peary</item>
+        <item>1215</item>
+        <item>1679</item>
+        <item>1773</item>
+        <item>1775</item>
+        <item>1783</item>
+        <item>1789</item>
+        <item>Garibaldi</item>
+        <item>1870</item>
+        <item>1939</item>
+        <item>1913</item>
+        <item>Bismarck</item>
+        <item>1933</item>
+        <item>Jefferson</item>
+        <item>Kepler</item>
+    </string-array>
+
+
+    <string-array name="World_QuestionSet4">
+        <item>Q.1 Russian revolutionary, who founded the Communist Party was</item>
+        <item>Q.2 Who is also known as the founder of scientific socialism?</item>
+        <item>Q.3 Who said that " Man is a political animal”?</item>
+        <item>Q.4 In which country Aztec civilization was originated?</item>
+        <item> Q.5 Who was the Emperor of Russia during Russia revolution?</item>
+        <item> Q.6 What is the name first Roman Emperor?</item>
+        <item>Q.7 Who is known as "Father of History”?</item>
+        <item>Q.8 What is the name of the autobiography of Adolf Hitler?</item>
+        <item>Q.9 Who was the last Emperor of Rome?</item>
+        <item>Q.10 The Parliament of Great Britain was formed in the year?</item>
+        <item>Q.11 In which year, Alexander the Great become the king of Macedonia</item>
+        <item>Q.12 The European renaissance started from which country</item>
+        <item>Q.13 The Battle of Waterloo was fought in the year</item>
+        <item>Q.14 On which island of French, Napoleon was born</item>
+        <item>Q.15 In which year America got independence</item>
+        <item>Q.16 Who is known as the Artist of the world-famous painting "Mona Lisa"</item>
+        <item>Q.17 Who was the king during the French revolution</item>
+        <item>Q.18 "The Hundred Years" War (from 1337 to 1453) was fought between</item>
+        <item>Q.19 Queen Elizabeth I of England belongs to which dynasty</item>
+        <item>Q.20 "Boston Tea Party" protest was associated with the revolution of</item>
+        <item>Q.21 Which king of England was forced to signed the "Magna Carta"</item>
+        <item>Q.22 When the first Ancient Geek Olympic Game was begun</item>
+        <item>Q.23 Who was the author of United States Declaration of Independence</item>
+        <item>Q.24 Napoleon was exiled to the Saint Helena after the defeat in the war of</item>
+        <item>Q.25 Who was the President of America during American Civil War</item>
+        <item>Q.26 Industrial Revolution was started from which country</item>
+        <item>Q.27 When did Julius Caesar first invaded Britain</item>
+        <item>Q.28 Which Mountains volcano buried Pompeii city with ash in 79 AD</item>
+        <item> Q.29 Which city was recaptured at the end of the first war of Crusade</item>
+        <item>Q.30 First war of Crusade was ended in the year</item>
+    </string-array>
+
+    <string-array name="World_option_a4">
+        <item>Karl Marx</item>
+        <item>Karl Marx</item>
+        <item>Aristotle</item>
+        <item>Greece</item>
+        <item>Nicholas I</item>
+        <item>Claudius</item>
+        <item>Mark Antony</item>
+        <item>First Attack</item>
+        <item>Nero</item>
+        <item>1705</item>
+        <item>336 BC</item>
+        <item>England</item>
+        <item>1800</item>
+        <item>Saint Helena</item>
+        <item>1760</item>
+        <item>Filippo Brunelleschi</item>
+        <item>Napoleon</item>
+        <item>England and French</item>
+        <item>Stuart</item>
+        <item>America</item>
+        <item>King Richard I</item>
+        <item>776 BC</item>
+        <item>Thomas Jefferson</item>
+        <item>Russia</item>
+        <item>Abraham Lincoln</item>
+        <item>French</item>
+        <item>33BC</item>
+        <item>Mount Pele</item>
+        <item>Rome</item>
+        <item>1099</item>
+    </string-array>
+
+    <string-array name="World_option_b4">
+        <item>Stalin</item>
+        <item>Lenin</item>
+        <item>Karl Marx</item>
+        <item>USA</item>
+        <item>Nicholas II</item>
+        <item>Augustus</item>
+        <item>Nero</item>
+        <item>Mein Kompf</item>
+        <item>Cesare</item>
+        <item>1706</item>
+        <item>323 BC</item>
+        <item>French</item>
+        <item>1805</item>
+        <item>Corsica</item>
+        <item>1776</item>
+        <item>Michelangelo</item>
+        <item>Louis XV</item>
+        <item>Germany and Russia</item>
+        <item>York</item>
+        <item>Italy</item>
+        <item>King Louis</item>
+        <item>552 BC</item>
+        <item>George Washington</item>
+        <item>Waterloo</item>
+        <item>Andrew Jackson</item>
+        <item>Germany</item>
+        <item>44BC</item>
+        <item>Mount Tambura</item>
+        <item>Venice</item>
+        <item>1095</item>
+    </string-array>
+
+    <string-array name="World_option_c4">
+        <item>Lenin</item>
+        <item>Rousseau</item>
+        <item>Lenin</item>
+        <item>Mexico</item>
+        <item>Alexander I</item>
+        <item>Caligula</item>
+        <item>Herodotus</item>
+        <item>My Spirit</item>
+        <item>Romulus August ulus</item>
+        <item>1707</item>
+        <item>350 BC</item>
+        <item>Italy</item>
+        <item>1807</item>
+        <item>Elba</item>
+        <item>1780</item>
+        <item>Vincent van Gogh</item>
+        <item>Louis XVI</item>
+        <item>America and Argentina</item>
+        <item>Tudor</item>
+        <item>French</item>
+        <item>Henry III</item>
+        <item>800 BC</item>
+        <item>Abraham Lincoln</item>
+        <item>Peninsular</item>
+        <item>George Washington</item>
+        <item>Italy</item>
+        <item>55BC</item>
+        <item>Mount Etna</item>
+        <item>Jerusalem</item>
+        <item>1123</item>
+    </string-array>
+
+    <string-array name="World_option_d4">
+        <item>Trotsky</item>
+        <item>Engels</item>
+        <item>Plato</item>
+        <item>Egypt</item>
+        <item>Alexander II</item>
+        <item>Nero</item>
+        <item>Homer</item>
+        <item>Ray of Hope</item>
+        <item>Julius</item>
+        <item>1708</item>
+        <item>200 BC</item>
+        <item>Greece</item>
+        <item>1815</item>
+        <item>Operon</item>
+        <item>1782</item>
+        <item>Leonardo da Vinci</item>
+        <item>Charles IX</item>
+        <item>England and Germany</item>
+        <item>Normandy</item>
+        <item>India</item>
+        <item>King John</item>
+        <item>235 BC</item>
+        <item>Benjamin Franklin</item>
+        <item>Rivulid</item>
+        <item>James Madison</item>
+        <item>England</item>
+        <item>66BC</item>
+        <item>Mount Vesuvius</item>
+        <item>Vienna</item>
+        <item>1323</item>
+    </string-array>
+
+    <string-array name="World_answer_Set4">
+        <item>Lenin</item>
+        <item>Karl Marx</item>
+        <item>Aristotle</item>
+        <item>Mexico</item>
+        <item>Nicholas II</item>
+        <item>Augustus</item>
+        <item>Herodotus</item>
+        <item>My Spirit</item>
+        <item>Romulus August ulus</item>
+        <item>1707</item>
+        <item>336 BC</item>
+        <item>Italy</item>
+        <item>1815</item>
+        <item>Corsica</item>
+        <item>1776</item>
+        <item>Leonardo da Vinci</item>
+        <item>Louis XVI</item>
+        <item>England and French</item>
+        <item>Tudor</item>
+        <item>America</item>
+        <item>King John</item>
+        <item>776 BC</item>
+        <item>Thomas Jefferson</item>
+        <item>Waterloo</item>
+        <item>Abraham Lincoln</item>
+        <item>England</item>
+        <item>55BC</item>
+        <item>Mount Vesuvius</item>
+        <item>Jerusalem</item>
+        <item>1099</item>
+    </string-array>
+
+    <string-array name="World_QuestionSet5">
+        <item>Q.1. Arabs were defeated in 738 A.D. by….</item>
+        <item>Q.2. Harshvardhan was defeated by….</item>
+        <item>Q.3. Beetapala and Dhiman, the two great artists that India had produced, belonged to the……</item>
+        <item>Q.4. Chalukyas king Pulakesin II was defeated by….</item>
+        <item>Q.5. The most distinguished ruler of the Chalukyas dynasty was…..</item>
+        <item>Q.6. Which ruler founded the famous Vikramshila University for the Buddhists?</item>
+        <item>Q.7.Who among the following were the first to invade India?</item>
+        <item>Q.8. Which rulers built the Ellora temples?</item>
+        <item>Q.9. The famous rock-cut temple of Kailasa is at ……</item>
+        <item>Q.10. The Rathas of Mahabalipuram was built during the reign of the…….</item>
+        <item>Q.11. Which Rashtrakutas ruler built the famous Kailash temple of Siva at Ellora?</item>
+        <item>Q.12. The Rashtrakutas kingdom was founded by……</item>
+        <item>Q.13. The paintings in the Ajanta and Ellora caves are indicative of development of art under the……</item>
+        <item>Q.14. The famous Kailas temple cut out of the solid rock at Ellora was built under the patronage of the….</item>
+        <item>Q.15. Who established Mahabalipuram?</item>
+        <item>Q.16. Name the capital of the Pallavas?</item>
+        <item>Q.17. The Seven Pagodas of Mahabalipuram are a witness to the art patronized by the….</item>
+        <item>Q.18.Rath temple at Mahabalipuram was built in the reign of which Pallav ruler?</item>
+        <item>Q.19. The first Indian ruler, who established the supremacy of Indian Navy in the Arabian Sea was….</item>
+        <item>Q.20. Where is Brihadeshwara Temple situated?</item>
+        <item>Q.21. Prince Ellora conquered Sri Lanka in the second century BC. With Which of the following dynasties of Dravidic ruler was be associated.</item>
+        <item>Q.22. Which Chola king founded the city of Puhar</item>
+        <item>Q.23. Which of the following dynasties conquered Sri Lanka and South-East Asian countries?</item>
+        <item>Q.24. Who built Brihadeshwara Temple at Tanjore?</item>
+        <item>Q.25. Which of the following was the capital of the Chola Kings?</item>
+    </string-array>
+
+    <string-array name="World_option_a5">
+        <item> Pratiharas</item>
+        <item> Prabhakaravardhana</item>
+        <item> Pala Age</item>
+        <item> Mahendra Varman 1</item>
+        <item> Jayasimha II</item>
+        <item> Mahi Pala</item>
+        <item>Afghan</item>
+        <item> Chalukyas</item>
+        <item> Ajanta</item>
+        <item> Palas</item>
+        <item> Dantidurga</item>
+        <item> Dandi Durga</item>
+        <item> Rashtrakutas</item>
+        <item> Cholas</item>
+        <item> Pallavas</item>
+        <item> Kanchi</item>
+        <item> Pallavas</item>
+        <item> Mahendra Varman 1</item>
+        <item> Raja raja 1</item>
+        <item>Kanchi</item>
+        <item> Chera</item>
+        <item> Rajendra Chola</item>
+        <item> The Pandyas</item>
+        <item> Aditya Cholla</item>
+        <item> Kanchi</item>
+    </string-array>
+
+    <string-array name="World_option_b5">
+        <item> Rashtrakutas</item>
+        <item> Pulakesin II</item>
+        <item> Gupta Age</item>
+        <item> Narasimha Varman 1</item>
+        <item> Vikarmaditya VI</item>
+        <item> Devapala</item>
+        <item> Mongols</item>
+        <item> Sunga</item>
+        <item> Badami</item>
+        <item> Cholas</item>
+        <item> Amoghvarsha 1</item>
+        <item> Amoghvarsha</item>
+        <item> Pallavas</item>
+        <item> Kadambas</item>
+        <item> Pandya</item>
+        <item> Vatapi</item>
+        <item> Pandyas</item>
+        <item> Narasimha Varman 1</item>
+        <item> Rajendra 1</item>
+        <item> Madurai</item>
+        <item> Chola</item>
+        <item> Ellora</item>
+        <item> The Chalukyas</item>
+        <item> Raja Raja Cholas</item>
+        <item> Tanjore</item>
+    </string-array>
+
+    <string-array name="World_option_c5">
+        <item> Palas</item>
+        <item> Narasimha Varma Pallavas</item>
+        <item> Mauryas Age</item>
+        <item> Parameswara Varman 1</item>
+        <item> Somesvara II</item>
+        <item> Gopala</item>
+        <item> Arabs</item>
+        <item> Rashtrakutas</item>
+        <item> Mahabalipuram</item>
+        <item> Rashtrakutas</item>
+        <item> Krishan 1</item>
+        <item> Govinda III</item>
+        <item> Pandyas</item>
+        <item> Pallavas</item>
+        <item> Chola</item>
+        <item> Trichinopoly</item>
+        <item> Cholas</item>
+        <item> Parmeshwar 1</item>
+        <item> Rajadhiraja 1</item>
+        <item> Shri Shailan</item>
+        <item> Pandya</item>
+        <item> Senguttavan</item>
+        <item> The Cholas</item>
+        <item> Rajendra Cholas</item>
+        <item> Madurai</item>
+    </string-array>
+
+    <string-array name="World_option_d5">
+        <item> Chalukyas</item>
+        <item> Sasanka</item>
+        <item> Rathan Age</item>
+        <item> Jatila Parantaka</item>
+        <item> Pulakesin II</item>
+        <item> Dharmapala</item>
+        <item> Turks</item>
+        <item> Pallavas</item>
+        <item> Ellora</item>
+        <item> Pallavas</item>
+        <item> Vats raj</item>
+        <item> Indra III</item>
+        <item> Pandyas</item>
+        <item> Rashtrakutas</item>
+        <item> Chalukyas</item>
+        <item> Mahabalipuram</item>
+        <item> Chera</item>
+        <item> Nandi Varman 1</item>
+        <item> Kulottunga 1</item>
+        <item> Tanjore</item>
+        <item> Pallavas</item>
+        <item> Karikala</item>
+        <item>_ The Rashtrakutas</item>
+        <item> Kareikala Chola</item>
+        <item> Tiruchirappalli</item>
+    </string-array>
+
+    <string-array name="World_answer_Set5">
+        <item> Chalukyas</item>
+        <item> Pulakesin II</item>
+        <item> Pala Age</item>
+        <item> Narasimha Varman 1</item>
+        <item> Pulakesin II</item>
+        <item> Dharmapala</item>
+        <item> Arabs</item>
+        <item> Rashtrakutas</item>
+        <item> Ellora</item>
+        <item> Pallavas</item>
+        <item> Krishan 1</item>
+        <item> Dandi Durga</item>
+        <item> Rashtrakutas</item>
+        <item> Rashtrakutas</item>
+        <item> Pallavas</item>
+        <item> Kanchi</item>
+        <item> Pallavas</item>
+        <item> Narasimha Varman 1</item>
+        <item> Raja raja 1</item>
+        <item> Tanjore</item>
+        <item> Chola</item>
+        <item> Karikala</item>
+        <item> The Cholas</item>
+        <item> Raja Raja Cholas</item>
+        <item> Tanjore</item>
+    </string-array>
+</resources>

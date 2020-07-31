@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Invention_QuestionSet1">
+        <item>Q.1 Thermo Flask was invented by</item>
+        <item>Q.2 Typewriter was invented by</item>
+        <item>Q.3 Blood Circulation was discovered by</item>
+        <item>Q.4 Streptomycin was invented by</item>
+        <item>Q.5 Analytical Engine was invented by</item>
+        <item>Q.6 The cause of Beri Beri was discovered by</item>
+        <item>Q.7 Atomic theory was devised by</item>
+        <item>Q.8 Simpson and Harrison are associated with the invention of</item>
+        <item>Q.9 The field of activity of J.C Bose was</item>
+        <item>Q.10 To an astronaut, the outer space appears</item>
+        <item>Q.11 Helicopter was invented by</item>
+        <item>Q.12 Homoeography was invented by</item>
+        <item>Q.13 Telegrahic code was introduced by</item>
+        <item>Q.14 Lift was invented by</item>
+        <item>Q.15 Toricelli invented</item>
+        <item> Q.16 Television was invented by</item>
+        <item>Q.17 Electrons were discovered by</item>
+        <item>Q.18 Air conditioner was discovered by</item>
+        <item>Q.19 Roentgen discovered</item>
+        <item>Q.20 Who invented logarithms?</item>
+        <item>Q.21 The blooding paper absorbs liquids because</item>
+        <item>Q.22 The instrument useful for the study of germs is</item>
+        <item>Q.23 Lactometer is used to determine</item>
+        <item>Q.24 Numismatics is</item>
+        <item>Q.25 Crude petroleum is refined by the use of</item>
+        <item>Q.26 Penicillin was invented by Fleming in the year</item>
+        <item>Q.27 Fax machine was invented by</item>
+        <item>Q.28 Crescograph is an instrument to record</item>
+        <item>Q.29 The most abundant element on the earth crust is</item>
+        <item>Q.30 Deficiency of iodine cause</item>
+    </string-array>
+
+    <string-array name="Invention_option_a1">
+        <item> Dewar</item>
+        <item> Shockley</item>
+        <item> Louis</item>
+        <item> Fleming</item>
+        <item> Dewar</item>
+        <item> Eijkman</item>
+        <item> Mosley</item>
+        <item> Boson</item>
+        <item> Zoology</item>
+        <item> White</item>
+        <item> Drinker</item>
+        <item> Cockrell</item>
+        <item> Lipman</item>
+        <item> Otis</item>
+        <item> Automobile</item>
+        <item> Sholes</item>
+        <item> Newton</item>
+        <item> Edison</item>
+        <item> Electrocardiograph</item>
+        <item> Mandeleef</item>
+        <item> It is white</item>
+        <item> Periscope</item>
+        <item> Purity of petrol</item>
+        <item> Study of coins</item>
+        <item> Citric acid</item>
+        <item> 1842</item>
+        <item> Daimler</item>
+        <item> age of earth</item>
+        <item> calcium</item>
+        <item> fever</item>
+    </string-array>
+
+    <string-array name="Invention_option_b1">
+        <item> Daimler</item>
+        <item> Sholes</item>
+        <item> Alexander Fleming</item>
+        <item> Marie Curie</item>
+        <item> Charles Babbage</item>
+        <item> Macmillan</item>
+        <item> John Dalton</item>
+        <item> Chloroform</item>
+        <item> Botany</item>
+        <item> Crimson</item>
+        <item> Broquet</item>
+        <item> Lipman</item>
+        <item> Macmillan</item>
+        <item> Domagk</item>
+        <item> Barometer</item>
+        <item> J.L.Baird</item>
+        <item> Roentgen</item>
+        <item> Wilson</item>
+        <item> X–rays</item>
+        <item> Shockley</item>
+        <item> It has got small pores</item>
+        <item> Cardiograph</item>
+        <item> Hydrogen in water</item>
+        <item> Study of stamps</item>
+        <item> Bleaching powder</item>
+        <item> 1929</item>
+        <item> Dewar</item>
+        <item> plant growth</item>
+        <item> aluminium</item>
+        <item> thyroid malfunction</item>
+
+    </string-array>
+
+    <string-array name="Invention_option_c1">
+        <item> Urey</item>
+        <item> Howe</item>
+        <item> William Harvey</item>
+        <item> Walksman</item>
+        <item> Daimler</item>
+        <item> Alexanderson</item>
+        <item> Daimler</item>
+        <item> Balloon</item>
+        <item> Chemistry</item>
+        <item> Deep Blue</item>
+        <item> Copernicus</item>
+        <item> Hahneman</item>
+        <item> Thomas Moore</item>
+        <item> Lee De Forest</item>
+        <item> Stethoscope</item>
+        <item> Shockley</item>
+        <item> J.J.Thompson</item>
+        <item> Carrier</item>
+        <item> Anti polio vaccine</item>
+        <item> Amundson</item>
+        <item> An absorbing chemical is mixed</item>
+        <item> Microscope</item>
+        <item> Purity of milk</item>
+        <item> Study of numbers</item>
+        <item> Sulphuric acid</item>
+        <item> 1945</item>
+        <item> Bain</item>
+        <item> the age of star</item>
+        <item> silicon</item>
+        <item> indigestion</item>
+    </string-array>
+
+    <string-array name="Invention_option_d1">
+        <item> John Napier</item>
+        <item> none of these</item>
+        <item> none of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> Cockrell</item>
+        <item> none of these</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> Black</item>
+        <item> Cockrell</item>
+        <item> none of these</item>
+        <item> Cockrell</item>
+        <item> None of these</item>
+        <item> None of these</item>
+        <item> John Napier</item>
+        <item> Edison</item>
+        <item> Roentgen</item>
+        <item> Encephalograph</item>
+        <item> John Napier</item>
+        <item> None of the above</item>
+        <item> Stethoscope</item>
+        <item> None of these</item>
+        <item> Study of butterflies</item>
+        <item> Hydrochloric acid</item>
+        <item> 1951</item>
+        <item> None of these</item>
+        <item> none of these</item>
+        <item> oxygen</item>
+        <item> skin disease</item>
+
+    </string-array>
+
+    <string-array name="Invention_answerSet1">
+        <item> Dewar</item>
+        <item> Sholes</item>
+        <item> William Harvey</item>
+        <item> Walksman</item>
+        <item> Charles Babbage</item>
+        <item> Eijkman</item>
+        <item> John Dalton</item>
+        <item> Chloroform</item>
+        <item> Botany</item>
+        <item> Black</item>
+        <item> Broquet</item>
+        <item> Hahneman</item>
+        <item> Thomas Moore</item>
+        <item> Otis</item>
+        <item> Barometer</item>
+        <item> J.L.Baird</item>
+        <item> J.J.Thompson</item>
+        <item> Carrier</item>
+        <item> X–rays</item>
+        <item> John Napier</item>
+        <item> It has got small pores</item>
+        <item> Microscope</item>
+        <item> Purity of milk</item>
+        <item> Study of coins</item>
+        <item> Sulphuric acid</item>
+        <item> 1929</item>
+        <item> Bain</item>
+        <item> plant growth</item>
+        <item> oxygen</item>
+        <item> thyroid malfunction</item>
+
+    </string-array>
+
+    <string-array name="Invention_QuestionSet2">
+        <item>Q.1 Bushwell invented</item>
+        <item>Q.2 Stethoscope was invented by</item>
+        <item>Q.3 Elias Home invented</item>
+        <item>Q.4 Pneumatic tyre was invented by</item>
+        <item>Q.5 Aeroplane was invented in the year</item>
+        <item>Q.6 W.Harvey discovered by</item>
+        <item>Q.7 Who designed Suez Canal?</item>
+        <item>Q.8 Who designed the city Chandigarh?</item>
+        <item>Q.9 James Chadwick discovered</item>
+        <item>Q.10 Revolver discovered by</item>
+        <item>Q.11 The Solar System was discoverd by</item>
+        <item>Q.12 Landstrom invented</item>
+        <item>Q.13 Bicycle was invented by</item>
+        <item>Q.14 Cholera Bascillus was invented by</item>
+        <item>Q.15 DDT. was invented by</item>
+        <item>Q.16 The theory of Evolution was produced by</item>
+        <item>Q.17 Neutron was discovered by</item>
+        <item>Q.18 Cinematography was invented by</item>
+        <item>Q.19 Inert gases were discovered by</item>
+        <item>Q.20 Who discovered oxygen?</item>
+        <item>Q.21 What African-American inventor received 5 patents in the field of shoemaking?</item>
+        <item>Q.22 It travels over land and water. Who invented the HOVERCRAFT?</item>
+        <item>Q.23 In which decade was the AEEE (now the IEEE) founded?</item>
+        <item>Q.24 What type of system did Paul Nipkow, John Baird, and Charles Jenkins all invent?</item>
+        <item>Q.25 What Sir Isaac Newton invented?</item>
+        <item>Q.26 Who invented Bicycle?</item>
+        <item>Q.27 In which decade with the first transatlantic radio broadcast occur?</item>
+        <item>Q.28 In the 1700s, who would pay the postage fee for letters before the stamp was invented?</item>
+        <item>Q.29 For over 500 years, paper was only available and sold as single sheets. In 1902, an inventive Australian used half size sheets of paper, a bit of glue and cardboard to create the what?</item>
+        <item>Q.30 Who developed the idea of Crop Rotation?</item>
+    </string-array>
+
+    <string-array name="Invention_option_a2">
+        <item> Atomic Bomb</item>
+        <item> Bessemer</item>
+        <item> Steam boat</item>
+        <item> Firestone</item>
+        <item> 1896</item>
+        <item> Laws of heredity</item>
+        <item> Nasser</item>
+       <item> Nasser</item>
+       <item> Electron</item>
+        <item> Colt</item>
+        <item> Galleleo</item>
+        <item> Metallurgy</item>
+        <item> Alexanderson</item>
+        <item> Hoffman</item>
+        <item> Paul Muller</item>
+        <item> Darwin</item>
+        <item> Marie Curie</item>
+        <item> Graham Bell</item>
+        <item> Dalton</item>
+        <item> Lavoisier</item>
+        <item>Elijah McCoy</item>
+        <item>S. Sperrow</item>
+        <item>1850s</item>
+        <item>Telephone</item>
+        <item>Reflecting telescope</item>
+        <item>Leo H Baekeland</item>
+        <item>1850s</item>
+        <item>The sender</item>
+        <item>Notepad</item>
+        <item>Potato Peterson</item>
+
+    </string-array>
+
+    <string-array name="Invention_option_b2">
+        <item> Submarine</item>
+        <item> Bessemer</item>
+        <item> T.N.T</item>
+        <item> Dunlop</item>
+        <item> 1929</item>
+        <item> Dynamite</item>
+        <item> Le Corbusier</item>
+        <item> Le Corbusier</item>
+        <item> Proton</item>
+        <item> Mercafter</item>
+        <item> Finsen</item>
+        <item> Gas Engine</item>
+        <item> Macmillan</item>
+        <item> Dunlop</item>
+        <item> John Dalton</item>
+        <item> Einstein</item>
+        <item> Mendeleef</item>
+        <item> Edison</item>
+        <item> Newton</item>
+        <item> Joseph Priestley</item>
+        <item>Jan Ernst Matzeliger</item>
+        <item>O. Stricheg</item>
+        <item>1880s</item>
+        <item>Early Warning</item>
+        <item>Chronometer</item>
+        <item>Karl Benz</item>
+        <item>1860s</item>
+        <item>There was no fee</item>
+        <item>Calendar</item>
+        <item>Turnip Townsend</item>
+    </string-array>
+
+    <string-array name="Invention_option_c2">
+        <item> Urey</item>
+        <item> Henry Becquarrel</item>
+        <item> Sewing machine</item>
+        <item> Stanes</item>
+        <item> 1903</item>
+        <item> Crystal dynamics</item>
+        <item> Ferdinand de lesseps</item>
+        <item> Ferdinand de lesseps</item>
+        <item> Neutron</item>
+        <item> Bushwell</item>
+        <item> Copernicus</item>
+        <item> Safety Match</item>
+        <item> Eijkman</item>
+        <item> Joseph Lister</item>
+        <item> Rudolf</item>
+        <item> Newton</item>
+        <item> Rutherford</item>
+        <item> Zeiss</item>
+        <item> Roentgen</item>
+        <item> Dalton</item>
+        <item>Ernest Just</item>
+        <item>T. Henman</item>
+        <item>1930s</item>
+        <item>Electricity</item>
+        <item>Microscope</item>
+        <item>Evangelista Torricelli</item>
+        <item>1870s</item>
+        <item>The receiver of the letter</item>
+        <item>Notice Board</item>
+        <item>Cabbage Carlson</item>
+    </string-array>
+
+    <string-array name="Invention_option_d2">
+        <item>Hovercraft</item>
+        <item> none of these</item>
+        <item> none of these</item>
+        <item> None of these</item>
+        <item> 1921</item>
+        <item> Circulation of blood</item>
+        <item> none of these</item>
+        <item> none of these</item>
+        <item> Atom</item>
+        <item> Daimler</item>
+        <item> None of these</item>
+        <item> none of these</item>
+        <item> none of these</item>
+        <item> Robert Koch</item>
+        <item> None of these</item>
+        <item> Mendel</item>
+        <item> Chadwick</item>
+        <item> Faraday</item>
+        <item> Ramsay</item>
+        <item> Swinton</item>
+        <item>Lewis Latimer</item>
+        <item> C Cockerell</item>
+        <item>1950s</item>
+        <item>Television</item>
+        <item>Spectacles</item>
+        <item>Kirkpatrick Macmillan</item>
+        <item>1900s</item>
+        <item>The post office</item>
+        <item>Telephone Book</item>
+        <item>Swede Svenson</item>
+    </string-array>
+
+    <string-array name="Invention_answerSet2">
+        <item> Submarine</item>
+        <item> Rane Laennec</item>
+        <item> Sewing machine</item>
+        <item> Dunlop</item>
+        <item> 1903</item>
+        <item> Circulation of blood</item>
+        <item> Ferdinand de lesseps</item>
+        <item> Le Corbusier</item>
+        <item> Neutron</item>
+        <item> Colt</item>
+        <item> Copernicus</item>
+        <item> Safety Match</item>
+        <item> Macmillan</item>
+        <item> Robert Koch</item>
+        <item> Paul Muller</item>
+        <item> Darwin</item>
+        <item> Chadwick</item>
+        <item> Edison</item>
+        <item> Ramsay</item>
+        <item> Joseph Priestley</item>
+        <item>Ernest Just</item>
+        <item>T. Henman</item>
+        <item>1850s</item>
+        <item>Television</item>
+        <item>Reflecting telescope</item>
+        <item>Leo H Baekeland</item>
+        <item>1860s</item>
+        <item>The receiver of the letter</item>
+        <item>Calendar</item>
+        <item>Turnip Townsend</item>
+    </string-array>
+
+    <string-array name="Invention_QuestionSet3">
+        <item>Q.1 CORN FLAKES – Who made them first?</item>
+        <item>Q.2 William Frederick is credited with the invention of the modern frisbee in the mid 1950’s. In 1957 the Wham-O Company bought his idea and the rest is history. They named the toy after William Frisbie who was a ________?</item>
+        <item>Q.3 Who came up with the idea for INSTANT MASHED POTATO?</item>
+        <item>Q.4 Who invented Dynamite?</item>
+        <item>Q.5 What toy did George Lerner create for Hasbro company in 1952?</item>
+        <item>Q.6 For whom high heeled shoes were invented?</item>
+        <item>Q.7 Who invented Bakelite?</item>
+        <item>Q.8 What toy was invented by Joshua Lionel Cowen around 1900?</item>
+        <item>Q.9 This African-American woman physical therapist worked with soldiers disabled in World War II. She invented a device that helped the disabled to eat by delivering food through a tube to a mouthpiece.</item>
+        <item>Q.10 What invention by Garnet Carter made its debut at the Fairyland Inn Resort in Lookout Mountain, Tennessee, in 1927?</item>
+        <item>Q.11 Who invented the phonograph?</item>
+        <item>Q.12 What beverage was invented by Charles Alderton in 1885 in Waco, Texas?</item>
+        <item>Q.13 Who invented fuel cells in 1839?</item>
+        <item>Q.14 The ELECTRIC BATTERY, who’s charged with inventing this one?</item>
+        <item>Q.15 Who synthesized the first wholly artificial gene?</item>
+        <item>Q.16 FROZEN FOOD – Who discovered the first practical method of freezing food?</item>
+        <item>Q.17 When was the Raggedy Ann doll patented?</item>
+        <item>Q.18 What Frank Whittle invented?</item>
+        <item>Q.19 When was the first Lionel trains manufactured?</item>
+        <item>Q.20 What item, originally called the ‘Whirlwind’, was invented by Ives McGaffey in 1869?</item>
+        <item>Q.21 What office item was invented by Bette Nesmith Graham in 1951?</item>
+        <item>Q.22 What George Pullman invented?</item>
+        <item>Q.23 What James Watt invented?</item>
+        <item>Q.24 Where is the village of Branston, after which the famous pickle is named?</item>
+        <item>Q.25 Who invented Jet Engine?</item>
+        <item>Q.26 What invention caused many deaths while testing it?</item>
+        <item>Q.27 Who invented Gunpowder?</item>
+        <item>Q.28 Until Victorian times, chocolate was thought of as a drink. When did the first chocolate bar appear?</item>
+        <item>Q.29 In which decade was the telephone invented?</item>
+        <item>Q.30 Who perfected GENETIC ENGINEERING?</item>
+    </string-array>
+
+    <string-array name="Invention_option_a3">
+        <item>Nabisco</item>
+        <item>Pie maker</item>
+        <item>S. Tuberosum</item>
+        <item>Sir Alexander Graham Bell</item>
+        <item>Sit and Spin</item>
+        <item>Cleopatra</item>
+        <item>Charles Goodyear</item>
+        <item>Raggedy Ann doll</item>
+        <item>Bessie Blount</item>
+        <item>Miniature golf</item>
+        <item>Thomas Edison</item>
+        <item>Cream soda</item>
+        <item>Buckminster Fuller</item>
+        <item>Hertz</item>
+        <item>Hargobind Khorana</item>
+        <item>Clarence Birdseye</item>
+        <item>1915</item>
+        <item>Radar</item>
+        <item>1920</item>
+        <item>Blender</item>
+        <item>Fax machine</item>
+        <item>Sleeping (railway) car</item>
+        <item>Diving bell</item>
+        <item>Yorkshire</item>
+        <item>Sir Frank Whittle</item>
+        <item>Dynamite</item>
+        <item>G. Ferdinand Von Zeppelin</item>
+        <item>1828</item>
+        <item>1850s</item>
+        <item>Cohen and Boyer</item>
+
+    </string-array>
+
+    <string-array name="Invention_option_b3">
+        <item>Kellogg</item>
+        <item>Owner of a pizza parlor</item>
+        <item>W. Raleigh</item>
+        <item>Benjamin Franklin</item>
+        <item>Talking baby doll</item>
+        <item>Queen Elizabeth I</item>
+        <item>Leo Hendrik Baekeland</item>
+        <item>Yo-yo</item>
+        <item>Marjorie Joyner</item>
+        <item>Swimming pool slide</item>
+        <item>John Kruesi</item>
+        <item>Coca-Cola</item>
+        <item>Sir William Grove</item>
+        <item>Amper</item>
+        <item>J.J. Thompson</item>
+        <item>F. Rozenosh</item>
+        <item>1920</item>
+        <item>Ethyl gasoline</item>
+        <item>1890</item>
+        <item>Electric mixer</item>
+        <item>Stapler</item>
+        <item>Airship</item>
+        <item>Steam boat</item>
+        <item>Lancashire</item>
+        <item>Gottlieb Daimler</item>
+        <item>Ladders</item>
+        <item>Choe Museon</item>
+        <item>1831</item>
+        <item>1860s</item>
+        <item>Hunt and Davids</item>
+    </string-array>
+
+    <string-array name="Invention_option_c3">
+        <item>Quaker</item>
+        <item>Student at Yale</item>
+        <item>E. Asselbergs</item>
+        <item>Thomas Alva Edison</item>
+        <item>Mr. Potato Head</item>
+        <item>King Louis the XIV</item>
+        <item>Roy Plunkett</item>
+        <item>Electric train</item>
+        <item>Mae Jamison</item>
+        <item>Ski lift</item>
+        <item>Jules Levy</item>
+        <item>Dr. Pepper</item>
+        <item>Sylvester Graham</item>
+        <item>Galvani</item>
+        <item>Benjamin Franklin</item>
+        <item>G. Findus</item>
+        <item>1919</item>
+        <item>Sonar</item>
+        <item>1901</item>
+        <item>Washing machine</item>
+        <item>Liquid Paper</item>
+        <item>Box car (railway)</item>
+        <item>Hot air balloon</item>
+        <item>Staffordshire</item>
+        <item>Roger Bacon</item>
+        <item>Race cars</item>
+        <item>Roger Bacon</item>
+        <item>1825</item>
+        <item>1870s</item>
+        <item>Sinclair and Roberts</item>
+    </string-array>
+
+    <string-array name="Invention_option_d3">
+        <item>Archers</item>
+        <item>Ceramic plate designer</item>
+        <item>K. Edwards</item>
+        <item>Alfred B Nobel</item>
+        <item>Hula hoop</item>
+        <item>King Charles II</item>
+        <item>Henry Ford</item>
+        <item>Tinkertoys</item>
+        <item>Beulah Henry</item>
+        <item>Golf cart</item>
+        <item>Alexander Graham Bell</item>
+        <item>Sprite</item>
+        <item>Joyce Hall</item>
+        <item>Volta</item>
+        <item>Meghnad Saha</item>
+        <item>R. Scott</item>
+        <item>1911</item>
+        <item>Jet engine</item>
+        <item>1944</item>
+        <item>Vacuum cleaner</item>
+        <item>Copy machine</item>
+        <item>Air brakes</item>
+        <item>Rotary steam engine</item>
+        <item>Norfolk</item>
+        <item>Lewis E. Waterman</item>
+        <item>Parachute</item>
+        <item>Leo H Baekeland</item>
+        <item>There is no sure date</item>
+        <item>1880s</item>
+        <item>Jaysson and Simons</item>
+    </string-array>
+
+    <string-array name="Invention_answerSet3">
+        <item>Kellogg</item>
+        <item>Pie maker</item>
+        <item>E. Asselbergs</item>
+        <item>Alfred B Nobel</item>
+        <item>Mr. Potato Head</item>
+        <item>King Louis the XIV</item>
+        <item>Leo Hendrik Baekeland</item>
+        <item>Electric train</item>
+        <item>Bessie Blount</item>
+        <item>Miniature golf</item>
+        <item>Thomas Edison</item>
+        <item>Dr. Pepper</item>
+        <item>Sir William Grove</item>
+        <item>Volta</item>
+        <item>Hargobind Khorana</item>
+        <item>Clarence Birdseye</item>
+        <item>1915</item>
+        <item>Jet engine</item>
+        <item>1901</item>
+        <item>Vacuum cleaner</item>
+        <item>Liquid Paper</item>
+        <item>Sleeping (railway) car</item>
+        <item>Rotary steam engine</item>
+        <item>Staffordshire</item>
+        <item>Sir Frank Whittle</item>
+        <item>Parachute</item>
+        <item>Choe Museon</item>
+        <item>There is no sure date</item>
+        <item>1870s</item>
+        <item>Cohen and Boyer</item>
+    </string-array>
+
+    <string-array name="Invention_QuestionSet4">
+        <item>Q.1 What invention is credited to the Russian born American inventor Vladimir Kosma Zworykin?</item>
+        <item>Q.2 Benjamin Franklin was a prolific inventor. He invented the lightning rod, the Franklin stove, studied electricity, discovered the Gulf Stream, started the first library, and on and on. Among his many other inventions, what musical instrument did he invent?</item>
+        <item>Q.3 What Thomas Davenport invented?</item>
+        <item>Q.4 What Elisha Otis invented?</item>
+        <item>Q.5 Where was the yo-yo invented?</item>
+        <item>Q.6 For what does the world owe Almon Strowger a debt of gratitude?</item>
+        <item>Q.7 Who is often called the ‘first African-American’ inventor?</item>
+        <item>Q.8 The first hand glider was designed by…?</item>
+        <item>Q.9 Which insurance salesman invented the fountain pen in 1884?</item>
+        <item>Q.10 When was the first elevator built?</item>
+        <item>Q.11 What charge card, developed in 1950, was the first to be accepted nationally in the US?</item>
+        <item>Q.12 What Enrico Fermi invented?</item>
+        <item>Q.13 Which of the following was first patented by an Australian in 1889?</item>
+        <item>Q.14 Who among the following invented the small pox vaccine?</item>
+        <item>Q.15 What George Westinghouse invented?</item>
+        <item>Q.16 Who is the only U.S. President to invent and patent something?</item>
+        <item>Q.17 What furniture item was invented by California furniture designer Charles Prior Hall in 1968?</item>
+        <item>Q.18 The Manhattan Project was started by President Roosevelt in 1942 to ensure that the U.S. beat the Germans in developing a nuclear bomb, Whom did Roosevelt appoint as scientific head the Manhattan Project?</item>
+        <item>Q.19 When was the first lawn mower invented?</item>
+        <item>Q.20 In which decade were the first successful diode and triode vacuum tubes invented?</item>
+        <item>Q.21 Who is the English physicist responsible for the ‘Big Bang Theory’?</item>
+        <item>Q.22 What game was first produced by the Southern Novelty Company in Baltimore, Maryland in 1892?</item>
+        <item>Q.23 Who had an explosive idea and first patented DYNAMITE?</item>
+        <item>Q.24 Who invented the Spinning Jenny?</item>
+        <item>Q.25 What now-ubiquitous device was invented by Zenith engineer Eugene Polley in 1955?</item>
+        <item>Q.26 What Benjamin Franklin invented?</item>
+        <item>Q.27 This part-time race car driver invented the bucket seat in 1969. Who was he??</item>
+        <item>Q.28 What plaything was invented by Joe McVicker in 1956?</item>
+        <item>Q.29 Who was the first American female to patent her invention, a method of weaving straw with silk?</item>
+        <item>Q.30 Who invented Gramophone?</item>
+    </string-array>
+
+    <string-array name="Invention_option_a4">
+        <item>Telegraph</item>
+        <item>Banjo</item>
+        <item>Screw propellor</item>
+        <item>The brake used in modern elevators</item>
+        <item>France</item>
+        <item>Parking Meters</item>
+        <item>Bessie Blount</item>
+        <item>Leonardo DaVinci</item>
+        <item>Lewis Edson Waterman</item>
+        <item>1743</item>
+        <item>Visa</item>
+        <item>X ray machine</item>
+        <item>Electric Drill</item>
+        <item>Robert Koch</item>
+        <item>Light bulbv</item>
+        <item>Abraham Lincoln</item>
+        <item>Sofa bed</item>
+        <item>Robert Oppenheimer</item>
+        <item>1830</item>
+        <item>1800s</item>
+        <item>Albert Einstein</item>
+        <item>Frisbee</item>
+        <item>J. R. Gluber</item>
+        <item>Thornton Hargreaves</item>
+        <item>Microwave oven</item>
+        <item>Bifocal spectacles</item>
+        <item>Steve McQueen</item>
+        <item>Silly Putty</item>
+        <item>Marjorie Joyner</item>
+        <item>Michael Faraday</item>
+    </string-array>
+
+    <string-array name="Invention_option_b4">
+        <item>Radio</item>
+        <item>Oboe</item>
+        <item>Electric streetcar</item>
+        <item>Jet Engine</item>
+        <item>United States</item>
+        <item>Vending Machines</item>
+        <item>George Washington Carver</item>
+        <item>The Wright brothers</item>
+        <item>Sir William Grove</item>
+        <item>1739</item>
+        <item>Discover</item>
+        <item>Betatron</item>
+        <item>Electric Shaver</item>
+        <item>Edward Jenner</item>
+        <item>Electric razor</item>
+        <item>Theodore Roosevelt</item>
+        <item>Captain’s chair</item>
+        <item>James B Conant</item>
+        <item>1854</item>
+        <item>1880s</item>
+        <item>Michael Skube</item>
+        <item>Monopoly</item>
+        <item>A Nobel</item>
+        <item>Peter Hargreaves</item>
+        <item>Remote control</item>
+        <item>Radio</item>
+        <item>Harrison Frazier</item>
+        <item>Etch-A-Sketch</item>
+        <item>Margaret Knight</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="Invention_option_c4">
+        <item>Television</item>
+        <item>Clarinet</item>
+        <item>Chesterfield</item>
+        <item>Turbine</item>
+        <item>Philippines</item>
+        <item>Automatic Telephone Exchanges</item>
+        <item>Benjamin Banneker</item>
+        <item>Francis Rogallo</item>
+        <item>Charles Kettering</item>
+        <item>1760</item>
+        <item>MasterCharge</item>
+        <item>Cyclotron</item>
+        <item>Electric Fence</item>
+        <item>Robert Hooke</item>
+        <item>Refrigerator</item>
+        <item>Thomas Jefferson</item>
+        <item>Waterbed</item>
+        <item>Leslie R. Groves</item>
+        <item>1835</item>
+        <item>1890s</item>
+        <item>George Gamow</item>
+        <item>Ping Pong</item>
+        <item>G. Fawks</item>
+        <item>James Hargreaves</item>
+        <item>VCR</item>
+        <item>Barometer</item>
+        <item>Paul Newman</item>
+        <item>Lite-Brite</item>
+        <item>Amanda Jones</item>
+        <item>Sir Alexander Graham Bell</item>
+    </string-array>
+
+    <string-array name="Invention_option_d4">
+        <item>Dishwasher</item>
+        <item>Harmonium</item>
+        <item>Sleeping (railway) car</item>
+        <item>Hydraulic Crane</item>
+        <item>England</item>
+        <item>Traffic Lights</item>
+        <item>Elijah McCoy</item>
+        <item>Galileo</item>
+        <item>George Fountain</item>
+        <item>1785</item>
+        <item>Diner’s Club</item>
+        <item>Nuclear reactor</item>
+        <item>Electric Heater</item>
+        <item>Louis Pasteur</item>
+        <item>Railway air brakes</item>
+        <item>Rutherford B Hayes</item>
+        <item>Hammock</item>
+        <item>Vannevar Bush</item>
+        <item>1849</item>
+        <item>1900s</item>
+        <item>Roger Penrose</item>
+        <item>Ping Pong</item>
+        <item>W. Bickford</item>
+        <item>Simon Hargreaves</item>
+        <item>Calculator</item>
+        <item>Hygrometer</item>
+        <item>John Wayne</item>
+        <item>Play-Doh</item>
+        <item>Mary Kies</item>
+        <item>Thomas Alva Edison</item>
+    </string-array>
+
+    <string-array name="Invention_answerSet4">
+        <item>Television</item>
+        <item>Harmonium</item>
+        <item>Electric streetcar</item>
+        <item>The brake used in modern elevators</item>
+        <item>Philippines</item>
+        <item>Automatic Telephone Exchanges</item>
+        <item>Benjamin Banneker</item>
+        <item>Leonardo DaVinci</item>
+        <item>Lewis Edson Waterman</item>
+        <item>1743</item>
+        <item>Diner’s Club</item>
+        <item>Nuclear reactor</item>
+        <item>Electric Drill</item>
+        <item>Edward Jenner</item>
+        <item>Railway air brakes</item>
+        <item>Abraham Lincoln</item>
+        <item>Waterbed</item>
+        <item>Robert Oppenheimer</item>
+        <item>1830</item>
+        <item>1900s</item>
+        <item>George Gamow</item>
+        <item>Ouija board</item>
+        <item>A Nobel</item>
+        <item>James Hargreaves</item>
+        <item>Remote control</item>
+        <item>Bifocal spectacles</item>
+        <item>Steve McQueen</item>
+        <item>Play-Doh</item>
+        <item>Mary Kies</item>
+        <item>Thomas Alva Edison</item>
+    </string-array>
+
+    <string-array name="Invention_QuestionSet5">
+        <item>Q.1 Who invented Internal Combustion Engine?</item>
+        <item>Q.2 When was Monopoly created?</item>
+        <item>Q.3 The initials JCB on earth-moving equipment are those of the founder of the company that makes it. What is his name?</item>
+        <item>Q.4 What treat was invented by 11-year-old Frank Epperson in 1905?</item>
+        <item>Q.5 When was Milk Tray first introduced?</item>
+        <item>Q.6 When was the toothbrush invented?</item>
+        <item>Q.7 What item of apparel was invented by Ellery Chun, a Hawaiian clothing merchant, in 1931?</item>
+        <item>Q.8 Who invented Fountain Pen?</item>
+        <item>Q.9 What piece of clothing was invented by French fashion designer Louis Reard in 1946?</item>
+        <item>Q.10 In which year was MIDI introduced?</item>
+        <item>Q.11 In which decade was the SPICE simulator introduced?</item>
+        <item>Q.12 Who invented the first controllable flying AEROPLANE (AIRPLANE)?</item>
+        <item>Q.13 What groovy item was invented by Englishman Edward Craven Walker in 1963?</item>
+        <item>Q.14 In which decade was the Internet first implemented?</item>
+        <item>Q.15 What did cardiologist Dr. Paul Zoll invent in Massachusetts in 1952?</item>
+        <item>Q.16 What Elmer A Sperry invented?</item>
+        <item>Q.17 In which decade was the ARRL founded?</item>
+        <item>Q.18 Who invented the Seed Drill?</item>
+        <item>Q.19 What drink was invented by Charles Leiper Grigg in 1929?</item>
+        <item>Q.20 For what is Charles Babbage (1792–1871) remembered?</item>
+        <item>Q.21 Who invented Automobiles using gasoline?</item>
+        <item>Q.22 Who invented the battery?</item>
+        <item>Q.23 Where were wigs first invented?</item>
+        <item>Q.24 Who was the first person to patent the JET ENGINE?</item>
+        <item>Q.25 What invention was first installed at a Hartford, Connecticut bank in 1889?</item>
+        <item>Q.26 Ralph Samuelson was only 18 when he invented this sporting item in 1922. What was that?</item>
+        <item>Q.27 Who invented Bifocal Lens?</item>
+        <item>Q.28 What Karl Benz invented?</item>
+        <item>Q.29 When were bar code scanners invented?</item>
+        <item>Q.30 When was the game Frisbee invented?</item>
+    </string-array>
+
+    <string-array name="Invention_option_a5">
+        <item>Roger Bacon</item>
+        <item>1940s</item>
+        <item>John Christopher Ballantyne</item>
+        <item>Popsicle</item>
+        <item>1915</item>
+        <item>1770</item>
+        <item>String bikini</item>
+        <item>John J. Loud</item>
+        <item>Zoot suit</item>
+        <item>1987</item>
+        <item>1950</item>
+        <item>Wright Brothers</item>
+        <item>Leisure suit</item>
+        <item>1940s</item>
+        <item>EKG</item>
+        <item>Hydroplane</item>
+        <item>1940s</item>
+        <item>Jethro Tull</item>
+        <item>7-Up</item>
+        <item>Computers</item>
+        <item>Leo H Baekeland</item>
+        <item>John Wilkinson</item>
+        <item>Japan</item>
+        <item>F. Whittle</item>
+        <item>Automatic teller machine</item>
+        <item>Golf tee</item>
+        <item>Alfred B. Nobel</item>
+        <item>Gasoline powered automobile</item>
+        <item>1940s</item>
+        <item>1920s</item>
+    </string-array>
+
+    <string-array name="Invention_option_b5">
+        <item>Karl Benz</item>
+        <item>1930s</item>
+        <item>Joseph Cyril Bamford</item>
+        <item>Banana split</item>
+        <item>1934</item>
+        <item>1765</item>
+        <item>Muumuu</item>
+        <item>Sir Frank Whittle</item>
+        <item>Mini-skirt</item>
+        <item>1983</item>
+        <item>1960</item>
+        <item>Lidenbergh Brothers</item>
+        <item>Lava lamp</item>
+        <item>1950s</item>
+        <item>Artificial heart valve</item>
+        <item>Hydraulic turbine</item>
+        <item>1930s</item>
+        <item>Arlo Guthrie</item>
+        <item>Yoo-Hoo</item>
+        <item>Telescopes</item>
+        <item>Karl Benz</item>
+        <item>Alessandro Volta</item>
+        <item>France</item>
+        <item>C Lindbergh</item>
+        <item>Time-lock safe</item>
+        <item>Motorboat</item>
+        <item>Thomas Alva Edison</item>
+        <item>Streetcar</item>
+        <item>1950s</item>
+        <item>1900s</item>
+    </string-array>
+
+    <string-array name="Invention_option_c5">
+        <item>Dr. Alan M. Turing</item>
+        <item>1920s</item>
+        <item>John Christopher Baxter</item>
+        <item>Cotton candy</item>
+        <item>1923</item>
+        <item>1790</item>
+        <item>Aloha shirt</item>
+        <item>Lewis E. Waterman</item>
+        <item>Bikini</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>South Brothers</item>
+        <item>Eight-track tape deck</item>
+        <item>1960s</item>
+        <item>Artificial heart</item>
+        <item>Magnetic compass</item>
+        <item>1920s</item>
+        <item>Woodie Guthrie</item>
+        <item>Pepsi</item>
+        <item>Radio-Telegraphy</item>
+        <item>Evangelista Torricelli</item>
+        <item>James Hargreaves</item>
+        <item>Egypt</item>
+        <item>W. Histell</item>
+        <item>Burglar alarm</item>
+        <item>Water skis</item>
+        <item>Benjamin Franklin</item>
+        <item>Glider</item>
+        <item>1970s</item>
+        <item>1870s</item>
+    </string-array>
+
+    <string-array name="Invention_option_d5">
+        <item>Nicolaus Otto</item>
+        <item>1950s</item>
+        <item>Jack Croxford Baker</item>
+        <item>Cracker Jacks</item>
+        <item>1942</item>
+        <item>1780</item>
+        <item>Capri pants</item>
+        <item>Kirkpatrick Macmillan</item>
+        <item>Tank top</item>
+        <item>1977</item>
+        <item>1980</item>
+        <item>West Brothers</item>
+        <item>Hot comb</item>
+        <item>1980s</item>
+        <item>Pacemaker</item>
+        <item>Gyrocompass</item>
+        <item>1910s</item>
+        <item>Thomas Hines</item>
+        <item>Hawaiian Punch</item>
+        <item>Steam Boating</item>
+        <item>Kirkpatrick Macmillan</item>
+        <item>Thomas Edison</item>
+        <item>China</item>
+        <item>B Owings</item>
+        <item>Pay telephone</item>
+        <item>Hang glider</item>
+        <item>Rudolf Diesel</item>
+        <item>Steam turbine</item>
+        <item>1960s</item>
+        <item>1890s</item>
+    </string-array>
+
+    <string-array name="Invention_answerSet5">
+        <item>Nicolaus Otto</item>
+        <item>1940s</item>
+        <item>Joseph Cyril Bamford</item>
+        <item>Popsicle</item>
+        <item>1915</item>
+        <item>1780</item>
+        <item>Aloha shirt</item>
+        <item>Lewis E. Waterman</item>
+        <item>Bikini</item>
+        <item>1983</item>
+        <item>1972</item>
+        <item>Wright Brothers</item>
+        <item>Lava lamp</item>
+        <item>1960s</item>
+        <item>Pacemaker</item>
+        <item>Gyrocompass</item>
+        <item>1910s</item>
+        <item>Jethro Tull</item>
+        <item>7-Up</item>
+        <item>Computers</item>
+        <item>Karl Benz</item>
+        <item>Alessandro Volta</item>
+        <item>Egypt</item>
+        <item>F. Whittle</item>
+        <item>Pay telephone</item>
+        <item>Water skis</item>
+        <item>Benjamin Franklin</item>
+        <item>Streetcar</item>
+        <item>1950s</item>
+        <item>1870s</item>
+    </string-array>
+
+</resources>
+<!--
+<string-array name="Invention_QuestionSet2">
+
+</string-array>
+
+<string-array name="Invention_option_a2">
+
+</string-array>
+
+<string-array name="Invention_option_b2">
+
+</string-array>
+
+<string-array name="Invention_option_c2">
+
+</string-array>
+
+<string-array name="Invention_option_d2">
+
+</string-array>
+
+<string-array name="Invention_answerSet2">
+
+</string-array>
+-->

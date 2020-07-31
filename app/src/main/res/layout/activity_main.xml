@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#55D394">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:text="Welcome \n\n To \n\n Quiz Game"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="50dp"/>
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start quiz"
+        android:background="@drawable/button"
+        android:backgroundTint="#55D394"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="#fff"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:layout_marginTop="80dp"
+        />
+    <Button
+        android:id="@+id/bookmarks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bokmarks"
+        android:background="@drawable/button"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:backgroundTint="#949797"
+        android:textColor="#fff"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:layout_marginTop="50dp"
+        />
+
+
+
+</LinearLayout>
+

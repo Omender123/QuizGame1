@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="india_QuestionSet1">
+
+      <item>Q 1. Who among the following was the first person to determine the Circumference of the Earth?</item>
+        <item>  Q 2. Which of the following states is the only diamond producing state in India?</item>
+        <item> Q 3. The Bayyaram mines area, which was recently in news, is located in __?</item>
+        <item>   Q 4. River Luni (Lavanavari river) originates from which among the following ranges?</item>
+        <item>Q 5. Which one of the following islands is called as ‘rust belt’ of Japan ?</item>
+        <item>Q 6. People of which among the following countries are also known as Magyars ?</item>
+        <item> Q 7. Which among the following a line or surface drawn on a map or chart indicates connected points of equal salinity in the ocean?</item>
+        <item> Q 8. Which among the following mineral is a carbonate of calcium and magnesium?</item>
+        <item>Q 9. Which among the following can best define the Neolithic Revolution ?</item>
+        <item>Q 10. What among the following is a partially enclosed body of water along the coast where freshwater from rivers and streams meets and mixes with salt water from the ocean ?</item>
+        <item>Q 11. The ratio of the partial pressure of water vapor in an air-water mixture to the saturated vapor pressure of water at a given temperature is termed as:</item>
+        <item> Q 12. Petermann Glacier is located in which among the following?</item>
+        <item>Q 13. Which among the following states is not covered by the Chhota Nagpur Plateau ?</item>
+        <item>Q 14. Mahanadi river originates in which among the following states of India?</item>
+        <item> Q 15. Which of the following mountain ranges in India is known as a young fold mountain range?</item>
+        <item>  Q 16. Soloman Islands are located in__:</item>
+        <item>Q 17. The pedogenic regime of podzolisation associated with which among the following areas?</item>
+        <item> Q 18. Which among the following areas are marked by the pedogenic regime of calcification?</item>
+        <item>Q 19. Which among the following factors play important role in pedogenesis?</item>
+        <item>Q 20. Which among the following rivers is an example of superimposed drainage system in India?</item>
+        <item> Q 21. Which among the following country is not bigger than India in terms of total geographical area?</item>
+        <item>Q 22. What fraction of total geographic area of the world is covered by India?</item>
+        <item>Q 23. Madagan 2 oil field is located in ___:</item>
+        <item> Q 24. Pacific Tsunami Warning Center (PTWC) is located at ___:</item>
+        <item>Q 25. Lower Subansiri Hydro Power project is under development in which state?</item>
+        <item>Q 26. Chandipur missile test range is located in ___:</item>
+        <item>Q 27. Pench River Project is located in ___?</item>
+        <item>Q 28. Castle Naggar heritage site is located in __:</item>
+        <item>Q 29. Satipati Sampradaya is a tribal community of ____:</item>
+        <item>  Q 30. Catalonia region is located in which country?</item>
+    </string-array>
+
+    <string-array name="india_option_a1">
+        <item>Plato</item>
+        <item>Gujarat</item>
+        <item>Andhra Pradesh</item>
+        <item>Himalaya Ranges</item>
+        <item>Northern Honshu</item>
+        <item>Hungary</item>
+        <item>Isohel</item>
+        <item>Huntite</item>
+        <item>Green Revolution</item>
+        <item>Estuary</item>
+        <item>Relative Humidity</item>
+        <item>Greenland</item>
+        <item>West Bengal</item>
+        <item>Chhattisgarh</item>
+        <item>Aravali</item>
+        <item>North Atlantic Ocean</item>
+        <item>Hot and Dry</item>
+        <item>Cool temperate areas in continents</item>
+        <item>Climate</item>
+        <item>Ravee</item>
+        <item>Brazil</item>
+        <item>1.4%</item>
+        <item>South China Sea</item>
+        <item>Hawaii</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Rajasthan</item>
+        <item>Himachal Pradesh</item>
+        <item>Himachal Pradesh</item>
+        <item>Denmark</item>
+    </string-array>
+
+
+    <string-array name="india_option_b1">
+        <item>Aristotle</item>
+        <item>Rajasthan</item>
+        <item>Karnataka</item>
+        <item>Aravalli Ranges</item>
+        <item>Shikoku Islands</item>
+        <item>Malaysia</item>
+        <item>Isohaline</item>
+        <item>Barytocite</item>
+        <item>Technology Revolution</item>
+        <item>Ria</item>
+        <item>Absolute humidity</item>
+        <item>Antarctica</item>
+        <item>Orissa</item>
+        <item>Odisha</item>
+        <item>Satpura</item>
+        <item>South Atlantic Ocean</item>
+        <item>Hot and Humid</item>
+        <item>Cool temperate areas in continents</item>
+        <item>Relief</item>
+        <item>Narmada</item>
+        <item>Canada</item>
+        <item>2.4%</item>
+        <item>Sea of Okhostk</item>
+        <item>Cook Island</item>
+        <item>Manipur</item>
+        <item>Andhra Pradesh</item>
+        <item>Gujarat</item>
+        <item>Rajasthan</item>
+        <item>Gujarat</item>
+        <item>Spain</item>
+    </string-array>
+
+
+    <string-array name="india_option_c1">
+        <item>Eratosthenes</item>
+        <item>Madhya Pradesh</item>
+        <item>Tamil Nadu</item>
+        <item>Vindhya Ranges</item>
+        <item>Kyushu Islands</item>
+        <item>Hong Kong</item>
+        <item>Isogyre</item>
+        <item>Dolomite</item>
+        <item>Milk Revolution</item>
+        <item>Tidal bore</item>
+        <item>Specific Humidity</item>
+        <item>Europe</item>
+        <item>Chhattisgarh</item>
+        <item>Manipur</item>
+        <item>Vindhyan</item>
+        <item>North Pacific Ocean</item>
+        <item>Wet and Dry</item>
+        <item>Continental regions with wet-dry climatic regimes</item>
+        <item> Biodiversity</item>
+        <item>Ganga</item>
+        <item>Australia</item>
+        <item>3.4%</item>
+        <item>Yellow Sea</item>
+        <item>Alaska</item>
+        <item>Assam</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Haryana</item>
+        <item>Karnataka</item>
+        <item>Portugal</item>
+    </string-array>
+
+
+    <string-array name="india_option_d1">
+        <item>Ptolemy III Euergetes</item>
+        <item>Uttar Pradesh</item>
+        <item>Madhya Pradesh</item>
+        <item>Saputara Ranges</item>
+        <item>Southern Honshu</item>
+        <item>Spain</item>
+        <item>Isodiaphere</item>
+        <item>Ankerite</item>
+        <item>Agricultural Revolution</item>
+        <item>Lagoon</item>
+        <item>None of the above</item>
+        <item>Siberia</item>
+        <item>Assam</item>
+        <item>Assam</item>
+        <item>Himalayas</item>
+        <item>South Pacific Ocean</item>
+        <item>Cool and Humid</item>
+        <item>Desert Areas</item>
+        <item>all of these</item>
+        <item>Chambal</item>
+        <item>South Africa</item>
+        <item>4.4%</item>
+        <item>Chukchi Sea</item>
+        <item>Samoa</item>
+        <item>Sikkim</item>
+        <item>West Bengal</item>
+        <item>Jharkhand</item>
+        <item>Punjab</item>
+        <item>Odisha</item>
+        <item>Italy</item>
+    </string-array>
+
+
+    <string-array name="india_answer_set1">
+        <item>Eratosthenes</item>
+        <item>Madhya Pradesh</item>
+        <item>Andhra Pradesh</item>
+        <item>Aravalli Ranges</item>
+        <item>Shikoku Islands</item>
+        <item>Hungary</item>
+        <item>Isohaline</item>
+        <item>Dolomite</item>
+        <item>Agricultural Revolution</item>
+        <item>Estuary</item>
+        <item>Relative Humidity</item>
+        <item>Greenland</item>
+        <item>Assam</item>
+        <item>Chhattisgarh</item>
+        <item>Himalayas</item>
+        <item>South Pacific Ocean</item>
+        <item>Cool and Humid</item>
+        <item>Continental regions with wet-dry climatic regimes</item>
+        <item>all of these</item>
+        <item>Chambal</item>
+        <item>South Africa</item>
+        <item>2.4%</item>
+        <item>Sea of Okhostk</item>
+        <item>Hawaii</item>
+        <item>Assam</item>
+        <item>Odisha</item>
+        <item>Madhya Pradesh</item>
+        <item>Himachal Pradesh</item>
+        <item>Gujarat</item>
+        <item>Spain</item>
+    </string-array>
+
+    <string-array name="india_QuestionSet2">
+       <item> Q.1 What was the capital of Aang Mahajanpada? </item>
+        <item> Q.2 Who was the founder of Haryark Dynasty?</item>
+        <item>Q.3 Who was the first foreigner who invaded India </item>
+        <item> Q.4 What was the name of Goutam Buddha’s mother?</item>
+        <item>Q.5 Who fought the war of Jhelum?</item>
+        <item>Q.6 Gautam Buddh’s leaving home is known as</item>
+        <item>Q.7 What was the symbol of first Teerthankar Rishabhdeva ?</item>
+        <item>Q.8 Where did Mahaveer Swami attain knowledge?</item>
+        <item>Q.9 Who established Pattilputra ?</item>
+        <item>Q.10 Which Mourya Ruler is also known as “Amitraghat”?</item>
+        <item>Q.11 Proto Shiva seal is found from which site of Indus Valley civilization?</item>
+        <item>Q.12 “Double burials” is found from which site of Indus Valley civilization?</item>
+        <item>Q.13 Which is the largest Indian site of Indus civilization?</item>
+        <item>Q.14 In Indian Valley civilization Copper was supplied from which of these places?</item>
+        <item>Q.15 Kalibanga is situated in which of these states ?</item>
+        <item>Q.16 Seven fire altars are found from which of these site?</item>
+        <item>Q.17 How many Hymes are there in Rigveda?</item>
+        <item>Q.18 Gopath brahman is associated with which of these Vedas ?</item>
+        <item>Q.19 Who wrote Ashtadhyayi ?</item>
+        <item>Q.20 Who propounded Vaishesik Philosophy ?</item>
+        <item>Q.21 “Chand Pradhyot” was the ruler of which Mahajanpada?</item>
+        <item>Q.22 Who wrote “Arthshastara?</item>
+        <item>Q.23 Chandragupta’s migration to South with Bhadra Bhahu is mentioned in which of these scriptures?</item>
+        <item>Q.24 Who has written Mudrarakshas?</item>
+        <item> Q.25 Who wrote Mrachakatikam?</item>
+        <item>Q.26 In which Rock edicts the information of Ashok’s visit to Bouddhgaya is found?</item>
+        <item>Q.27 How many parts of state has been described by Chanakya in ‘Arthashastra’?</item>
+        <item>Q.28 Which new post was created by Ashoka?</item>
+        <item>Q.29 Who was the wife of Ashoka ?</item>
+        <item>Q.30 Deepvansh Mahavansh Text is associated with which country?</item>
+
+    </string-array>
+
+    <string-array name="india_option_a2">
+        <item> Champa</item>
+        <item> Shishupal</item>
+        <item> Derious</item>
+        <item> Goutami</item>
+        <item> Ameer and Sinndar</item>
+        <item> Mahabhinishkraman</item>
+        <item> Elephant</item>
+        <item> Koushambi</item>
+        <item> Bimbsar</item>
+        <item> Chandragupta</item>
+        <item>   Mohanjodaro</item>
+        <item>   Banwali</item>
+        <item>   Ropar</item>
+        <item>   Khetdi</item>
+        <item>   Haryana</item>
+        <item>   Kalibanga</item>
+        <item>   1014</item>
+        <item>   Rigveda</item>
+        <item>   Parni</item>
+        <item>   Kapil</item>
+        <item> Avanti</item>
+        <item> Chanakya</item>
+        <item> Kalpasutra</item>
+        <item> Visharavdatta</item>
+        <item> Vishakhadatta</item>
+        <item> Rock edicts – 1</item>
+        <item> 4</item>
+        <item> Sannidhata</item>
+        <item> Tishyrakshita</item>
+        <item> Srilanka</item>
+
+    </string-array>
+
+    <string-array name="india_option_b2">
+        <item> Vaishali</item>
+        <item> Bimbsar</item>
+        <item> Sikandar</item>
+        <item> Mahamaya</item>
+        <item> Porash and Sikandar</item>
+        <item> Dharmabhishek</item>
+        <item> Bull</item>
+        <item> Nalanda</item>
+        <item> Udiyan</item>
+        <item> Bindusar</item>
+        <item>   Lothal</item>
+        <item>   Dholaveer</item>
+        <item>   Lothal</item>
+        <item>   Kolar</item>
+        <item>   Gujarat</item>
+        <item>   Rangpur</item>
+        <item>   1016</item>
+        <item>   Samveda</item>
+        <item>   Yask</item>
+        <item>   Jaimini</item>
+        <item> Vatsa</item>
+        <item> Kalidas</item>
+        <item> Mudrarakshas</item>
+        <item> Matta Mayur</item>
+        <item> Shudrak</item>
+        <item> Rock edicts 2</item>
+        <item> 5</item>
+        <item> Samahartta</item>
+        <item> Devi</item>
+        <item> Verma</item>
+
+    </string-array>
+    <string-array name="india_option_c2">
+        <item> Pushkalavati</item>
+        <item> Ajatashatru</item>
+        <item> Selyucus</item>
+        <item> Yashodhara</item>
+        <item> Yodhey and Sikandar</item>
+        <item> Dharmchakra paravartan</item>
+        <item> Lion</item>
+        <item> Jumbhikagram</item>
+        <item> Shishunag</item>
+        <item> Ashok</item>
+        <item>   Kalibanga</item>
+        <item>   Surkotda</item>
+        <item>   Kalibanga</item>
+        <item>   Kirthar</item>
+        <item>   Rajasthan</item>
+        <item>   Mohanjodaro</item>
+        <item>   1028</item>
+        <item>   Yajurveda</item>
+        <item>   Patanjali</item>
+        <item>   Uluk Kanad</item>
+        <item> Matsya</item>
+        <item> Kumargupta</item>
+        <item> Parishist Parvn</item>
+        <item> Nagarjun</item>
+        <item> Banbhatt</item>
+        <item> Rock edicts 8</item>
+        <item> 6</item>
+        <item> Pradeshta</item>
+        <item> Karuvaki</item>
+        <item> Thailand</item>
+    </string-array>
+    <string-array name="india_option_d2">
+        <item> Koushambi</item>
+        <item> Udiyan</item>
+        <item> Philip</item>
+        <item> Chelna</item>
+        <item> Ghananand and Sikandar</item>
+        <item> Mahaparinirvana</item>
+        <item> Blue lotus</item>
+        <item> Anantpuri</item>
+        <item> Chandragupta</item>
+        <item> Dashrath</item>
+        <item>   Banwali</item>
+        <item>   Lothal</item>
+        <item>   Dholaveer</item>
+        <item>   Afghanistan</item>
+        <item>   Punjab</item>
+        <item>   Amari</item>
+        <item>   1046</item>
+        <item>   Atherva Veda</item>
+        <item>   Bhas</item>
+        <item>   Badrayan</item>
+        <item> Ashmaka</item>
+        <item> Kalhan</item>
+        <item> Bhadrabhahu charitra</item>
+        <item> Bhavbhuti</item>
+        <item> Bhas</item>
+        <item> Rock edicts13</item>
+        <item> 7</item>
+        <item> Dhammahamatra</item>
+        <item> All of these</item>
+        <item> Kambodiya</item>
+    </string-array>
+
+    <string-array name="india_answer_set2">
+        <item> Champa</item>
+        <item> Bimbsar</item>
+        <item> Derious</item>
+        <item> Mahamaya</item>
+        <item> Porash and Sikandar</item>
+        <item> Mahabhinishkraman</item>
+        <item> Bull</item>
+        <item> Jumbhikagram</item>
+        <item> Udiyan</item>
+        <item> Bindusar</item>
+        <item>   Mohanjodaro</item>
+        <item>   Lothal</item>
+        <item>   Dholaveer</item>
+        <item>   Khetdi</item>
+        <item>   Haryana</item>
+        <item>   Kalibanga</item>
+        <item>   1028</item>
+        <item>   Atherva Veda</item>
+        <item>   Parni</item>
+        <item>   Uluk Kanad</item>
+        <item> Avanti</item>
+        <item> Chanakya</item>
+        <item> Kalpasutra</item>
+        <item> Visharavdatta</item>
+        <item> Shudrak</item>
+        <item> Rock edicts 8</item>
+        <item> 7</item>
+        <item> Dhammahamatra</item>
+        <item> All of these</item>
+        <item> Srilanka</item>
+    </string-array>
+
+    <string-array name="india_QuestionSet3">
+
+       <item> Q.1 Who was victorious in Dasrajan war?</item>
+        <item> Q.2 What was the name of river Chinab known during vedic period?</item>
+        <item>Q.3 Which brahman text describes the Rituals of ploughing</item>
+        <item>  Q.4 “Satyamev Jayte” is taken from which of these text ?</item>
+        <item>  Q.5 First mention of four Ashrams is found</item>
+        <item>Q.6 Which is the Oldest Religious scripture?</item>
+        <item> Q.7 What do you mean by ‘Bhag and Bali’</item>
+        <item> Q.8 Which principle Mahaveer swami added into the four principles of Parshvanath ?</item>
+        <item>Q.9 Who presided the first Buddhist council ?</item>
+        <item> Q.10 ”Nothing definite can be said about any subject. What is this Jain principal known as?</item>
+        <item> Q.11 Which state government has recently launched "one family, one job" scheme?</item>
+        <item> Q.12  National youth day is celebrated every year?</item>
+        <item>Q.13  India has recently announced the launch of Mission Gaganyaan in December 2021, tell us which country in the world will be doing this?</item>
+        <item>Q.14  Which country has recently changed its name to Republic of North Macedonia?</item>
+        <item>Q.15  Who has been awarded the Philip Kotler award recently?</item>
+        <item>Q.16  Recently, Geeta Gopinath has taken over as Chief Economist of IMF, tell who is the Chief Economist of IMF so far?</item>
+        <item>Q.17  Recently, the Central Government has announced what percentage of reservation to economically backward upper castes?</item>
+        <item>Q.18  Recently, who has become the first player to win the Hopman Cup three times?</item>
+        <item>Q.19  Recently, International Braille Day was celebrated on 04 January 2019, tell which International Braille Day it was?</item>
+        <item>Q.20  Recently, who has received the Best Actor Award at the 76th Golden Globe Award?</item>
+        <item>Q.21  Recently, who has been appointed as Chairman of Digital Payment Committee by RBI?</item>
+        <item>Q.22  Which team has recently won the Pro Kabaddi Season-6 title?</item>
+        <item>Q.23  India has recently created history by winning Test series for the first time in which country?</item>
+        <item>Q.24  Recently, it has been announced to increase 5,000 seats in Jawahar Navodaya Vidyalaya, which will now be total?</item>
+        <item>Q.25  Recently, which member of USA Cricket ICC has become?</item>
+        <item>Q.26  Recently, which 2 countries have decided to officially leave UNESCO?</item>
+        <item>Q.27  Recently, the merger of which 3 banks has been approved by the Central Government?</item>
+        <item>Q.28  Recently, Prasad personality Kader Khan has passed away, was he?</item>
+        <item>Q.29  Recently, Prasad Person Ramakant Achrekar has passed away, was he?</item>
+        <item>Q.30  Which country has recently become the first country in the world to land on the other side of the moon?</item>
+        <item>Q.31  Mangal Pandey was a sepoy at?</item>
+        <item>Q.32 Second battle of Panipat was fought between?</item>
+        <item>Q.33  Who had given the slogan of Do or Die during All India Congress Committee in Bombay and ratified the Quit India resolution?</item>
+        <item>Q.34  Who was nominated President of the Indian National Congress after the resignation of Subhash Chandra Bose?</item>
+    </string-array>
+
+    <string-array name="india_option_a3">
+        <item> Sudas</item>
+        <item> Visttata</item>
+        <item> Satpath</item>
+        <item> Kathopnishad</item>
+        <item> Jabalopnishada</item>
+        <item> Bhagvat Puran</item>
+        <item> Worship of god</item>
+        <item> Ahinsha</item>
+        <item> Mahakasyapa</item>
+        <item> Anishwarbad</item>
+        <item> Rajasthan</item>
+        <item> 12 January</item>
+        <item> second</item>
+        <item> Greece</item>
+        <item> Rahul Gandhi</item>
+        <item> 11th</item>
+        <item> 4%</item>
+        <item> Rafael Nadal</item>
+        <item> first</item>
+        <item> Christian Bale</item>
+        <item> Abhinav Mishra</item>
+        <item> Gujarat Fortune Giants</item>
+        <item> England</item>
+        <item> 34000</item>
+        <item> 105th</item>
+        <item> Nepal and Canada</item>
+        <item> Axis Bank, Vijaya Bank and Canara Bank</item>
+        <item> actor</item>
+        <item> Cricket instructor</item>
+        <item> Japan</item>
+        <item> Royal Gorkha Rifle</item>
+        <item> Babur and Lodi</item>
+        <item> Mahatma Gandhi</item>
+        <item> Abul Kalam Azad</item>
+    </string-array>
+    
+    <string-array name="india_option_b3">
+        <item> Bhalnas</item>
+        <item> Askani</item>
+        <item> Aitray</item>
+        <item> Mundkopnishad</item>
+        <item> Brihadaranyak upanishada</item>
+        <item> Vayu Puran</item>
+        <item> Havi</item>
+        <item> Aprigrah</item>
+        <item> Gunabhanda</item>
+        <item> Janbad</item>
+        <item> Madhya Pradesh</item>
+        <item> January 10</item>
+        <item> fourth</item>
+        <item> Macedonia</item>
+        <item> Uddhav Thackeray</item>
+        <item> 10th</item>
+        <item> 10%</item>
+        <item> Novak Djokovic</item>
+        <item> third</item>
+        <item> Justin Herwitz</item>
+        <item> Suresh Pratap Singh</item>
+        <item> Dabang Delhi</item>
+        <item> Australia</item>
+        <item> 51000</item>
+        <item> 105th</item>
+        <item> America and Israel</item>
+        <item> Bank of Baroda, Vijaya Bank and Dena Bank</item>
+        <item> Scientist</item>
+        <item> Former Chief Minister</item>
+        <item> Russia</item>
+        <item> 34th Bengal Native Infantary</item>
+        <item> Akbar and Hemu</item>
+        <item> Jawaharlal Nehru</item>
+        <item> Rajendra Prasad</item>
+    </string-array>
+
+    <string-array name="india_option_c3">
+        <item> Shivi</item>
+        <item> Vipasha</item>
+        <item> Gopath</item>
+        <item> Swetasvataronishada</item>
+        <item> Prashnopnishada</item>
+        <item> Matsya puran</item>
+        <item> Sacrifices in yagya</item>
+        <item> Asteya</item>
+        <item> Sabbakami</item>
+        <item> Syadbaad</item>
+        <item> Chhattisgarh</item>
+        <item> 11 January</item>
+        <item> fifth</item>
+        <item> Albania</item>
+        <item> Narendra Modi</item>
+        <item> 15th</item>
+        <item> 13%</item>
+        <item> Andy Murray</item>
+        <item> fifth</item>
+        <item> Rami Malek</item>
+        <item> Nandan Nilekani</item>
+        <item> Puneari platoon</item>
+        <item> South Africa</item>
+        <item> 46000</item>
+        <item> 100th</item>
+        <item> Bahrain and Mongolia</item>
+        <item> Indian Bank, Vijaya Bank and Punjab National Bank</item>
+        <item> Former Chief Minister</item>
+        <item> singer</item>
+        <item> China</item>
+        <item> Sikh Regiment</item>
+        <item> Mughal and British</item>
+        <item> Subhash Chandra Bose</item>
+        <item> Pattabhi Sitaramaiyya</item>
+    </string-array>
+
+    <string-array name="india_option_d3">
+        <item> Turvas</item>
+        <item> Purushni</item>
+        <item> Koshambi</item>
+        <item> Sounak</item>
+        <item> Kenoupnishad</item>
+        <item> Harivansh puran</item>
+        <item> Tax</item>
+        <item> Brahmacharya</item>
+        <item> Stholbhadra</item>
+        <item> Karmawad</item>
+        <item> Sikkim</item>
+        <item> 9 January</item>
+        <item> Eighth</item>
+        <item> Serbia</item>
+        <item> Nitish Kumar</item>
+        <item> 18th</item>
+        <item> 18%</item>
+        <item> Roger Federer</item>
+        <item> Eighth</item>
+        <item> Mahershala Ali</item>
+        <item> Jaman Rakhila</item>
+        <item> Bengaluru Bulls</item>
+        <item> New Zealand</item>
+        <item> 67000</item>
+        <item> 110th</item>
+        <item> Afghanistan and Israel</item>
+        <item> Bank of Baroda, UCO Bank and ICICI Bank</item>
+        <item> Former Chief Minister</item>
+        <item> Author</item>
+        <item> America</item>
+        <item> None of above</item>
+        <item> Akbar and Lodi</item>
+        <item> Jayaprakash Narayan</item>
+        <item> Vallabhbhai Patel</item>
+    </string-array>
+
+    <string-array name="india_answer_set3">
+        <item> Sudas</item>
+        <item> Visttata</item>
+        <item> Satpath</item>
+        <item> Mundkopnishad</item>
+        <item> Jabalopnishada</item>
+        <item> Bhagvat Puran</item>
+        <item> Tax</item>
+        <item> Brahmacharya</item>
+        <item> Mahakasyapa</item>
+        <item> Syadbaad</item>
+        <item> Sikkim</item>
+        <item> 12 January</item>
+        <item> fourth</item>
+        <item> Macedonia</item>
+        <item> Narendra Modi</item>
+        <item> 11th</item>
+        <item> 10%</item>
+        <item> Roger Federer</item>
+        <item> first</item>
+        <item> Rami Malek</item>
+        <item> Nandan Nilekani</item>
+        <item> Bengaluru Bulls</item>
+        <item> Australia</item>
+        <item> 51000</item>
+        <item> 105th</item>
+        <item> America and Israel</item>
+        <item> Bank of Baroda, Vijaya Bank and Dena Bank</item>
+        <item> actor</item>
+        <item> Cricket instructor</item>
+        <item> China</item>
+        <item> 34th Bengal Native Infantary</item>
+        <item> Akbar and Hemu</item>
+        <item> Mahatma Gandhi</item>
+        <item> Rajendra Prasad</item>
+    </string-array>
+
+    <string-array name="india_QuestionSet4">
+        <item>Q.1 Which of the following commission was appointed by the Central Government on Union-State relations in 1983?</item>
+        <item>Q.2 Which of the following taxes are levied by the Union but are collected and appropriated by the states?</item>
+        <item>Q.3  Which of the following taxes are imposed and collected by the state government?</item>
+        <item> Q.4 Which of the following tax is levied and collected by the Union government but the proceeds are distributed between the Union and states?</item>
+        <item>Q.5 Which of the following is levied and collected by the Union government?</item>
+        <item>Q.6 Which of the article deals with the grants in aid by the Union government to the states?</item>
+        <item>Q.7 Which of the following article deals with the election of the Vice-president?</item>
+        <item>Q.8 Who can remove  the Vice-President from his office ?</item>
+        <item>Q.9 The term of office of the Vice-president is as follows?</item>
+        <item>Q.10 The Vice-president is the ex-officio chairman of the Rajya sabha?</item>
+        <item>Q.11 Which one of the following article deals with the appointment of the Prime Minister and other ministers?</item>
+        <item>Q.12 The Prime Minister is appointed by which one of the following?</item>
+        <item>Q.13 Who among the following shall communicate to the president all the decisions of the council of ministers under article 78?</item>
+        <item>Q.14 The total number of ministers including the prime ministers shall not exceed-</item>
+        <item>Q.15 The Supreme Court at present contains the following number of Judges?</item>
+        <item>Q.16 Who among the following appoints the Chief Justice and other Judges of the Supreme Court?</item>
+        <item> Q.17 Which of the following are the powers of the Supreme Court?</item>
+        <item>Q.18 Which  article of the constitution of India provides the composition and jurisdiction of the Supreme Court of India?</item>
+        <item>Q.19 The National Judiciary Appointments Commission (NJAC) consists of the following persons?</item>
+        <item>Q.20 Mr. T.S. Thakur is the ...................Chief Justice of India.</item>
+        <item> Q.21 What is the minimum age to become a member of Lok Sabha?</item>
+        <item>Q.22 What is the strength of total elected members of 14th Lok Sabha?</item>
+        <item>Q.23 What is the maximum strength of the Lok Sabha envisaged by the Constitution?</item>
+        <item>Q.24 How many members are elected in the Lok Sabha from the Union Territories (according to Constitutional provision)</item>
+        <item>Q.25 During the proclamation of emergency is in operation the term of Lok Sabha may be extended at a time for a period not exceeding:</item>
+        <item> Q.26 Which feature of Indian Constitution is not taken from American Constitution?</item>
+        <item>Q.27 Procedure for the amendment of the Constitution is taken form:</item>
+        <item>Q.28 The concept of Federal System in Indian Constitution is taken from:</item>
+        <item>Q.29 From which country the concept Fundamental Duties in Indian Constitution is taken?</item>
+        <item>Q.30 Emergency provisions in Indian Constitution is taken from:</item>
+
+    </string-array>
+
+    <string-array name="india_option_a4">
+        <item> Sarkariya commission</item>
+        <item> Stamp duties</item>
+        <item> Estate duty</item>
+        <item> Sales tax</item>
+        <item> Custom duty</item>
+        <item> Article 270</item>
+        <item> Article 64</item>
+        <item> President</item>
+        <item> 6 years</item>
+        <item> Rajya Sabha</item>
+        <item> Article 76</item>
+        <item> Attorney general of India</item>
+        <item> Home minister</item>
+        <item> 20% members of the Lok sabha</item>
+        <item> 25 judges</item>
+        <item> Prime minister</item>
+        <item> Original and Appellate Jurisdiction</item>
+        <item> Article 137–141</item>
+        <item> Chief Justice of India</item>
+        <item> 41st</item>
+        <item> 30 years</item>
+        <item> 545</item>
+        <item> 545 members</item>
+        <item> 20</item>
+        <item> 2.5 years</item>
+        <item> Preamble</item>
+        <item> USA</item>
+        <item> Ireland</item>
+        <item> USA</item>
+        <item> Australia</item>
+    </string-array>
+
+    <string-array name="india_option_b4">
+        <item> Dutt commission</item>
+        <item> Excise duties on medical and toilet materials</item>
+        <item> Sales tax</item>
+        <item> Income tax</item>
+        <item> Excise duty</item>
+        <item> Article 280</item>
+        <item> Article 68</item>
+        <item> Prime minister</item>
+        <item> 4 years</item>
+        <item> Lok Sabha</item>
+        <item> Article 74</item>
+        <item> President</item>
+        <item> Prime minister</item>
+        <item> 10% members of the Lok sabha</item>
+        <item> 31 judges</item>
+        <item> Vice-president</item>
+        <item> Appointment of ad-hoc judges</item>
+        <item> Article 144</item>
+        <item> Two senior most Supreme Court judges</item>
+        <item> 42nd</item>
+        <item> 18 years</item>
+        <item> 543</item>
+        <item> 550 members</item>
+        <item> 22</item>
+        <item> 1 year</item>
+        <item> Single citizenship</item>
+        <item> Russia</item>
+        <item> Australia</item>
+        <item> Russia</item>
+        <item> Japan</item>
+    </string-array>
+
+    <string-array name="india_option_c4">
+        <item> Setalvad commission</item>
+        <item> Sales tax</item>
+        <item> Land revnue</item>
+        <item> Estate duty</item>
+        <item> Estate duty</item>
+        <item> Article 275</item>
+        <item> Article 66</item>
+        <item> Parliament</item>
+        <item> 7 years</item>
+        <item> Planning Commission</item>
+        <item> Article 75</item>
+        <item> Vice-president</item>
+        <item> Attorney general</item>
+        <item> 25% members of the Lok sabha</item>
+        <item> 20 judges</item>
+        <item> Home minister</item>
+        <item> Judicial review</item>
+        <item> Article 126</item>
+        <item> The Union Minister of Law and Justice</item>
+        <item> 43rd</item>
+        <item> 25 years</item>
+        <item> 552</item>
+        <item> 552 members</item>
+        <item> 30</item>
+        <item> 1.5 years</item>
+        <item> Judicial Review</item>
+        <item> South Africa</item>
+        <item> Germany</item>
+        <item> South Africa</item>
+        <item> Canada</item>
+    </string-array>
+
+    <string-array name="india_option_d4">
+        <item>Rajamannar commission</item>
+        <item> a and b</item>
+        <item> All the above</item>
+        <item> Land revenue</item>
+        <item> All the above</item>
+        <item> Article 265</item>
+        <item> Article 62</item>
+        <item> Legislative assemblies of the state</item>
+        <item> 5 years</item>
+        <item> National Development Council</item>
+        <item> Article 72</item>
+        <item> Chief justice of India</item>
+        <item> Finance minister</item>
+        <item> 15% members of the Lok sabha</item>
+        <item> 30 judges</item>
+        <item> President</item>
+        <item> All the above”</item>
+        <item> Article 124</item>
+        <item> All the above</item>
+        <item> 44th</item>
+        <item> 35 years</item>
+        <item> 550</item>
+        <item> 535</item>
+        <item> 35</item>
+        <item> Depend on the discretion of the President</item>
+        <item> Fundamental Rights</item>
+        <item> Canada</item>
+        <item> Canada</item>
+        <item> Canada</item>
+        <item> Germany</item>
+    </string-array>
+
+    <string-array name="india_answer_set4">
+        <item> Sarkariya commission</item>
+        <item> a and b</item>
+        <item> All the above</item>
+        <item> Income tax</item>
+        <item> All the above</item>
+        <item> Article 275</item>
+        <item> Article 66</item>
+        <item> Parliament</item>
+        <item> 5 years</item>
+        <item> Rajya Sabha</item>
+        <item> Article 75</item>
+        <item> President</item>
+        <item> Prime minister</item>
+        <item> 15% members of the Lok sabha</item>
+        <item> 31 judges</item>
+        <item> President</item>
+        <item> All the above”</item>
+        <item> Article 124</item>
+        <item> All the above</item>
+        <item> 43rd</item>
+        <item> 25 years</item>
+        <item> 543</item>
+        <item> 552 members</item>
+        <item> 20</item>
+        <item> 1 year</item>
+        <item> Single citizenship</item>
+        <item> South Africa</item>
+        <item> Canada</item>
+        <item> Russia</item>
+        <item> Germany</item>
+    </string-array>
+
+    <string-array name="india_QuestionSet5">
+        <item>Q.1 Directive principles of State Policy is mentioned in …….. of the Indian constitution.</item>
+        <item>Q.2 Who is the current chairman of the National Human Rights Commission?</item>
+        <item> Q.3 Which group of the following articles of the Indian Constitution contains Directive principles of State policy?</item>
+        <item> Q.4 Which of the following article of the Constitution is directed to establish Uniform Civil Code?</item>
+        <item> Q.5 Which of the following Supreme Court decisions stated that the Directive Principles of State policy cannot override fundamental rights?</item>
+        <item> Q.6 Which Article in the Indian Constitution provides for an Election Commission in India?</item>
+        <item>  Q.7 Currently, there are how many members in the Election Commission?</item>
+        <item>  Q.8 What is the tenure of office for the Chief Election Commissioner?</item>
+        <item>  Q.9 For the Election Commission, at the district level, who acts as the district returning officer?</item>
+        <item> Q.10 Who appoints the Chief Election Commissioner of Election Commission?</item>
+        <item> Q.11 Which one of the following is true about High courts?</item>
+        <item>   Q.12 At present, how many high courts are there in India?</item>
+        <item>Q.13 Which one of the following article deals with the appointment of judges?</item>
+        <item>Q.14 High courts issue writs under article .........</item>
+        <item> Q.15 The chief justice and other judges of the high courts are appointed by which one of the following?</item>
+        <item>Q.16 Which is the oldest known system designed for the redressal of citizens grievance?</item>
+        <item>Q.17 Which was the first Indian state to establish the institution of Lokayukta?</item>
+        <item>Q.18 When did The Lokpal and Lokayuktas Act, 2013 came into force?</item>
+        <item>Q.19 Who appoints the Lokayukta and Upalokayukta?</item>
+        <item> Q.20 Which states Lokayuktas office is considered to be the strongest in terms of power and scope?</item>
+        <item>Q.21 Advocate General of the State is appointed for the period of </item>
+        <item> Q.22 Advocate General of the State submits his resignation to:</item>
+        <item>  Q.23 Which article states that each state shall have an Advocate General?</item>
+        <item> Q,24 Which one is NOT correct regarding Advocate General of State?</item>
+        <item> Q.25 What is the salary of the Advocate General of the State?</item>
+        <item>  Q.26 Which article of Indian constitution protects the civil servants from the politically motivated or vindictive action</item>
+        <item>Q.27 Which have the right to start an Indian service?</item>
+        <item>Q.28 Civil services day is observed on:</item>
+        <item>Q.29 Which Ministry/Authority has the right to remove the incompetent, inefficient and unproductive All India Service officers after 15 years of service?</item>
+        <item>Q.30 The members of the UPSC are appointed by the............. for the term of ......years.</item>
+
+    </string-array>
+
+    <string-array name="india_option_a5">
+        <item> Part I</item>
+        <item> Justice A.S. Anand</item>
+        <item> 36–51</item>
+        <item> Article 45</item>
+        <item> In State of Madras Vs. Champakam Dorairajan</item>
+        <item> Article 324</item>
+        <item> 1</item>
+        <item> 5 years or 65 years, whichever is earlier</item>
+        <item> District Magistrate</item>
+        <item> Prime Minister of India</item>
+        <item> It has original and appellate jurisdiction</item>
+        <item> 25</item>
+        <item> Article 214</item>
+        <item> 220</item>
+        <item> Prime minister</item>
+        <item> Ombudsman System</item>
+        <item> Bihar</item>
+        <item> January 2013</item>
+        <item> Governor of the state</item>
+        <item> Bihar</item>
+        <item> 5 years</item>
+        <item> Chief Judge of high court of the state</item>
+        <item> Article 194</item>
+        <item> He has the right of audience in any Court in the State Legislative</item>
+        <item> 90,000/Month</item>
+        <item> Article 109</item>
+        <item> Rajya Sabha</item>
+        <item> 23 April</item>
+        <item> Ministry of Personnel, Public Grievances and Pensions</item>
+        <item> Prime Minister, 6 years</item>
+    </string-array>
+
+    <string-array name="india_option_b5">
+        <item> Part VI</item>
+        <item> Justice H.L. Dattu</item>
+        <item> 28–48</item>
+        <item> Article 39</item>
+        <item> In Keshavananda Bharti vs. UOI</item>
+        <item> Article 128</item>
+        <item> 2</item>
+        <item> 6 years or 60 years, whichever is earlier</item>
+        <item> Police Commissioner</item>
+        <item> Chief Justice of India</item>
+        <item> It enjoys the power of judicial review</item>
+        <item> 24</item>
+        <item> Article 217</item>
+        <item> 221</item>
+        <item> Chief minister</item>
+        <item> Lokpal</item>
+        <item> Uttar Pradesh</item>
+        <item> May 2013</item>
+        <item> Chief Minister</item>
+        <item> Karnataka</item>
+        <item> 6 years</item>
+        <item> Governor of the respective states</item>
+        <item> Article 177</item>
+        <item> The Advocate General is the first law officer of a State.</item>
+        <item> 1,20000/month</item>
+        <item> Article 19</item>
+        <item> Lok Sabha</item>
+        <item> 21 July</item>
+        <item> Ministry of Home Affairs</item>
+        <item> President, 6 years</item>
+    </string-array>
+
+    <string-array name="india_option_c5">
+        <item> Part VIII</item>
+        <item> Justice S. Rajendra Babu</item>
+        <item> 42–56</item>
+        <item> Article 44</item>
+        <item> In Minerva Mills vs. UOI</item>
+        <item> Article 256</item>
+        <item> 3</item>
+        <item> 6 years or 65 years, whichever is earlier</item>
+        <item> Tehsildars</item>
+        <item> President of India</item>
+        <item> It acts as the court of law</item>
+        <item> 28</item>
+        <item> Article 226</item>
+        <item> 213</item>
+        <item> Governor’</item>
+        <item> Lokayukta</item>
+        <item> Andhra Pradesh</item>
+        <item> December 2013</item>
+        <item> Speaker of Lok Sabha</item>
+        <item> Andhra Pradesh</item>
+        <item> Decided by the President</item>
+        <item> President of India</item>
+        <item> Article 197</item>
+        <item> He receives the Pay as per fixation by Government.</item>
+        <item> Remuneration not fixed by Constitution</item>
+        <item> Article  311</item>
+        <item> Parliament</item>
+        <item> 4 November</item>
+        <item> Parliament</item>
+        <item> President , 5 years</item>
+    </string-array>
+
+    <string-array name="india_option_d5">
+        <item> Part IV</item>
+        <item> Justice K. Balakrishnan</item>
+        <item> 30–49</item>
+        <item> Article 40</item>
+        <item> In Unna Krishnan vs. State of Andhra Pradesh</item>
+        <item> Article 378</item>
+        <item> 4</item>
+        <item> 5 years or 60 years, whichever is earlier</item>
+        <item> None of the above</item>
+        <item> Lok Sabha speaker</item>
+        <item> All the above</item>
+        <item> 29</item>
+        <item> Article 216</item>
+        <item> 226</item>
+        <item> President</item>
+        <item> None of the above</item>
+        <item> Maharashtra</item>
+        <item> January 2013</item>
+        <item> Judge of High Court</item>
+        <item> Maharashtra</item>
+        <item> No fix tenure</item>
+        <item> Chief Minister of the state</item>
+        <item> Article 165</item>
+        <item> He has the voting right in the state legislature.</item>
+        <item> As decided by the President</item>
+        <item> None of the above</item>
+        <item> President</item>
+        <item> 21 April</item>
+        <item> State Government</item>
+        <item> Home minister, 6 years</item>
+    </string-array>
+
+    <string-array name="india_answer_set5">
+        <item> Part IV</item>
+        <item> Justice H.L. Dattu</item>
+        <item> 36–51</item>
+        <item> Article 44</item>
+        <item>In State of Madras Vs. Champakam Dorairajan</item>
+        <item> Article 324</item>
+        <item> 2</item>
+        <item> 6 years or 65 years, whichever is earlier</item>
+        <item> District Magistrate</item>
+        <item> President of India</item>
+        <item> All the above</item>
+        <item> 24</item>
+        <item> Article 217</item>
+        <item> 226</item>
+        <item> President</item>
+        <item> Ombudsman System</item>
+        <item> Maharashtra</item>
+        <item> January 2013</item>
+        <item> Governor of the state</item>
+        <item> Karnataka</item>
+        <item> No fix tenure</item>
+        <item> President of India</item>
+        <item> Article 165</item>
+        <item> He has the voting right in the state legislature.</item>
+        <item> Remuneration not fixed by Constitution</item>
+        <item> Article  311</item>
+        <item> Rajya Sabha</item>
+        <item> 21 April</item>
+        <item> Ministry of Personnel, Public Grievances and Pensions</item>
+        <item> President, 6 years</item>
+    </string-array>
+
+</resources>
